@@ -1,0 +1,2626 @@
+[
+  {
+    "proid": 18980,
+    "name": "מחשב נייח Lenovo ideacentre 20ISH  Intel® Core G4400 4GB 500GB INTEL FreeDos",
+    "saleprice": 1681,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 18981,
+    "name": "מחשב נייח Lenovo ideacentre 20ISH  Intel® Core G4400 8GB 500GB INTEL FreeDos",
+    "saleprice": 1881,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 18982,
+    "name": "מחשב נייח Lenovo ideacentre 20ISH  Intel® Core G4400 16GB 500GB INTEL FreeDos",
+    "saleprice": 2273,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": null
+  },
+  {
+    "proid": 18983,
+    "name": "מחשב נייח Lenovo ideacentre 20ISH  Intel® Core G4400 16GB 500GB INTEL WIN10",
+    "saleprice": 2772,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": null
+  },
+  {
+    "proid": 18984,
+    "name": "מחשב נייח Lenovo ideacentre 20ISH  Intel® Core G4400 8GB 500GB INTEL Win10",
+    "saleprice": 2381,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 18985,
+    "name": "מחשב נייח Lenovo ideacentre 20ISH  Intel® Core G4400 4GB 500GB INTEL Win10",
+    "saleprice": 2183,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 18986,
+    "name": "מחשב נייח Lenovo ideacentre 20ISH  Intel® Core G4400 4GB 128SSD+500GB INTEL Win10",
+    "saleprice": 2563,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 18987,
+    "name": "מחשב נייח Lenovo ideacentre 20ISH  Intel® Core G4400 8GB 128SSD+500GB INTEL Win10",
+    "saleprice": 2761,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 18988,
+    "name": "מחשב נייח Lenovo ideacentre 20ISH  Intel® Core G4400 16GB 128SSD+500GB INTEL WIN10",
+    "saleprice": 3152,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": null
+  },
+  {
+    "proid": 18989,
+    "name": "מחשב נייח Lenovo ideacentre 20ISH  Intel® Core G4400 16GB 128SSD+500GB INTEL FreeDos",
+    "saleprice": 2653,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": null
+  },
+  {
+    "proid": 18990,
+    "name": "מחשב נייח Lenovo ideacentre 20ISH  Intel® Core G4400 8GB 128SSD+500GB INTEL FreeDos",
+    "saleprice": 2261,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 18991,
+    "name": "מחשב נייח Lenovo ideacentre 20ISH  Intel® Core G4400 4GB 128SSD+500GB INTEL FreeDos",
+    "saleprice": 2061,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 18999,
+    "name": "מחשב Intel Core i3 Lenovo V520 Tower 10NK001XIV Tower לנובו ",
+    "saleprice": 1485,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19000,
+    "name": "מחשב נייח Lenovo Business 510 Intel® Core i3-6100 8GB 500GB INTEL FreeDos",
+    "saleprice": 2231,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19001,
+    "name": "מחשב נייח Lenovo Business 510 Intel® Core i3-6100 12GB 500GB INTEL FreeDos",
+    "saleprice": 2452,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": null
+  },
+  {
+    "proid": 19002,
+    "name": "מחשב נייח Lenovo Business 510 Intel® Core i3-6100 16GB 500GB INTEL FreeDos",
+    "saleprice": 2644,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": null
+  },
+  {
+    "proid": 19003,
+    "name": "מחשב נייח Lenovo Business 510 Intel® Core i3-6100 16GB 500GB INTEL Win10",
+    "saleprice": 3143,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": null
+  },
+  {
+    "proid": 19004,
+    "name": "מחשב נייח Lenovo Business 510 Intel® Core i3-6100 12GB 500GB INTEL Win",
+    "saleprice": 2951,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": null
+  },
+  {
+    "proid": 19005,
+    "name": "מחשב נייח Lenovo Business 510 Intel® Core i3-6100 8GB 500GB INTEL Win",
+    "saleprice": 2731,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19006,
+    "name": "מחשב נייח Lenovo Business 510 Intel® Core i3-6100 4GB 500GB INTEL Win",
+    "saleprice": 2491,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19007,
+    "name": "מחשב נייח Lenovo Business 510 Intel® Core i3-6100 8GB 128SSD + 500GB INTEL Win",
+    "saleprice": 2991,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19008,
+    "name": "מחשב נייח Lenovo Business 510 Intel® Core i3-6100 12GB 128SSD + 500GB INTEL Win",
+    "saleprice": 3323,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19009,
+    "name": "מחשב נייח Lenovo Business 510 Intel® Core i3-6100 16GB 128SSD + 500GB INTEL Win10",
+    "saleprice": 3444,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": null
+  },
+  {
+    "proid": 19010,
+    "name": "מחשב נייח Lenovo Business 510 Intel® Core i3-6100 16GB 128SSD + 500GB INTEL FreeDos",
+    "saleprice": 2994,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": null
+  },
+  {
+    "proid": 19011,
+    "name": "מחשב נייח Lenovo Business 510 Intel® Core i3-6100 12GB 128SSD + 500GB INTEL FreeDos",
+    "saleprice": 2752,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19012,
+    "name": "מחשב נייח Lenovo Business 510 Intel® Core i3-6100 8GB 128SSD + 500GB INTEL FreeDos",
+    "saleprice": 2831,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19013,
+    "name": "מחשב נייח Lenovo Business 510 Intel® Core i3-6100 4GB 128SSD + 500GB INTEL FreeDos",
+    "saleprice": 2323,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19015,
+    "name": "מחשב נייח Lenovo ThinkCentre M700 Tiny Intel® Core i3-6100T 4GB 500GB INTEL FreeDos",
+    "saleprice": 2021,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19016,
+    "name": "מחשב נייח Lenovo ThinkCentre M700 Tiny Intel® Core i3-6100T 8GB 500GB INTEL FreeDos",
+    "saleprice": 2221,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19017,
+    "name": "מחשב נייח Lenovo ThinkCentre M700 Tiny Intel® Core i3-6100T 16GB 500GB INTEL FreeDos",
+    "saleprice": 2521,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": null
+  },
+  {
+    "proid": 19018,
+    "name": "מחשב נייח Lenovo ThinkCentre M700 Tiny Intel® Core i3-6100T 16GB 500GB INTEL Win",
+    "saleprice": 2991,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19019,
+    "name": "מחשב נייח Lenovo ThinkCentre M700 Tiny Intel® Core i3-6100T 8GB 500GB INTEL Win",
+    "saleprice": 2674,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": null
+  },
+  {
+    "proid": 19020,
+    "name": "מחשב נייח Lenovo ThinkCentre M700 Tiny Intel® Core i3-6100T 4GB 500GB INTEL Win ",
+    "saleprice": 2494,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19021,
+    "name": "מחשב נייח Lenovo ThinkCentre M700 Tiny Intel® Core i3-6100T 4GB 128SSD INTEL Win ",
+    "saleprice": 2954,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": null
+  },
+  {
+    "proid": 19022,
+    "name": "מחשב נייח Lenovo ThinkCentre M700 Tiny Intel® Core i3-6100T 8GB 128SSD INTEL Win",
+    "saleprice": 3022,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19023,
+    "name": "מחשב נייח Lenovo ThinkCentre M700 Tiny Intel® Core i3-6100T 16GB 128SSD INTEL Win",
+    "saleprice": 3342,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": null
+  },
+  {
+    "proid": 19024,
+    "name": "מחשב נייח Lenovo ThinkCentre M700 Tiny Intel® Core i3-6100T 16GB 128SSD INTEL FreeDos",
+    "saleprice": 2921,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19025,
+    "name": "מחשב נייח Lenovo ThinkCentre M700 Tiny Intel® Core i3-6100T 16GB 128SSD INTEL FreeDos",
+    "saleprice": 2944,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19026,
+    "name": "מחשב נייח Lenovo ThinkCentre M700 Tiny Intel® Core i3-6100T 8GB 128SSD INTEL FreeDos",
+    "saleprice": 2621,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19027,
+    "name": "מחשב נייח Lenovo ThinkCentre M700 Tiny Intel® Core i3-6100T 4GB 128SSD INTEL FreeDos",
+    "saleprice": 2421,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20880,
+    "name": "מחשב Intel Core i7 Lenovo IdeaCentre Y720 Cube 90H2000WYS Mini Tower",
+    "saleprice": 6453,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20914,
+    "name": "מחשב Intel Core i7 Lenovo IdeaCentre Y720 Cube 90H2000YYS Mini Tower",
+    "saleprice": 9087,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20972,
+    "name": "מחשב Intel Core i7 Lenovo ThinkCentre M900 10FD001JIV Mini Tower לנובו",
+    "saleprice": 4192,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20973,
+    "name": "מחשב Intel Core i7 Lenovo IdeaCentre Y700 90DF004SIV Mini Tower לנובו",
+    "saleprice": 4650,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20984,
+    "name": "מחשב Intel Core i7 Lenovo IdeaCentre Y720 Cube 90H2000XYS לנובו",
+    "saleprice": 6829,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20989,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre M900 10FD0013IV Mini Tower לנובו",
+    "saleprice": 3390,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21002,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre M910 10MM0003IV Mini Tower לנובו",
+    "saleprice": 3189,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21005,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre M700 Tiny 10HY0052IV Mini PC לנובו",
+    "saleprice": 3293,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21007,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre Tiny M900 10FM000HIV Mini PC לנובו",
+    "saleprice": 3361,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21037,
+    "name": "מחשב Intel Core i3 Lenovo S510 10KW002MIV Tower לנובו",
+    "saleprice": 1799,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21038,
+    "name": "מחשב Intel Core i7 Lenovo S510 10KW004KIV Tower לנובו",
+    "saleprice": 2687,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21040,
+    "name": "מחשב Intel Core i7 Lenovo IdeaCentre 300-20 90DA0034IV לנובו",
+    "saleprice": 2727,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21041,
+    "name": "מחשב Intel Core i5 Lenovo S510 10KW002VIV Tower לנובו",
+    "saleprice": 2314,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21043,
+    "name": "מחשב Intel Core i7 Lenovo S510 10KW0034IV Tower לנובו",
+    "saleprice": 3381,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21044,
+    "name": "מחשב Intel Core i7 Lenovo IdeaCentre 510S 90FN009EIV Tower לנובו",
+    "saleprice": 2766,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21054,
+    "name": "מחשב Intel Pentium Lenovo ThinkCentre S510 10KW002HIV Tower לנובו",
+    "saleprice": 1837,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21060,
+    "name": "מחשב Intel Core i7 Lenovo IdeaCentre Y900 90DD008VYS Tower לנובו",
+    "saleprice": 7416,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21065,
+    "name": "מחשב Intel Core i7 Lenovo IdeaCentre Y900 90DD008CYS Mini Tower לנובו",
+    "saleprice": 9811,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21284,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre Tiny Mini PC  M710q I5-256-8GB לנובו",
+    "saleprice": 3651,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25333,
+    "name": "מחשב Intel Core i5 Lenovo V520 Tower 10NK003GIV Tower לנובו ",
+    "saleprice": 1690,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25334,
+    "name": "מחשב Intel Core i5 Lenovo V520 Tower 10NK002NIV Tower לנובו ",
+    "saleprice": 2590,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25335,
+    "name": "מחשב Intel Core i5 Lenovo V520 Tower 10NK006YIV Tower לנובו ",
+    "saleprice": 2090,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25336,
+    "name": "מחשב Intel Core i5 Lenovo V520 Tower 10NK003KIV Tower לנובו ",
+    "saleprice": 2199,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25337,
+    "name": "מחשב Intel Core i3 Lenovo V520 Tower 10NK0021IV Tower לנובו",
+    "saleprice": 1935,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25338,
+    "name": "מחשב Intel Core i5 Lenovo V520 Tower I5-256-16GB Tower לנובו ",
+    "saleprice": 2955,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25339,
+    "name": "מחשב Intel Core i5 Lenovo V520 Tower I5-500-8GB Tower לנובו ",
+    "saleprice": 1939,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25340,
+    "name": "מחשב Intel Core i3 Lenovo V520 Tower I3-500-8GB Tower לנובו ",
+    "saleprice": 1821,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25342,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre M720q Tiny 10T7004KIV Mini PC לנובו ",
+    "saleprice": 2065,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25343,
+    "name": "מחשב Intel Core i7 Lenovo ThinkCentre M720q Tiny 10T70064IV Mini PC לנובו ",
+    "saleprice": 2700,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25344,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre M720q Tiny 10T70010IV Mini PC לנובו ",
+    "saleprice": 2430,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25345,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre M720q Tiny 10T70063IV Mini PC לנובו ",
+    "saleprice": 2015,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25346,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre M720q Tiny 10T7004NIV Mini PC לנובו ",
+    "saleprice": 2490,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25347,
+    "name": "מחשב Intel Core i3 Lenovo ThinkCentre M720q Tiny 10T70062IV Mini PC לנובו ",
+    "saleprice": 1820,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25348,
+    "name": "מחשב Intel Core i3 Lenovo ThinkCentre M720q Tiny 10T70061IV Mini PC לנובו ",
+    "saleprice": 1679,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25349,
+    "name": "מחשב Intel Core i7 Lenovo ThinkCentre M720q Tiny 10T7006AIV Mini PC לנובו ",
+    "saleprice": 3865,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25350,
+    "name": "מחשב Intel Core i7 Lenovo ThinkCentre M720q Tiny 10T70069IV Mini PC לנובו ",
+    "saleprice": 3610,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25351,
+    "name": "מחשב Intel Core i3 Lenovo ThinkCentre M720q Tiny 10T70046IV Mini PC לנובו ",
+    "saleprice": 2255,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25352,
+    "name": "מחשב Lenovo Legion Y720 Tower 90H9001FYS Tower לנובו ",
+    "saleprice": 4166,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25353,
+    "name": "מחשב Lenovo Legion Y720 Tower 90H9001GYS Tower לנובו",
+    "saleprice": 5785,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25354,
+    "name": "מחשב Lenovo Legion Y720 Tower 90H9001EYS Tower לנובו",
+    "saleprice": 6300,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25355,
+    "name": "מחשב Lenovo Legion Y720 Tower 90H9001HYS Tower לנובו ",
+    "saleprice": 6099,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25356,
+    "name": "מחשב Intel Core i7 Lenovo Legion Y720 Tower 90H50037YS Tower לנובו ",
+    "saleprice": 6840,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25357,
+    "name": "מחשב Intel Core i7 Lenovo IdeaCentre Y720 Cube 90H200AVYS לנובו ",
+    "saleprice": 6639,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25358,
+    "name": "מחשב Intel Core i5 Lenovo Legion T530 Tower 90JL0052YS Tower לנובו ",
+    "saleprice": 3929,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25359,
+    "name": "מחשב Intel Core i7 Lenovo Legion T530 Tower 90JL0054YS Tower לנובו ",
+    "saleprice": 3440,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25360,
+    "name": "מחשב Intel Core i7 Lenovo Legion T530 Tower 90JL0056YS Tower לנובו ",
+    "saleprice": 4688,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25361,
+    "name": "מחשב Intel Core i7 Lenovo Legion T530 Tower 90JL005MYS Tower לנובו",
+    "saleprice": 5675,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25362,
+    "name": "מחשב Intel Core i5 Lenovo Legion T530 Tower 90JL0050YS Tower לנובו",
+    "saleprice": 3685,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25363,
+    "name": "מחשב Intel Core i7 Lenovo Legion T530 Tower 90JL005NYS Tower לנובו",
+    "saleprice": 4455,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25364,
+    "name": "מחשב Intel Core i7 Lenovo egion T530 Tower 90JL0056YS Tower לנובו ",
+    "saleprice": 5570,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25365,
+    "name": "מחשב Intel Core i5 Lenovo Legion C530 Cobe 90JX002EYS לנובו",
+    "saleprice": 3960,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25366,
+    "name": "מחשב Intel Core i5 Lenovo Legion C530 Cube 90JX002JYS לנובו",
+    "saleprice": 4170,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25367,
+    "name": "מחשב Intel Core i7 Lenovo Legion C530 Cube 90JX002PYS לנובו",
+    "saleprice": 3875,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25368,
+    "name": "מחשב Intel Core i5 Lenovo Legion C530 Cube 90JX002RYS לנובו",
+    "saleprice": 3780,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25369,
+    "name": "מחשב Intel Core i7 Lenovo Legion C530 Cube 90JX002SYS לנובו",
+    "saleprice": 6075,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25370,
+    "name": "מחשב Intel Core i3 Lenovo Ideacentre 510 90HU008CYS לנובו",
+    "saleprice": 2085,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25371,
+    "name": "מחשב Intel Core i3 Lenovo Ideacentre 510 90HU004UYS לנובו ",
+    "saleprice": 2180,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25372,
+    "name": "מחשב Intel Core i5 Lenovo Ideacentre 510 90HU008GYS לנובו",
+    "saleprice": 2317,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25374,
+    "name": "מחשב Intel Core i5 Lenovo Ideacentre 510 90HU008JYS לנובו",
+    "saleprice": 2610,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25375,
+    "name": "מחשב Intel Core i3 Lenovo Ideacentre 510 90HU0051YS Tower לנובו ",
+    "saleprice": 2310,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25376,
+    "name": "מחשב Intel Core i5 Lenovo IdeaCentre 510 90HU004WYS לנובו",
+    "saleprice": 2875,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25377,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre M920 Tower 10SF000VIV Tower לנובו ",
+    "saleprice": 2815,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26925,
+    "name": "מחשב Intel Core i7 Lenovo ThinkCentre M720q Tiny I7-512-16GB Mini PC לנובו ",
+    "saleprice": 4432,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27041,
+    "name": "מחשב Intel Core i9 Lenovo Legion T730 Tower Desktop 90JF007AYS Tower לנובו ",
+    "saleprice": 15090,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27042,
+    "name": "מחשב Intel Core i9 Lenovo Legion T730 Tower Desktop 90JF007BYS Tower לנובו  ",
+    "saleprice": 15095,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27043,
+    "name": "מחשב Intel Core i9 Lenovo Legion T730 Tower Desktop 90JF006GYS Tower לנובו ",
+    "saleprice": 11890,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27044,
+    "name": "מחשב Intel Core i7 Lenovo Legion T730 Tower 90JF007LYS Tower לנובו",
+    "saleprice": 9430,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27047,
+    "name": "מחשב Intel Core i7 Lenovo Legion T730 Tower 90JF006FYS Tower לנובו ",
+    "saleprice": 9225,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27050,
+    "name": "מחשב Intel Core i7 Lenovo Legion T730 90JF0049YS Tower לנובו",
+    "saleprice": 8330,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27052,
+    "name": "מחשב Intel Core i7 Lenovo Legion C530 90JX008XYS לנובו",
+    "saleprice": 7530,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27054,
+    "name": "מחשב Intel Core i7 Lenovo Legion C530 CUBE 90JX008WYS לנובו",
+    "saleprice": 6140,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27055,
+    "name": "מחשב Intel Core i7 Lenovo Legion T730 Tower 90JF008YYS Tower לנובו",
+    "saleprice": 6065,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27059,
+    "name": "מחשב Intel Core i7 Lenovo Legion T730 Tower 90JF0015YS Tower לנובו ",
+    "saleprice": 6079,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27060,
+    "name": "מחשב Intel Core i7 Lenovo Legion T730 Tower 90JF0016YS Tower לנובו ",
+    "saleprice": 6150,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27061,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre 530Tower I5-256-8GB Tower לנובו ",
+    "saleprice": 3180,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27121,
+    "name": "מחשב Lenovo ThinkStation P330 Tower 30C5002XIV Tower לנובו ",
+    "saleprice": 5990,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27122,
+    "name": "מחשב Intel Core i7 Lenovo ThinkStation P330 Tower 30C5003CIV Tower לנובו  ",
+    "saleprice": 4125,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27123,
+    "name": "מחשב Intel Core i7 Lenovo ThinkStation P330 Tower 30C50029IV Tower לנובו",
+    "saleprice": 4350,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27124,
+    "name": "מחשב Intel Core i7 Lenovo ThinkStation P330 Tower 30C5002SIV Tower לנובו",
+    "saleprice": 5295,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27125,
+    "name": "מחשב Intel Core i7 Lenovo ThinkStation P330 Tower 30C5002RIV Tower לנובו ",
+    "saleprice": 5490,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28111,
+    "name": "מחשב Intel Core i7 Lenovo V530 Tower 10TV003TIV Tower לנובו ",
+    "saleprice": 3315,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28113,
+    "name": "מחשב Intel Core i5 Lenovo V530 Tower 10TV003WIV Tower לנובו ",
+    "saleprice": 2625,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28114,
+    "name": "מחשב Intel Core i5 Lenovo V530 Tower 10TV001VIV Tower לנובו ",
+    "saleprice": 2280,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28115,
+    "name": "מחשב Intel Core i5 Lenovo V530 Tower 10TV0022IV Tower לנובו ",
+    "saleprice": 2465,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28116,
+    "name": "מחשב Intel Core i5 Lenovo Legion T530 90JL0051YS Tower לנובו",
+    "saleprice": 3380,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28117,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre M920 Tower 10SF002DIV Tower לנובו ",
+    "saleprice": 4125,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28118,
+    "name": "מחשב Intel Core i7 Lenovo Legion T530-28ICB 90JL009DYS Tower לנובו ",
+    "saleprice": 4597,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28119,
+    "name": "מחשב Intel Core i3 Lenovo V530 Tower 10TV004FIV Tower לנובו",
+    "saleprice": 2430,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28120,
+    "name": "מחשב Intel Core i5 Lenovo Legion T530 Tower 90JL009BYS Tower לנובו ",
+    "saleprice": 4085,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28465,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre M720q Tiny Mini PC לנובו ",
+    "saleprice": 2970,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29445,
+    "name": "מחשב Intel Core i7 Lenovo ThinkCentre M720q Tiny 10T700AMIV Mini PC לנובו  ",
+    "saleprice": 3705,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29446,
+    "name": "מחשב Intel Core i7 Lenovo V530 Tower 11BH0030IV Tower לנובו",
+    "saleprice": 3820,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29447,
+    "name": "מחשב Intel Core i7 Lenovo V530 Tower 11BH000VIV Tower לנובו  ",
+    "saleprice": 3700,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29448,
+    "name": "מחשב Intel Core i7 Lenovo V530 Tower 11BH000UIV Tower לנובו  ",
+    "saleprice": 3895,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29449,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre M720q Tiny 10T700BGIV Mini PC לנובו  ",
+    "saleprice": 2358,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29450,
+    "name": "מחשב Intel Core i3 Lenovo ThinkCentre M720q Tiny 10T700AXIV Mini PC לנובו",
+    "saleprice": 2080,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29451,
+    "name": "מחשב Intel Core i7 Lenovo Legion T730-28ICO Tower 90JF00FRYS Tower לנובו ",
+    "saleprice": 9260,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29452,
+    "name": "מחשב Intel Core i7 Lenovo Legion T730-28ICO Tower 90JF00FNYS Tower לנובו ",
+    "saleprice": 7520,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29453,
+    "name": "מחשב Intel Core i7 Lenovo Legion T730-28ICO Tower 90JF00FQYS Tower לנובו ",
+    "saleprice": 8310,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29454,
+    "name": "מחשב Intel Core i7 Lenovo Legion C730-19ICO Cube 90JH0071YS לנובו",
+    "saleprice": 7050,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29455,
+    "name": "מחשב Intel Core i3 Lenovo ThinkCentre M720q Tiny 10T700A9IV Mini PC לנובו ",
+    "saleprice": 2590,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29456,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre M720q Tiny 10T700 Mini PC לנובו ",
+    "saleprice": 3830,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29457,
+    "name": "מחשב Intel Core i5 Lenovo IdeaCentre T540-15ICB 90L100A4YS לנובו ",
+    "saleprice": 3645,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29458,
+    "name": "מחשב Intel Core i7 Lenovo IdeaCentre T540-15ICR 90LW003QYS לנובו ",
+    "saleprice": 5049,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29459,
+    "name": "מחשב Intel Core i7 Lenovo Legion C730-19ICO Cube 90JH0072YS לנובו ",
+    "saleprice": 7520,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29460,
+    "name": "מחשב Intel Core i7 Lenovo IdeaCentre T540-15ICR 90LW003RYS לנובו ",
+    "saleprice": 5430,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29461,
+    "name": "מחשב Intel Core i5 Lenovo V530 Tower 11BH001FIV Tower לנובו  ",
+    "saleprice": 2465,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29462,
+    "name": "מחשב Intel Core i7 Lenovo IdeaCentre T540-15ICB 90L100A5YS Tower לנובו ",
+    "saleprice": 4110,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29463,
+    "name": "מחשב Intel Core i7 Lenovo IdeaCentre T540-15ICB 90L100A6YS Tower לנובו ",
+    "saleprice": 4530,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29464,
+    "name": "מחשב Intel Core i7 Lenovo Ideacentre T540-15ICB 90L100A1YS Tower לנובו ",
+    "saleprice": 6100,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29466,
+    "name": "מחשב Intel Core i7 Lenovo IdeaCentre T540-15ICB 90L100A8YS Tower לנובו",
+    "saleprice": 6830,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29467,
+    "name": "מחשב Intel Core i7 Lenovo Legion T730-28ICO 90JF00GUYS לנובו ",
+    "saleprice": 7170,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29468,
+    "name": "מחשב Intel Core i7 Lenovo Ideacentre T540-15ICB 90L1009SYS לנובו ",
+    "saleprice": 4529,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29469,
+    "name": "מחשב Intel Core i7 Lenovo Legion T730-28ICO Tower 90JF00FUYS Tower לנובו ",
+    "saleprice": 6820,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29470,
+    "name": "מחשב Intel Core i7 Lenovo Legion T730-28ICO Tower 90JF00FPYS Tower לנובו ",
+    "saleprice": 7485,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29471,
+    "name": "מחשב Intel Core i5 Lenovo Ideacentre T540-15ICB 90L1009RYS לנובו ",
+    "saleprice": 5109,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29472,
+    "name": "מחשב Intel Core i7 Lenovo Ideacentre T540-15ICB 90L100A0YS לנובו ",
+    "saleprice": 5970,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29473,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre M920 Tower 10SF000UIV Tower לנובו ",
+    "saleprice": 3979,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 30714,
+    "name": "מחשב Intel Core i5 Lenovo V530 Tower I5-512-32GB Tower לנובו  ",
+    "saleprice": 4841,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31037,
+    "name": "מחשב Intel Core i3 Lenovo V530 Tower 11BH002HIV Tower לנובו  ",
+    "saleprice": 2210,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31042,
+    "name": "מחשב Intel Core i5 Lenovo IdeaCentre G5 14IMB05 90N9008BYS לנובו  ",
+    "saleprice": 4130,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31044,
+    "name": "מחשב Intel Core i5 Lenovo IdeaCentre G5-14IM 90NR0006YS לנובו  ",
+    "saleprice": 4385,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31045,
+    "name": "מחשב Intel Core i7 Lenovo IdeaCentre G5 14IMB05 90N9008FYS לנובו ",
+    "saleprice": 6540,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31048,
+    "name": "מחשב Intel Core i5 Lenovo IdeaCentre G5-14IM 90NR0008YS לנובו  ",
+    "saleprice": 4750,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31053,
+    "name": "מחשב Intel Core i7 Lenovo IdeaCentre G5 14IMB05 90NR0009YS לנובו ",
+    "saleprice": 5480,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31059,
+    "name": "מחשב Intel Core i7 Lenovo IdeaCentre G5 14IMB05 90N900B9YS לנובו  ",
+    "saleprice": 5579,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31522,
+    "name": "מחשב Intel Core i5 Lenovo V530 Tower I5-512-16Tower לנובו  ",
+    "saleprice": 4322,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31893,
+    "name": "מחשב Intel Core i3 Lenovo V50 Business Pro I3-256-4GB Tower לנובו  ",
+    "saleprice": 2639,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31894,
+    "name": "מחשב Intel Core i3 Lenovo V50 Business Pro I3-256-8GB Tower לנובו  ",
+    "saleprice": 2790,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31895,
+    "name": "מחשב Intel Core i5 Lenovo V50 Business Pro I5-256-8GB Tower לנובו  ",
+    "saleprice": 3490,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31896,
+    "name": "מחשב Intel Core i5 Lenovo V50 Business Pro I5-512-8GB Tower לנובו  ",
+    "saleprice": 3790,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31897,
+    "name": "מחשב Intel Core i5 Lenovo V50 Business Pro I5-256-16GB Tower לנובו  ",
+    "saleprice": 3785,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31898,
+    "name": "מחשב Intel Core i5 Lenovo V50 Business Pro I5-512-16GB Tower לנובו  ",
+    "saleprice": 4140,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32299,
+    "name": "מחשב Lenovo ThinkCentre M90T i7 Graphic Workstation לנובו ",
+    "saleprice": 7418,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32300,
+    "name": "מחשב Lenovo ThinkCentre M90T i7 Graphic Workstation לנובו ",
+    "saleprice": 8550,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32519,
+    "name": "מחשב Intel Core i7 Lenovo ThinkStation P340 Tiny 30DF0023IV Mini PC לנובו",
+    "saleprice": 4280,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32522,
+    "name": "מחשב Intel Core i7 Lenovo ThinkStation P340 Tiny 30DF002DIV Mini PC לנובו",
+    "saleprice": 4479,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32524,
+    "name": "מחשב Intel Core i7 Lenovo ThinkCentre M90t 11D4000SIV Mini Tower לנובו",
+    "saleprice": 5250,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32528,
+    "name": "מחשב Intel Core i7 Lenovo ThinkStation P340 30DH00GHIV Tower לנובו",
+    "saleprice": 4850,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32529,
+    "name": "מחשב Intel Core i7 Lenovo ThinkStation P340 Tower 30DH00HHIV Tower לנובו",
+    "saleprice": 4320,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32530,
+    "name": "מחשב Intel Core i7 Lenovo IdeaCentre G5 14IMB05 90N9008DYS לנובו",
+    "saleprice": 5340,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32531,
+    "name": "מחשב Intel Core i9 Lenovo ThinkStation P340 Tower 30DH00HJIV Tower לנובו",
+    "saleprice": 8350,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32533,
+    "name": "מחשב Intel Core i7 Lenovo ThinkStation P340 Tower 30DH00GWIV Tower לנובו",
+    "saleprice": 6080,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32536,
+    "name": "מחשב Lenovo ThinkStation P340 Tower 30DH00F8IV Tower לנובו",
+    "saleprice": 6350,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32537,
+    "name": "מחשב Intel Core i7 Lenovo ThinkStation P340 Tower 30DH00GUIV Tower לנובו",
+    "saleprice": 6190,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32538,
+    "name": "מחשב Intel Core i9 Lenovo ThinkStation P340 Tower 30DH00H3IV Tower לנובו",
+    "saleprice": 8875,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32542,
+    "name": "מחשב Lenovo ThinkStation P520c 30BX00BJIV Tower לנובו",
+    "saleprice": 7907,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32544,
+    "name": "מחשב Intel Core i7 Lenovo ThinkCentre M90t 11D4000UIV Tower לנובו",
+    "saleprice": 5420,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32545,
+    "name": "מחשב Intel Core i9 Lenovo Legion T7-34IM 90Q90010YS לנובו",
+    "saleprice": 9075,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32547,
+    "name": "מחשב Intel Core i7 Lenovo Legion T7-34IM 90Q9000VYS לנובו",
+    "saleprice": 8639,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32550,
+    "name": "מחשב Intel Core i7 Lenovo Legion T7-34IM 90Q9000XYS לנובו",
+    "saleprice": 9150,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32551,
+    "name": "מחשב Intel Core i7 Lenovo Legion T5 28IMB05 90NC00GYYS Tower לנובו",
+    "saleprice": 6335,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32552,
+    "name": "מחשב Intel Core i5 Lenovo Legion T5 28IMB05 90NC00FNYS לנובו",
+    "saleprice": 5065,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32554,
+    "name": "מחשב Intel Core i5 Lenovo Legion T5 28IMB05 90NC00M3YS לנובו",
+    "saleprice": 5210,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32555,
+    "name": "מחשב Intel Core i9 Lenovo ThinkCentre M90t 11D4000XIV Tower לנובו",
+    "saleprice": 7350,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32558,
+    "name": "מחשב Intel Core i9 Lenovo Legion T7-34IM 90Q90011YS Tower לנובו",
+    "saleprice": 11780,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32559,
+    "name": "מחשב Intel Core i9 Lenovo Legion T5 28IMB05 90NC00GGYS Tower לנובו",
+    "saleprice": 9510,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32561,
+    "name": "מחשב Intel Core i7 Lenovo Legion T5 28IMB05 90NC00G7YS לנובו",
+    "saleprice": 8610,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33323,
+    "name": "מחשב Intel Core i3 Lenovo ThinkCentre M70q Tiny Micro PC לנובו ",
+    "saleprice": 2689,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33352,
+    "name": "מחשב Intel Core i3 Lenovo V50 Business Pro I3-256-4GB Tower לנובו  ",
+    "saleprice": 2739,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33426,
+    "name": "מחשב Intel Core i5 Lenovo V50 Business Pro I7-512-32GB Tower לנובו  ",
+    "saleprice": 5742,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33525,
+    "name": "מחשב Intel Core i3 Lenovo ThinkCentre M70q 11DT003CIV Mini PC לנובו",
+    "saleprice": 2190,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33526,
+    "name": "מחשב Intel Core i3 Lenovo ThinkCentre M70q 11DT003FIV Mini PC לנובו",
+    "saleprice": 2470,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33528,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre M70q 11DT0043IV Mini PC לנובו",
+    "saleprice": 2905,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33529,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre M70q 11DT004SIV Mini PC לנובו",
+    "saleprice": 2829,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33531,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre M70q 11DT004TIV Mini PC לנובו",
+    "saleprice": 3175,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33532,
+    "name": "מחשב Intel Core i7 Lenovo ThinkCentre M70q 11DT008QIV Mini PC לנובו",
+    "saleprice": 4210,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33534,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre M70q 11DT003YIV Mini PC לנובו",
+    "saleprice": 2700,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33535,
+    "name": "מחשב Intel Core i7 Lenovo ThinkCentre M70q 11DT008PIV Mini PC לנובו",
+    "saleprice": 4230,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33545,
+    "name": "מחשב נייח Lenovo Legion T5 26AMR5 - 90RC0092YS לנובו",
+    "saleprice": 7410,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33546,
+    "name": "מחשב נייח Lenovo Legion T5 26AMR5 - 90RC008QYS לנובו",
+    "saleprice": 5600,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33548,
+    "name": "מחשב נייח Lenovo Legion T5-26AMR 90RC008SYS לנובו",
+    "saleprice": 8635,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33549,
+    "name": "מחשב נייח Lenovo Legion T5-26AMR 90RC0095YS לנובו",
+    "saleprice": 7890,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33550,
+    "name": "מחשב נייח Lenovo Legion T5 26AMR5 - 90RC008FYS לנובו",
+    "saleprice": 5710,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33559,
+    "name": "מחשב Intel Core i7 Lenovo ThinkCentre M80t I7-1000-64GB  לנובו",
+    "saleprice": 6642,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33959,
+    "name": "מחשב Intel Core i7 Lenovo V50 Business Pro I7-512-16GB Tower לנובו  ",
+    "saleprice": 4998,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33960,
+    "name": "מחשב Intel Core i5 Lenovo V50 Business Pro I7-1000-8GB Tower לנובו  ",
+    "saleprice": 5331,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34138,
+    "name": "מחשב Intel Core i7 Lenovo Legion T5 26IOB6 90RT00B6YS Tower לנובו",
+    "saleprice": 7040,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34143,
+    "name": "מחשב Intel Core i7 Lenovo Legion T5 26IOB6 90RT00BFYS Tower לנובו",
+    "saleprice": 8765,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34145,
+    "name": "מחשב Intel Core i5 Lenovo Legion T5 26IOB6 90RT00B2YS Tower לנובו",
+    "saleprice": 6180,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34149,
+    "name": "מחשב AMD Ryzen 7 Lenovo Legion T5 26AMR5 90RC0097YS לנובו",
+    "saleprice": 7380,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34151,
+    "name": "מחשב Intel Core i7 Lenovo Legion T5 26IOB6 90RT00B7YS Tower לנובו",
+    "saleprice": 8551,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34153,
+    "name": "מחשב Intel Core i7 Lenovo Legion T5 26IOB6 90RT00ALYS Tower לנובו",
+    "saleprice": 8870,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34548,
+    "name": "מחשב Intel Core i7 Lenovo V50 Business Pro I7-512-24GB Tower לנובו  ",
+    "saleprice": 5433,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35483,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre M70q I5-512-16GB Mini PC לנובו",
+    "saleprice": 4322,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35708,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre M70q 11MY0034IV Mini PC לנובו",
+    "saleprice": 2605,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35710,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre M70q 11MY002GIV Tiny Micro PC לנובו ",
+    "saleprice": 2135,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35711,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre M70q 11MY0031IV Mini PC לנובו",
+    "saleprice": 2941,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35712,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre M70q 11MY002UIV Mini PC לנובו",
+    "saleprice": 2329,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35715,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre M70q 11MY003AIV Tiny Micro PC לנובו ",
+    "saleprice": 2140,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35716,
+    "name": "מחשב Intel Core i7 Lenovo ThinkCentre M70q 11MY002LIV Mini PC לנובו",
+    "saleprice": 3340,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35718,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre M70q 11MY0030IV Mini PC לנובו",
+    "saleprice": 2521,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35719,
+    "name": "מחשב Intel Core i7 Lenovo ThinkCentre M70q 11MY0038IV Mini PC לנובו",
+    "saleprice": 4150,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35720,
+    "name": "מחשב Intel Core i3 Lenovo ThinkCentre M70q 11MY002RIV Mini PC לנובו",
+    "saleprice": 2319,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35721,
+    "name": "מחשב Intel Core i9 Lenovo ThinkCentre M70q Gen 2 11MY0039IV Mini PC לנובו",
+    "saleprice": 4050,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36310,
+    "name": "מחשב Intel Core i3 Lenovo ThinkCentre M70q I3-256-8GB Mini PC לנובו",
+    "saleprice": 88,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36435,
+    "name": "מחשב Intel Core i5 Lenovo V50t 13IMB 11ED003HIV Tower לנובו",
+    "saleprice": 2370,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36441,
+    "name": "מחשב Intel Core i3 Lenovo V50t 13IMB 11ED003NIV Tower לנובו",
+    "saleprice": 1740,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36446,
+    "name": "מחשב Intel Core i3 Lenovo V50t 13IMB 11ED003RIV Tower לנובו",
+    "saleprice": 1980,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36452,
+    "name": "מחשב Intel Core i5 Lenovo V50t 13IMB 11ED003PIV Tower לנובו",
+    "saleprice": 2045,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36453,
+    "name": "מחשב Intel Core i7 Lenovo ThinkStation P350 Tiny 30EF000DIV Mini PC לנובו",
+    "saleprice": 3900,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36456,
+    "name": "מחשב Intel Core i7 Lenovo ThinkStation P350 Tiny 30EF000GIV Mini PC לנובו",
+    "saleprice": 4520,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36465,
+    "name": "מחשב Intel Core i7 Lenovo ThinkStation P350 Tower 30E3008EIV Tower לנובו",
+    "saleprice": 6979,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36468,
+    "name": "מחשב Intel Core i3 Lenovo ThinkCentre M70q 11MY002DIV Mini PC לנובו",
+    "saleprice": 1589,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36472,
+    "name": "מחשב Intel Core i9 Lenovo ThinkStation P350 Tower 30E30085IV Tower לנובו",
+    "saleprice": 7195,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36473,
+    "name": "מחשב Intel Core i9 Lenovo ThinkStation P350 Tower 30E3001HIV Tower לנובו",
+    "saleprice": 5760,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36474,
+    "name": "מחשב Intel Core i5 Lenovo V50t Gen 2-13IOB 11QE001UIV לנובו",
+    "saleprice": 56,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36476,
+    "name": "מחשב Intel Core i7 Lenovo V50t Gen 2-13IOB 11QE001WIV לנובו",
+    "saleprice": 71,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36478,
+    "name": "מחשב Intel Core i3 Lenovo V50t Gen 2-13IOB 11QE001PIV Tower לנובו",
+    "saleprice": 1750,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36482,
+    "name": "מחשב Intel Core i5 Lenovo V50t Gen 2-13IOB 11QE001TIV לנובו",
+    "saleprice": 63,
+    "catCode": 234,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36485,
+    "name": "מחשב Intel Core i7 Lenovo ThinkStation P350 Tower 30E3000LIV Tower לנובו",
+    "saleprice": 5435,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36486,
+    "name": "מחשב Intel Core i7 Lenovo ThinkStation P350 Tower 30E3001BIV Tower לנובו",
+    "saleprice": 4909,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36865,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre M70q I5-512-8GB Mini PC לנובו",
+    "saleprice": 106,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36980,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre neo V50 i5-12400 8GB 256GB WIN10Pro לנובו",
+    "saleprice": 95,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": "<span style=\"FONT-SIZE: 12pt; FONT-FAMILY: &quot;Arial&quot;,&quot;sans-serif&quot;; COLOR: black; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: HE\"><font size=\"2\">WLAN + Bluetooth | 3-in-1 Card Reader | 1xVGA 1xDP 1xHDMI | RJ45 | 4xUSB3.2, 4xUSB 2.0, 1x USB-C 3.2 Gen 1 | serial (9-pin)</font></span>"
+  },
+  {
+    "proid": 36981,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre neo V50 i5-12400 8GB 512GB WIN10Pro לנובו",
+    "saleprice": 104,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": "<span style=\"FONT-SIZE: 12pt; FONT-FAMILY: &quot;Arial&quot;,&quot;sans-serif&quot;; COLOR: black; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: HE\"><font size=\"2\">WLAN + Bluetooth | 3-in-1 Card Reader | 1xVGA 1xDP 1xHDMI | RJ45 | 4xUSB3.2, 4xUSB 2.0, 1x USB-C 3.2 Gen 1 | serial (9-pin)</font></span>"
+  },
+  {
+    "proid": 36982,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre neo V50 i5-12400 16GB 512GB WIN10Pro לנובו",
+    "saleprice": 112,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": "<span style=\"FONT-SIZE: 12pt; FONT-FAMILY: &quot;Arial&quot;,&quot;sans-serif&quot;; COLOR: black; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: HE\"><font size=\"2\">WLAN + Bluetooth | 3-in-1 Card Reader | 1xVGA 1xDP 1xHDMI | RJ45 | 4xUSB3.2, 4xUSB 2.0, 1x USB-C 3.2 Gen 1 | serial (9-pin)</font></span>"
+  },
+  {
+    "proid": 36983,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre neo V50 i5-12400 16GB 1TB WIN10Pro לנובו",
+    "saleprice": 123,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": "<span style=\"FONT-SIZE: 12pt; FONT-FAMILY: &quot;Arial&quot;,&quot;sans-serif&quot;; COLOR: black; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: HE\"><font size=\"2\">WLAN + Bluetooth | 3-in-1 Card Reader | 1xVGA 1xDP 1xHDMI | RJ45 | 4xUSB3.2, 4xUSB 2.0, 1x USB-C 3.2 Gen 1 | serial (9-pin)</font></span>"
+  },
+  {
+    "proid": 37130,
+    "name": "מחשב Intel Core i7 Lenovo Legion T7 34IMZ5 90Q9008RYS Tower לנובו",
+    "saleprice": 8179,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37131,
+    "name": "מחשב Intel Core i9 Lenovo ThinkStation P350 Tiny 30EF002LIV Mini PC לנובו",
+    "saleprice": 5790,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37133,
+    "name": "מחשב Intel Core i7 Lenovo Legion T7 34IMZ5 90Q9008SYS Tower לנובו",
+    "saleprice": 8795,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37134,
+    "name": "מחשב Intel Core i7 Lenovo Legion T7 34IAZ7 90S2004XYS Tower לנובו",
+    "saleprice": 7919,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37135,
+    "name": "מחשב Intel Core i7 Lenovo Legion T7 34IAZ7 90S20058YS Tower לנובו",
+    "saleprice": 6290,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37136,
+    "name": "מחשב Intel Core i7 Lenovo Legion T7 90S2004VYS Tower לנובו",
+    "saleprice": 7829,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37145,
+    "name": "מחשב Intel Core i7 Lenovo Legion T5 26IAB7 90SV0062YS Tower לנובו",
+    "saleprice": 7250,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37146,
+    "name": "מחשב Intel Core i7 Lenovo ThinkStation P350 Tower 30E30058IV Tower לנובו",
+    "saleprice": 5710,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37350,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre M70q I5-512-8GB Mini PC לנובו",
+    "saleprice": 106,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37430,
+    "name": "מחשב Intel Core i7 Lenovo ThinkCentre M70q I7-512-16GB  Mini PC לנובו",
+    "saleprice": 4721,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37969,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre M70q I5-256-8GB Mini PC לנובו",
+    "saleprice": 102,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38043,
+    "name": "מחשב נייח Intel Core i5 Lenovo ThinkCentre M70q Gen 3 11T30038IV לנובו",
+    "saleprice": 60,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38044,
+    "name": "מחשב נייח Intel Core i5 Lenovo ThinkCentre M70q Gen 3 11T3002WIV לנובו",
+    "saleprice": 78,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38045,
+    "name": "מחשב נייח Intel Core i5 Lenovo ThinkCentre M70q Gen 3 11T3002UIV לנובו",
+    "saleprice": 75,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38047,
+    "name": "מחשב נייח Intel Core i5 Lenovo ThinkCentre M70q Gen 3 11T3002XIV לנובו",
+    "saleprice": 89,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38048,
+    "name": "מחשב נייח Intel Core i3 Lenovo ThinkCentre M70q Gen 3 11T30034IV לנובו",
+    "saleprice": 1740,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38144,
+    "name": "מחשב נייח Intel Core i7 Lenovo ThinkCentre M70q Gen 2 11T30036IV לנובו",
+    "saleprice": 94,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38153,
+    "name": "מחשב נייח Intel Core i7 Lenovo ThinkCentre M70q Gen 3 11T30030IV לנובו",
+    "saleprice": 113,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38157,
+    "name": "מחשב נייח Intel Core i9 Lenovo Legion T5 26IAB7 90SV006KYS לנובו",
+    "saleprice": 219,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38158,
+    "name": "מחשב נייח Intel Core i9 Lenovo Legion T5 26IAB7 90SV0060YS לנובו",
+    "saleprice": 231,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38159,
+    "name": "מחשב נייח Intel Core i7 Lenovo Legion T7 34IAZ7 90S2005NYS לנובו",
+    "saleprice": 193,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38160,
+    "name": "מחשב נייח Intel Core i7 Lenovo Legion T7 34IAZ7 90S2005RYS לנובו",
+    "saleprice": 237,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38161,
+    "name": "מחשב נייח Intel Core i9 Lenovo Legion T7 34IAZ7 90S20055YS לנובו",
+    "saleprice": 310,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38162,
+    "name": "מחשב נייח Intel Core i9 Lenovo Legion T7 34IAZ7 90S2005QYS לנובו",
+    "saleprice": 10750,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38474,
+    "name": "מחשב נייח Intel Core i3 Lenovo ThinkCentre M70q Gen 3 I3-256-8GB לנובו",
+    "saleprice": 2421,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38742,
+    "name": "מחשב Intel Core i5 Lenovo ThinkCentre neo V50 i5-10400 16GB 512GB WIN10Pro לנובו",
+    "saleprice": 106,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": "<span style=\"FONT-SIZE: 12pt; FONT-FAMILY: &quot;Arial&quot;,&quot;sans-serif&quot;; COLOR: black; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: HE\"><font size=\"2\">WLAN + Bluetooth | 3-in-1 Card Reader | 1xVGA 1xDP 1xHDMI | RJ45 | 4xUSB3.2, 4xUSB 2.0, 1x USB-C 3.2 Gen 1 | serial (9-pin)</font></span>"
+  },
+  {
+    "proid": 39087,
+    "name": "מחשב נייח Intel Core i3 Lenovo ThinkCentre neo 50T 11SE001VIV לנובו",
+    "saleprice": 46,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": "<span style=\"FONT-SIZE: 12pt; FONT-FAMILY: &quot;Arial&quot;,&quot;sans-serif&quot;; COLOR: black; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: HE\"><font size=\"2\">WLAN + Bluetooth | 3-in-1 Card Reader | 1xVGA 1xDP 1xHDMI | RJ45 | 4xUSB3.2, 4xUSB 2.0, 1x USB-C 3.2 Gen 1 | serial (9-pin)</font></span>"
+  },
+  {
+    "proid": 39089,
+    "name": "מחשב נייח Intel Core i5 Lenovo ThinkCentre neo 50T 11SE0024IV לנובו",
+    "saleprice": 66,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": "<span style=\"FONT-SIZE: 12pt; FONT-FAMILY: &quot;Arial&quot;,&quot;sans-serif&quot;; COLOR: black; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: HE\"><font size=\"2\">WLAN + Bluetooth | 3-in-1 Card Reader | 1xVGA 1xDP 1xHDMI | RJ45 | 4xUSB3.2, 4xUSB 2.0, 1x USB-C 3.2 Gen 1 | serial (9-pin)</font></span>"
+  },
+  {
+    "proid": 39091,
+    "name": "מחשב נייח Intel Core i7 Lenovo IdeaCentre Gaming 5 17IAB7 90T1003SYS לנובו",
+    "saleprice": 170,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39093,
+    "name": "מחשב נייח Intel Core i5 Lenovo ideacentre Gaming 5 17IAB7 90T1002CYS לנובו",
+    "saleprice": 121,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39094,
+    "name": "מחשב נייח Intel Core i7 Lenovo ThinkCentre neo 50t 11SE001YIV לנובו",
+    "saleprice": 87,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": "<span style=\"FONT-SIZE: 12pt; FONT-FAMILY: &quot;Arial&quot;,&quot;sans-serif&quot;; COLOR: black; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: HE\"><font size=\"2\">WLAN + Bluetooth | 3-in-1 Card Reader | 1xVGA 1xDP 1xHDMI | RJ45 | 4xUSB3.2, 4xUSB 2.0, 1x USB-C 3.2 Gen 1 | serial (9-pin)</font></span>"
+  },
+  {
+    "proid": 39095,
+    "name": "מחשב נייח Intel Core i5 Lenovo Legion T5 26IAB7 90SV005VYS לנובו",
+    "saleprice": 120,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39154,
+    "name": "מחשב נייח Intel Core i7 Lenovo IdeaCentre Gaming 5 17IAB7 90T1003WYS לנובו",
+    "saleprice": 185,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39155,
+    "name": "מחשב נייח Intel Core i7 Lenovo Legion T5 26IAB7 90SV005WYS לנובו",
+    "saleprice": 180,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39195,
+    "name": "מחשב נייח Intel Core i5 Lenovo Legion T5 26IRB8 90UU0032YS לנובו",
+    "saleprice": 164,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39196,
+    "name": "מחשב נייח Intel Core i7 Lenovo Legion T5 26IAB7 I712700F 90SV005YYS לנובו",
+    "saleprice": 201,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39197,
+    "name": "מחשב נייח Intel Core i7 Lenovo IdeaCentre Gaming 5 17IAB7 90T1003KYS לנובו",
+    "saleprice": 5850,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39198,
+    "name": "מחשב נייח Intel Core i7 Lenovo IdeaCentre Gaming 5 17IAB7 90T1003VYS לנובו",
+    "saleprice": 183,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39199,
+    "name": "מחשב נייח Intel Core i7 Lenovo IdeaCentre Gaming 5 17IAB7 90T1003YYS לנובו",
+    "saleprice": 173,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39200,
+    "name": "מחשב נייח Intel Core i7 Lenovo Legion T5 26IRB8 90UU002UYS לנובו",
+    "saleprice": 183,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39201,
+    "name": "מחשב נייח Intel Core i5 Lenovo IdeaCentre Gaming 5 17IAB7 90T1003GYS לנובו",
+    "saleprice": 155,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39202,
+    "name": "מחשב נייח Intel Core i9 Lenovo ThinkStation P360 Tower 30FM003WIV לנובו",
+    "saleprice": 280,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39203,
+    "name": "מחשב נייח Intel Core i7 Lenovo IdeaCentre Gaming 5 17IAB7 90T1003TYS לנובו",
+    "saleprice": 171,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39204,
+    "name": "מחשב נייח Intel Core i7 Lenovo Legion T5 26IRB8 90UU004AYS לנובו",
+    "saleprice": 181,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39205,
+    "name": "מחשב נייח Intel Core i5 Lenovo Legion T5 26IRB8 90UU002RYS לנובו",
+    "saleprice": 145,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39206,
+    "name": "מחשב נייח Intel Core i7 Lenovo IdeaCentre Gaming 5 17IAB7 90T10047YS לנובו",
+    "saleprice": 161,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39207,
+    "name": "מחשב נייח Intel Core i5 Lenovo DT Legion T5 26IRB8 90UU002TYS לנובו",
+    "saleprice": 167,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39208,
+    "name": "מחשב נייח Intel Core i7 Lenovo DT Legion T5 26IRB8 90UU002XYS לנובו",
+    "saleprice": 212,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39209,
+    "name": "מחשב נייח Intel Core i7 Lenovo Legion T5 26IAB7 90SV006HYS לנובו",
+    "saleprice": 195,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39210,
+    "name": "מחשב נייח Intel Core i7 Lenovo Legion T5 26IRB8 90UU002WYS לנובו",
+    "saleprice": 193,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39211,
+    "name": "מחשב נייח Intel Core i7 Lenovo Legion T5 26IRB8 90UU002VYS לנובו",
+    "saleprice": 205,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39214,
+    "name": "מחשב נייח Intel Core i7 Lenovo IdeaCentre Gaming 5 17IAB7 90T1003RYS לנובו",
+    "saleprice": 159,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39215,
+    "name": "מחשב נייח Intel Core i5 Lenovo Legion T5 26IAB7 90SV005SYS לנובו",
+    "saleprice": 156,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39216,
+    "name": "מחשב נייח Intel Core i5 Lenovo Legion T5 26IAB7 90SV005UYS לנובו",
+    "saleprice": 147,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39220,
+    "name": "מחשב נייח Intel Core i7 Lenovo ThinkStation P360 Tower 30FM006XIV לנובו",
+    "saleprice": 347,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39223,
+    "name": "מחשב נייח Intel Core i9 Lenovo Legion T5 26IAB7 90SV0063YS לנובו",
+    "saleprice": 256,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39231,
+    "name": "מחשב נייח Intel Core i7 Lenovo Legion T7 34IAZ7 90S2004UYS לנובו",
+    "saleprice": 314,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39233,
+    "name": "מחשב נייח Intel Core i7 Lenovo Legion T7 34IRZ8 90V7001QYS לנובו",
+    "saleprice": 362,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39234,
+    "name": "מחשב נייח Intel Core i9 Lenovo Legion T7 34IRZ8 90V7001SYS לנובו",
+    "saleprice": 13932,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39236,
+    "name": "מחשב נייח Intel Core i9 Lenovo Legion T7 34IAZ7 90S20059YS לנובו",
+    "saleprice": 371,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39240,
+    "name": "מחשב נייח Intel Core i9 Lenovo Legion T7 34IRZ8 90V7003EYS לנובו",
+    "saleprice": 401,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39243,
+    "name": "מחשב נייח Intel Core i9 Lenovo Legion T7 34IRZ8 90V7001UYS לנובו",
+    "saleprice": 478,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39244,
+    "name": "מחשב נייח Intel Core i9 Lenovo Legion T7 34IRZ8 90V7003FYS לנובו",
+    "saleprice": 467,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39245,
+    "name": "מחשב נייח Intel Core i9 Lenovo Legion T7 34IRZ8 90V7001TYS לנובו",
+    "saleprice": 438,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39248,
+    "name": "מחשב נייח Intel Core i9 Lenovo Legion T7 34IRZ8 90V70038YS לנובו",
+    "saleprice": 549,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39402,
+    "name": "מחשב נייח Intel Core i7 Lenovo ThinkCentre M70q Gen 3 I7-512-16GB לנובו",
+    "saleprice": 4421,
+    "catCode": 235,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39709,
+    "name": "מחשב נייח Intel Core i7 Lenovo Legion T7 34IRZ8 90V7004EYS לנובו",
+    "saleprice": 300,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39711,
+    "name": "מחשב נייח Intel Core i7 Lenovo Legion T7 34IRZ8 90V7004DYS לנובו",
+    "saleprice": 325,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39712,
+    "name": "מחשב נייח Intel Core i9 Lenovo Legion T7 34IRZ8 90V7004FYS לנובו",
+    "saleprice": 353,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39713,
+    "name": "מחשב נייח Intel Core i9 Lenovo Legion T7 34IRZ8 90V7004GYS לנובו",
+    "saleprice": 373,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39715,
+    "name": "מחשב נייח Intel Core i9 Lenovo Legion T7 34IRZ8 90V70036YS לנובו",
+    "saleprice": 503,
+    "catCode": 229,
+    "parentId": 228,
+    "additionalProps": ""
+  }
+]

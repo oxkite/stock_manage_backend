@@ -1,0 +1,2034 @@
+[
+  {
+    "proid": 17592,
+    "name": "טאבלט Microsoft Surface Pro 4 Core i7 256GB SSD 8GB RAM מיקרוסופט",
+    "saleprice": 5283,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 17593,
+    "name": "טאבלט Microsoft Surface Pro 4 Core i5 256GB מיקרוסופט",
+    "saleprice": 4110,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 17594,
+    "name": "טאבלט Microsoft Surface Book Core i7 256GB מיקרוסופט",
+    "saleprice": 11378,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": null
+  },
+  {
+    "proid": 17595,
+    "name": "טאבלט Microsoft Surface Book Core i5 128GB מיקרוסופט",
+    "saleprice": 7491,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 17596,
+    "name": "טאבלט Microsoft Surface Book Core i5 256GB מיקרוסופט",
+    "saleprice": 6290,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 17597,
+    "name": "טאבלט Microsoft Surface Pro 4 Core i7 512GB SSD 16GB RAM מיקרוסופט",
+    "saleprice": 9939,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": null
+  },
+  {
+    "proid": 17598,
+    "name": "טאבלט Microsoft Surface Book Core i7 512GB מיקרוסופט",
+    "saleprice": 9664,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 17600,
+    "name": "טאבלט Microsoft Surface Pro 4 Core i7 256GB SSD 16GB RAM מיקרוסופט",
+    "saleprice": 8465,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 17605,
+    "name": "טאבלט Microsoft Surface Book Core i7 1TB מיקרוסופט",
+    "saleprice": 14379,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19395,
+    "name": "טאבלט Microsoft Surface Pro 3 Core i7 256GB מיקרוסופט",
+    "saleprice": 8865,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": null
+  },
+  {
+    "proid": 19396,
+    "name": "טאבלט Microsoft Surface Pro 4 Core i5 256GB מיקרוסופט",
+    "saleprice": 4150,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": null
+  },
+  {
+    "proid": 19397,
+    "name": "טאבלט Microsoft Surface Pro 4 Core i5 512GB מיקרוסופט",
+    "saleprice": 8173,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19398,
+    "name": "טאבלט Microsoft Surface Pro 3 Core i7 512GB מיקרוסופט",
+    "saleprice": 10120,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": null
+  },
+  {
+    "proid": 19399,
+    "name": "טאבלט Microsoft Surface Pro 4 Core i5 256GB SSD 16GB RAM מיקרוסופט",
+    "saleprice": 828,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": null
+  },
+  {
+    "proid": 19401,
+    "name": "טאבלט Microsoft Surface Pro 4 Core i7 1TB SSD 16GB RAM מיקרוסופט",
+    "saleprice": 12450,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19497,
+    "name": "טאבלט Microsoft Surface Pro 4 Core i5 128GB מיקרוסופט",
+    "saleprice": 5320,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": null
+  },
+  {
+    "proid": 19662,
+    "name": "טאבלט Microsoft Surface Book Core i7 512GB SSD 16GB RAM NVIDIA GeForce GTX 965M מיקרוסופט",
+    "saleprice": 8905,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19663,
+    "name": "טאבלט Microsoft Surface Book Core i7 1TB SSD 16GB RAM NVIDIA GeForce GTX 965M מיקרוסופט",
+    "saleprice": 9743,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20876,
+    "name": "טאבלט Microsoft Surface Pro Core i5 256GB 8GB",
+    "saleprice": 3965,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20877,
+    "name": "טאבלט Microsoft Surface Pro Core i7 256GB 8GB",
+    "saleprice": 6350,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20878,
+    "name": "טאבלט Microsoft Surface Pro Core i7 1TB 16GB",
+    "saleprice": 9175,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20879,
+    "name": "טאבלט Microsoft Surface Pro Core i7 512GB 16GB",
+    "saleprice": 8463,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21373,
+    "name": "טאבלט Microsoft Surface Pro Core i5 128GB 4GB",
+    "saleprice": 4019,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 22245,
+    "name": "טאבלט Microsoft Surface Pro 4 Core i5 256GB Bundle מיקרוסופט",
+    "saleprice": 7522,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 22649,
+    "name": "טאבלט Microsoft Surface Book 2 Core i7 1TB SSD 16GB RAM NVIDIA GeForce 6GB מיקרוסופט",
+    "saleprice": 13850,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 22650,
+    "name": "טאבלט Microsoft Surface Book 2 Core i7 512GB SSD 16GB RAM NVIDIA GeForce 6GB מיקרוסופט",
+    "saleprice": 10022,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 23445,
+    "name": "מחשב נייד Microsoft Surface Laptop Platinum Core i5 8GB 128GB מיקרוסופט",
+    "saleprice": 4690,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25199,
+    "name": "טאבלט Microsoft Surface Pro 6 Core i5 8GB 256GB מיקרוסופט",
+    "saleprice": 5475,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25200,
+    "name": "טאבלט Microsoft Surface Pro 6 Core i7 8GB 256GB מיקרוסופט",
+    "saleprice": 6375,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25201,
+    "name": "טאבלט Microsoft New Surface Pro Core i5 8GB 256GB 4G LTE מיקרוסופט",
+    "saleprice": 5680,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25202,
+    "name": "טאבלט Microsoft Surface Book 2 Core i7 256GB SSD 16GB RAM NVIDIA GeForce 6GB מיקרוסופט",
+    "saleprice": 10775,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25203,
+    "name": "טאבלט Microsoft Surface Book 2 Core i7 512GB SSD 16GB RAM NVIDIA GeForce 2GB מיקרוסופט",
+    "saleprice": 11560,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25204,
+    "name": "טאבלט Microsoft Surface Book 2 Core i7 256GB SSD 8GB RAM NVIDIA GeForce 2GB מיקרוסופט",
+    "saleprice": 8390,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25207,
+    "name": "מחשב נייד Microsoft Surface Laptop Platinum Core i5 8GB 256GB מיקרוסופט ",
+    "saleprice": 4929,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25208,
+    "name": "מחשב נייד Microsoft Surface Laptop Platinum Core i7 8GB 256GB מיקרוסופט ",
+    "saleprice": 6290,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25209,
+    "name": "מחשב נייד Microsoft Surface Laptop Platinum Core i7 16GB 512GB מיקרוסופט ",
+    "saleprice": 6985,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25210,
+    "name": "מחשב נייד Microsoft Surface Laptop Platinum Core i7 16GB 1TB מיקרוסופט ",
+    "saleprice": 10735,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25211,
+    "name": "טאבלט Microsoft Surface Book 2 Core i7 512GB SSD 8GB RAM NVIDIA GeForce 2GB מיקרוסופט",
+    "saleprice": 11425,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25212,
+    "name": "טאבלט Microsoft Surface Book 2 Core i7 1000GB SSD 16GB RAM NVIDIA GeForce 2GB מיקרוסופט",
+    "saleprice": 12920,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25213,
+    "name": "טאבלט Microsoft Surface Pro 6 Core i5 8GB 128GB מיקרוסופט",
+    "saleprice": 4935,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25214,
+    "name": "טאבלט Microsoft Surface Pro 6 Core i7 8GB 512GB מיקרוסופט",
+    "saleprice": 6747,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25215,
+    "name": "טאבלט Microsoft Surface Pro 6 Core i7 16GB 512GB מיקרוסופט",
+    "saleprice": 8570,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25216,
+    "name": "טאבלט Microsoft Surface Pro 6 Core i7 16GB 1000GB מיקרוסופט",
+    "saleprice": 8895,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25521,
+    "name": "טאבלט Microsoft Surface GO 8GB 128GB מיקרוסופט ",
+    "saleprice": 3670,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25522,
+    "name": "טאבלט Microsoft Surface GO 8GB 128GB LTE מיקרוסופט ",
+    "saleprice": 4155,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25523,
+    "name": "טאבלט Microsoft Surface GO 8GB 256GB LTE מיקרוסופט ",
+    "saleprice": 4590,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25633,
+    "name": "מחשב משולב סרפס סטודיו Microsoft Surface Studio 2 I7-1000-16GB",
+    "saleprice": 18142,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25634,
+    "name": "מחשב משולב סרפס סטודיו Microsoft Surface Studio 2 I7-1000-32GB",
+    "saleprice": 21456,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25635,
+    "name": "מחשב משולב סרפס סטודיו Microsoft Surface Studio 2 I7-2000-32GB",
+    "saleprice": 23900,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26179,
+    "name": "טאבלט Microsoft Surface GO 4GB 64GB מיקרוסופט",
+    "saleprice": 2459,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26180,
+    "name": "טאבלט Microsoft Surface Pro Core M3 128GB 4GB מיקרוסופט",
+    "saleprice": 3255,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26181,
+    "name": "טאבלט Microsoft New Surface Pro Core i5 4GB 128GB 4G LTE מיקרוסופט",
+    "saleprice": 5519,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26783,
+    "name": "טאבלט Microsoft Surface Pro 4 Core i5 128GB מיקרוסופט",
+    "saleprice": 4372,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26784,
+    "name": "טאבלט Microsoft Surface Pro 4 Core i5 128GB מיקרוסופט",
+    "saleprice": 3750,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26785,
+    "name": "טאבלט Microsoft Surface Pro 4 Core i7 512GB SSD 8GB RAM מיקרוסופט",
+    "saleprice": 7220,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26786,
+    "name": "טאבלט Microsoft Surface Pro 4 Core i7 512GB SSD 16GB RAM מיקרוסופט",
+    "saleprice": 6274,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26787,
+    "name": "טאבלט Microsoft Surface Pro Core i7 512GB 8GB",
+    "saleprice": 7946,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26800,
+    "name": "מחשב נייד Microsoft Surface Laptop burgundy Core i5 8GB 128GB מיקרוסופט",
+    "saleprice": 4690,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26801,
+    "name": "מחשב נייד Microsoft Surface Laptop burgundy Core i5 8GB 256GB מיקרוסופט ",
+    "saleprice": 5029,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26802,
+    "name": "מחשב נייד Microsoft Surface Laptop burgundy Core i7 8GB 256GB מיקרוסופט ",
+    "saleprice": 5990,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26803,
+    "name": "מחשב נייד Microsoft Surface Laptop burgundy Core i7 16GB 512GB מיקרוסופט ",
+    "saleprice": 7785,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26804,
+    "name": "מחשב נייד Microsoft Surface Laptop burgundy Core i7 16GB 1TB מיקרוסופט ",
+    "saleprice": 10755,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26805,
+    "name": "מחשב נייד Microsoft Surface Laptop 2 Platinum Core i5 8GB 128GB מיקרוסופט",
+    "saleprice": 4525,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26806,
+    "name": "מחשב נייד Microsoft Surface Laptop 2 Platinum Core i5 8GB 256GB מיקרוסופט ",
+    "saleprice": 4822,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26807,
+    "name": "מחשב נייד Microsoft Surface Laptop 2 Platinum Core i7 8GB 256GB מיקרוסופט ",
+    "saleprice": 5590,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26808,
+    "name": "מחשב נייד Microsoft Surface Laptop 2 Platinum Core i7 16GB 512GB מיקרוסופט ",
+    "saleprice": 6239,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26809,
+    "name": "מחשב נייד Microsoft Surface Laptop 2 Platinum Core i7 16GB 1TB מיקרוסופט ",
+    "saleprice": 6957,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26811,
+    "name": "מחשב נייד Microsoft Surface Laptop 2 Cobalt Blue Core i7 16GB 512GB מיקרוסופט ",
+    "saleprice": 311,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26812,
+    "name": "מחשב נייד Microsoft Surface Laptop 2 Cobalt Blue Core i7 8GB 256GB מיקרוסופט ",
+    "saleprice": 272,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26813,
+    "name": "מחשב נייד Microsoft Surface Laptop 2 Cobalt Blue Core i5 8GB 256GB מיקרוסופט ",
+    "saleprice": 4822,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28211,
+    "name": "טאבלט Microsoft Surface Pro 7 Core i5 8GB 128GB מיקרוסופט ",
+    "saleprice": 5020,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28212,
+    "name": "טאבלט Microsoft Surface Pro 7 Core i7-10th Gen.  16GB 256GB מיקרוסופט",
+    "saleprice": 8255,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28213,
+    "name": "טאבלט Microsoft Surface Pro 7 Core i3-10th Gen.  4GB 128GB מיקרוסופט",
+    "saleprice": 3874,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28227,
+    "name": "טאבלט Microsoft Surface Pro 7 Core i7-10th Gen.  16GB 1TB מיקרוסופט",
+    "saleprice": 9329,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28228,
+    "name": "טאבלט Microsoft Surface Pro 7 Core i5-10th Gen.  8GB 128GB מיקרוסופט",
+    "saleprice": 4495,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28235,
+    "name": "טאבלט Microsoft Surface Pro 7 Core i7-10th Gen.  8GB 512GB מיקרוסופט",
+    "saleprice": 9529,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28236,
+    "name": "טאבלט Microsoft Surface Pro 7 Core i7-10th Gen.  8GB 256GB מיקרוסופט",
+    "saleprice": 8025,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28237,
+    "name": "טאבלט Microsoft Surface Pro 7 Core i5-10th Gen.  16GB 256GB מיקרוסופט",
+    "saleprice": 6250,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28361,
+    "name": "מחשב נייד Microsoft Surface Laptop 3 Platinum Core i5-10th Gen 8GB 256GB מיקרוסופט",
+    "saleprice": 4782,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28362,
+    "name": "מחשב נייד Microsoft Surface Laptop 3 Black Core i5-10th Gen 8GB 256GB מיקרוסופט",
+    "saleprice": 4782,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28363,
+    "name": "מחשב נייד Microsoft Surface Laptop 3 Sandstone Metal  Core i5-10th Gen 8GB 256GB מיקרוסופט",
+    "saleprice": 4782,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28364,
+    "name": "מחשב נייד Microsoft Surface Laptop 3 Platinum Core i7-10th Gen 16GB 256GB מיקרוסופט",
+    "saleprice": 7580,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28365,
+    "name": "מחשב נייד Microsoft Surface Laptop 3 Black Core i7-10th Gen 16GB 256GB מיקרוסופט",
+    "saleprice": 7580,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28366,
+    "name": "מחשב נייד Microsoft Surface Laptop 3 Sandstone Metal Core i7-10th Gen 16GB 256GB מיקרוסופט",
+    "saleprice": 6921,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28367,
+    "name": "מחשב נייד Microsoft Surface Laptop 3 Platinum Core i5-10th Gen 8GB 128GB מיקרוסופט",
+    "saleprice": 4790,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28368,
+    "name": "מחשב נייד Microsoft Surface Laptop 3 Black Core i5-10th Gen 8GB 128GB מיקרוסופט",
+    "saleprice": 4790,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28369,
+    "name": "מחשב נייד Microsoft Surface Laptop 3 Sandstone Metal  Core i5-10th Gen 8GB 128GB מיקרוסופט",
+    "saleprice": 4790,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28370,
+    "name": "מחשב נייד Microsoft Surface Laptop 3 Platinum Core i7-10th Gen 16GB 512GB מיקרוסופט",
+    "saleprice": 6995,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28371,
+    "name": "מחשב נייד Microsoft Surface Laptop 3 Black Core i7-10th Gen 16GB 512GB מיקרוסופט",
+    "saleprice": 6995,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28372,
+    "name": "מחשב נייד Microsoft Surface Laptop 3 Sandstone Metal Core i7-10th Gen 16GB 512GB מיקרוסופט",
+    "saleprice": 6995,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28373,
+    "name": "מחשב נייד Microsoft Surface Laptop 3 Platinum Core i7-10th Gen 16GB 1TB מיקרוסופט",
+    "saleprice": 7580,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28374,
+    "name": "מחשב נייד Microsoft Surface Laptop 3 Black Core i7-10th Gen 16GB 1TB מיקרוסופט",
+    "saleprice": 7580,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28375,
+    "name": "מחשב נייד Microsoft Surface Laptop 3 Sandstone Metal Core i7-10th Gen 16GB 1TB מיקרוסופט",
+    "saleprice": 7580,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28385,
+    "name": "טאבלט Microsoft Surface Pro 7 Core i7 16GB 512GB מיקרוסופט",
+    "saleprice": 8919,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28393,
+    "name": "טאבלט Microsoft Surface Book 2 Core i5 256GB SSD 16GB RAM מיקרוסופט",
+    "saleprice": 11781,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28411,
+    "name": "טאבלט Microsoft Surface Pro 7 Core i7-10th Gen.  16GB 512SSDמיקרוסופט",
+    "saleprice": 13150,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28617,
+    "name": "טאבלט Microsoft Surface Pro X 16GB 256GB מיקרוסופט",
+    "saleprice": 7129,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29261,
+    "name": "מחשב משולב Microsoft Surface Hub 2S All-in-One 50 inch Computer",
+    "saleprice": 54790,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29474,
+    "name": "טאבלט Microsoft Surface Pro X 13 8GB 128GB LTE מיקרוסופט  ",
+    "saleprice": 4955,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29982,
+    "name": "טאבלט Microsoft Surface Book Core i7 1000GB SSD 16GB RAM NVIDIA GeForce GTX 965M מיקרוסופט",
+    "saleprice": 11601,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 30289,
+    "name": "טאבלט Microsoft Surface Book 3 15 Core i7 32GB 2TB NVIDIA GeForce 6GB ",
+    "saleprice": 16549,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 30290,
+    "name": "טאבלט Microsoft Surface Book 3 15 Core i7 32GB 512GB NVIDIA GeForce 6GB ",
+    "saleprice": 13600,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 30291,
+    "name": "טאבלט Microsoft Surface Book 3 15 Core i7 32GB 1TB NVIDIA GeForce 6GB ",
+    "saleprice": 13879,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 30292,
+    "name": "טאבלט Microsoft Surface Book 3 15 Core i7 16GB 256GB מיקרוסופט ",
+    "saleprice": 329,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 30293,
+    "name": "טאבלט Microsoft Surface Book 3 13.5 Core i7 32GB 1TB NVIDIA Geforce 4GB",
+    "saleprice": 12490,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 30294,
+    "name": "טאבלט Microsoft Surface Book 3 13.5 Core i7 16GB 256GB NVIDIA Geforce 4GB",
+    "saleprice": 9573,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 30295,
+    "name": "טאבלט Microsoft Surface Book 3 13.5 Core i7 32GB 512GB NVIDIA Geforce 4GB",
+    "saleprice": 12279,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 30377,
+    "name": "טאבלט Microsoft Surface Pro 3 Core i5 128GB מיקרוסופט מציאון עודפים",
+    "saleprice": 3150,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 30378,
+    "name": "טאבלט Microsoft Surface Pro 3 Core i7 256GB מיקרוסופט מציאון עודפים",
+    "saleprice": 4190,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 30379,
+    "name": "טאבלט Microsoft Surface Pro 3 Core i5 256GB מיקרוסופט מציאון עודפים",
+    "saleprice": 3629,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 30380,
+    "name": "טאבלט Microsoft Surface Pro 3 Core i7 512GB מיקרוסופט מציאון עודפים",
+    "saleprice": 4655,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 30508,
+    "name": "מחשב נייד Microsoft Surface Laptop Platinum Core i5 8GB 256GB מיקרוסופט",
+    "saleprice": 4950,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 30509,
+    "name": "מחשב נייד Microsoft Surface Laptop Sandstone Metal Core i5 8GB 256GB מיקרוסופט",
+    "saleprice": 4950,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 30511,
+    "name": "Microsoft Surface Studio 2 / 1TB / Intel Core i7 - 32GB RAM ‏28 ‏אינטש מיקרוסופט  מציאון עודפים",
+    "saleprice": 20890,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 30512,
+    "name": "Microsoft Surface Studio 2 / 2TB / Intel Core i7 - 32GB RAM ‏28 ‏אינטש מיקרוסופט  מציאון עודפים",
+    "saleprice": 23189,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31243,
+    "name": "מחשב נייד Microsoft Surface Laptop Go 2 Platinum Core i5 8GB 256GB מיקרוסופט",
+    "saleprice": 4680,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31244,
+    "name": "מחשב נייד Microsoft Surface Laptop Go 2 Ice Blue Core i5 8GB 256GB מיקרוסופט",
+    "saleprice": 4680,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31245,
+    "name": "מחשב נייד Microsoft Surface Laptop Go 2 Sandstone Core i5 8GB 256GB מיקרוסופט",
+    "saleprice": 4680,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31729,
+    "name": "טאבלט Microsoft Surface Pro X 13 16GB 512GB LTE מיקרוסופט",
+    "saleprice": 8199,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31730,
+    "name": "טאבלט Microsoft Surface Pro X 13 8GB 256GB LTE מיקרוסופט ",
+    "saleprice": 6650,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32444,
+    "name": "טאבלט Microsoft Surface Pro 7 Plus 12.3 Core i3 8GB 128GB Wi-Fi מיקרוסופט",
+    "saleprice": 4182,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32445,
+    "name": "טאבלט Microsoft Surface Pro 7 Plus 12.3 Core i5 8GB 256GB Wi-Fi מיקרוסופט",
+    "saleprice": 6099,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32446,
+    "name": "טאבלט Microsoft Surface Pro 7 Plus 12.3 Core i5 8GB 128GB Wi-Fi מיקרוסופט",
+    "saleprice": 4695,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32447,
+    "name": "טאבלט Microsoft Surface Pro 7 Plus 12.3 Core i7 16GB 1TB Wi-Fi מיקרוסופט",
+    "saleprice": 10390,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32448,
+    "name": "טאבלט Microsoft Surface Pro 7 Plus 12.3 Core i7 16GB 256GB Wi-Fi מיקרוסופט",
+    "saleprice": 7175,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32449,
+    "name": "טאבלט Microsoft Surface Pro 7 Plus 12.3 Core i7 16GB 512GB Wi-Fi מיקרוסופט",
+    "saleprice": 8547,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32450,
+    "name": "טאבלט Microsoft Surface Pro 7 Plus 12.3 Core i5 8GB 512GB Wi-Fi מיקרוסופט",
+    "saleprice": 6990,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32451,
+    "name": "טאבלט Microsoft Surface Pro 7 Plus 12.3 Core i5 8GB 256GB LTE מיקרוסופט",
+    "saleprice": 6710,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32452,
+    "name": "טאבלט Microsoft Surface Pro 7 Plus 12.3 Core i5 16GB 256GB LTE מיקרוסופט",
+    "saleprice": 7879,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32491,
+    "name": "טאבלט Microsoft Surface GO 2 4GB 64GB מיקרוסופט",
+    "saleprice": 3431,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32515,
+    "name": "Microsoft Surface Studio 2 / 1TB / Intel Core i7 - 16GB RAM ‏28 ‏אינטש מיקרוסופט מציאון עודפים",
+    "saleprice": 24345,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32541,
+    "name": "טאבלט Microsoft Surface Book 2 Core i5 256GB SSD 8GB RAM 2GB מיקרוסופט",
+    "saleprice": 8420,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33379,
+    "name": "מחשב נייד Microsoft Surface Laptop 4 Black 13.5 Core i5-11th Gen 8GB 512GB מיקרוסופט",
+    "saleprice": 5864,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33380,
+    "name": "מחשב נייד Microsoft Surface Laptop 4 Ice Blue 13.5 Core i5-11th Gen 8GB 512GB מיקרוסופט",
+    "saleprice": 5864,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33381,
+    "name": "מחשב נייד Microsoft Surface Laptop 4 Sand Stone 13.5 Core i5-11th Gen 8GB 512GB מיקרוסופט",
+    "saleprice": 5864,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33382,
+    "name": "מחשב נייד Microsoft Surface Laptop 4 Platinum 13.5 Core i5-11th Gen 8GB 512GB מיקרוסופט",
+    "saleprice": 5864,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33383,
+    "name": "מחשב נייד Microsoft Surface Laptop 4 Black 13.5 Core i5-11th Gen 16GB 512GB מיקרוסופט",
+    "saleprice": 6626,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33384,
+    "name": "מחשב נייד Microsoft Surface Laptop 4 Ice Blue 13.5 Core i5-11th Gen 16GB 512GB מיקרוסופט",
+    "saleprice": 6626,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33385,
+    "name": "מחשב נייד Microsoft Surface Laptop 4 Sand Stone 13.5 Core i5-11th Gen 16GB 512GB מיקרוסופט",
+    "saleprice": 6626,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33386,
+    "name": "מחשב נייד Microsoft Surface Laptop 4 Platinum 13.5 Core i5-11th Gen 16GB 512GB מיקרוסופט",
+    "saleprice": 6626,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33387,
+    "name": "מחשב נייד Microsoft Surface Laptop 4 Black 13.5 Core i7-11th Gen 16GB 512GB מיקרוסופט",
+    "saleprice": 7263,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33388,
+    "name": "מחשב נייד Microsoft Surface Laptop 4 Ice Blue 13.5 Core i7-11th Gen 16GB 512GB מיקרוסופט",
+    "saleprice": 7263,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33389,
+    "name": "מחשב נייד Microsoft Surface Laptop 4 Sand Stone 13.5 Core i7-11th Gen 16GB 512GB מיקרוסופט",
+    "saleprice": 7263,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33390,
+    "name": "מחשב נייד Microsoft Surface Laptop 4 Platinum 13.5 Core i7-11th Gen 16GB 512GB מיקרוסופט",
+    "saleprice": 7263,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33391,
+    "name": "מחשב נייד Microsoft Surface Laptop 4 Black 13.5 Core i7-11th Gen 16GB 1TB מיקרוסופט",
+    "saleprice": 9108,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33392,
+    "name": "מחשב נייד Microsoft Surface Laptop 4 Ice Blue 13.5 Core i7-11th Gen 16GB 1TB מיקרוסופט",
+    "saleprice": 9108,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33393,
+    "name": "מחשב נייד Microsoft Surface Laptop 4 Sand Stone 13.5 Core i7-11th Gen 16GB 1TB מיקרוסופט",
+    "saleprice": 9108,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33394,
+    "name": "מחשב נייד Microsoft Surface Laptop 4 Platinum 13.5 Core i7-11th Gen 16GB 1TB מיקרוסופט",
+    "saleprice": 9108,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33621,
+    "name": "מחשב משולב Microsoft Surface Hub 2S All-in-One 85 inch Computer",
+    "saleprice": 123900,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33662,
+    "name": "מחשב נייד Microsoft Surface Laptop 4 Black 15 Core i7-11th Gen 16GB 512GB מיקרוסופט",
+    "saleprice": 8290,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33663,
+    "name": "מחשב נייד Microsoft Surface Laptop 4 Ice Blue 15 Core i7-11th Gen 16GB 512GB מיקרוסופט",
+    "saleprice": 8290,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33664,
+    "name": "מחשב נייד Microsoft Surface Laptop 4 Sand Stone 15 Core i7-11th Gen 16GB 512GB מיקרוסופט",
+    "saleprice": 8290,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33665,
+    "name": "מחשב נייד Microsoft Surface Laptop 4 Platinum 15 Core i7-11th Gen 16GB 512GB מיקרוסופט",
+    "saleprice": 8290,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34130,
+    "name": "מחשב נייד Microsoft Surface Laptop 4 Black 13.5 Ryzen 5 8GB 256GB מיקרוסופט",
+    "saleprice": 4165,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34131,
+    "name": "מחשב נייד Microsoft Surface Laptop 4 Ice Blue 13.5 Ryzen 5 8GB 256GB מיקרוסופט",
+    "saleprice": 6876,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34132,
+    "name": "מחשב נייד Microsoft Surface Laptop 4 Platinum 13.5 Ryzen 5 8GB 256GB מיקרוסופט",
+    "saleprice": 4165,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34133,
+    "name": "מחשב נייד Microsoft Surface Laptop 4 Platinum 15 Ryzen 7 16GB 512GB מיקרוסופט",
+    "saleprice": 7479,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34134,
+    "name": "מחשב נייד Microsoft Surface Laptop 4 Ice Blue 15 Ryzen 7 16GB 512GBמיקרוסופט",
+    "saleprice": 7479,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34135,
+    "name": "מחשב נייד Microsoft Surface Laptop 4 Black 15  Ryzen 7 16GB 512GB מיקרוסופט",
+    "saleprice": 7479,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34588,
+    "name": "טאבלט Microsoft Surface Pro 7 Core i5-10th Gen.  8GB 128GB Bundle  מיקרוסופט",
+    "saleprice": 6941,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34617,
+    "name": "טאבלט Microsoft Surface Pro 8 13 Core i7 16GB 512GB Wi-Fi מיקרוסופט",
+    "saleprice": 8940,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34643,
+    "name": "טאבלט Microsoft Surface Pro 8 Core i5 8GB 256GB Wi-Fi 8PR-00001 מיקרוסופט",
+    "saleprice": 6173,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34644,
+    "name": "טאבלט Microsoft Surface Pro 8 Core i5 8GB 128GB Wi-Fi 8PP-00001 מיקרוסופט",
+    "saleprice": 5849,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34645,
+    "name": "טאבלט Microsoft Surface Pro 8 13 Core i7 16GB 256GB Wi-Fi מיקרוסופט",
+    "saleprice": 7579,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34751,
+    "name": "Microsoft Surface Studio  / 2TB / Intel Core i7 - 32GB RAM ‏28 ‏אינטש מיקרוסופט  ",
+    "saleprice": 24082,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35154,
+    "name": "מחשב נייד Microsoft Surface Laptop Studio 14.4\" i7 32GB 2TB Geforce 3050Ti",
+    "saleprice": 13480,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35155,
+    "name": "מחשב נייד Microsoft Surface Laptop Studio 14.4\" i7 32GB 1TB Geforce 3050Ti",
+    "saleprice": 13780,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35156,
+    "name": "מחשב נייד Microsoft Surface Laptop Studio 14.4\" i7 16GB 512GB Geforce 3050Ti",
+    "saleprice": 10450,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35157,
+    "name": "מחשב נייד Microsoft Surface Laptop Studio 14.4\" i5 16GB 512GB",
+    "saleprice": 7939,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35158,
+    "name": "מחשב נייד Microsoft Surface Laptop Studio 14.4\" i5 16GB 256GB",
+    "saleprice": 7365,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35505,
+    "name": "טאבלט Microsoft Surface Pro 8 13 Core i5 8GB 512GB Wi-Fi מיקרוסופט",
+    "saleprice": 7142,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35521,
+    "name": "טאבלט Microsoft Surface Pro 8 13 Core i5 16GB 512GB Wi-Fi מיקרוסופט",
+    "saleprice": 7894,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35522,
+    "name": "טאבלט Microsoft Surface Pro 8 Core i5 16GB 256GB Wi-Fi 8PU-00001 מיקרוסופט",
+    "saleprice": 7539,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36080,
+    "name": "טאבלט Microsoft Surface Pro 7 12.3 Core i7 16GB 1TB Wi-Fi מיקרוסופט",
+    "saleprice": 11034,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36081,
+    "name": "טאבלט Microsoft Surface Pro 8 Core i3 8GB 128GB Wi-Fi 8PM-00001 מיקרוסופט",
+    "saleprice": 4895,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36199,
+    "name": "טאבלט Microsoft Surface Pro 8 13\" Core i5 8GB 512GB EBQ-00001 Wifi",
+    "saleprice": 6843,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36200,
+    "name": "טאבלט Microsoft Surface Pro 8 13\" Core i5 8GB 128GB EHL-00001 LTE",
+    "saleprice": 6749,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36201,
+    "name": "טאבלט Microsoft Surface Pro 8 13\" Core i5 8GB 256GB EIG-00001 LTE",
+    "saleprice": 7262,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36202,
+    "name": "טאבלט Microsoft Surface Pro 8 13\" Core i7 16GB 256GB EIV-00001 LTE",
+    "saleprice": 9039,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36203,
+    "name": "טאבלט Microsoft Surface Pro 8 13\" Core i7 16GB 1TB EED-00001 Wifi",
+    "saleprice": 8749,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36204,
+    "name": "טאבלט Microsoft Surface Pro 8 13 Core i7 16GB 1TB LTE מיקרוסופט",
+    "saleprice": 10940,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36205,
+    "name": "טאבלט Microsoft Surface Pro 8 13 Core i7 16GB 512GB LTE מיקרוסופט",
+    "saleprice": 9972,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36206,
+    "name": "טאבלט Microsoft Surface Pro 8 13 Core i7 16GB 1TB LTE Platinum מיקרוסופט",
+    "saleprice": 10940,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36207,
+    "name": "טאבלט Microsoft Surface Pro 8 13\" Core i7 16GB 1TB Platinum Wifi",
+    "saleprice": 9649,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36208,
+    "name": "טאבלט Microsoft Surface Pro 8 13 Core i7 16GB 512GB LTE Black מיקרוסופט",
+    "saleprice": 9972,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36209,
+    "name": "טאבלט Microsoft Surface Pro 8 13 Core i7 16GB 512GB Wi-Fi Black מיקרוסופט",
+    "saleprice": 7935,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36210,
+    "name": "טאבלט Microsoft Surface Pro 8 13 Core i5 16GB 512GB Wi-Fi Black מיקרוסופט",
+    "saleprice": 7894,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36211,
+    "name": "טאבלט Microsoft Surface Pro 8 13\" Core i7 16GB 256GB Black LTE",
+    "saleprice": 9039,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36212,
+    "name": "טאבלט Microsoft Surface Pro 8 13 Core i7 16GB 256GB Wi-Fi Black מיקרוסופט",
+    "saleprice": 7179,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36213,
+    "name": "טאבלט Microsoft Surface Pro 8 13\" Core i5 8GB 256GB LTE Black",
+    "saleprice": 7065,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36214,
+    "name": "טאבלט Microsoft Surface Pro 8 Core i5 8GB 256GB Wi-Fi Black מיקרוסופט",
+    "saleprice": 6050,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36519,
+    "name": "טאבלט Microsoft Surface Book 3 15 Core i7 16GB 512GB מיקרוסופט ",
+    "saleprice": 10941,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36853,
+    "name": "טאבלט Microsoft Surface Pro 7 Plus 12.3 Core i5 16GB 256 Wi-Fi+LTEמיקרוסופט",
+    "saleprice": 9972,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36910,
+    "name": "טאבלט Microsoft Surface Pro 7 Plus 12.3 Core i7 32GB 1TB Wi-Fi 1NG-00001 מיקרוסופט",
+    "saleprice": 12750,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37021,
+    "name": "טאבלט Microsoft Surface Pro 8 Core i5 8GB 256GB Wi-Fi Black 3Yr מיקרוסופט",
+    "saleprice": 7951,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37038,
+    "name": "טאבלט Microsoft Surface Pro 8 13 Core i7 32GB 1TB Wi-Fi EFI-00016 מיקרוסופט",
+    "saleprice": 12095,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38182,
+    "name": "טאבלט Microsoft Surface Pro 9 13 Core i5 8GB 256GB Wi-Fi QEZ-00018 מיקרוסופט",
+    "saleprice": 4955,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38183,
+    "name": "טאבלט Microsoft Surface Pro 9 Core i5 8GB 512GB Wi-Fi Black מיקרוסופט",
+    "saleprice": 7649,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38184,
+    "name": "טאבלט Microsoft Surface Pro 9 Core i5 16GB 256GB Wi-Fi Black מיקרוסופט",
+    "saleprice": 7590,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38185,
+    "name": "טאבלט Microsoft Surface Pro 9 Core i5 16GB 512GB Wi-Fi Black מיקרוסופט",
+    "saleprice": 9349,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38186,
+    "name": "טאבלט Microsoft Surface Pro 9 Core i7 16GB 512GB Wi-Fi Black מיקרוסופט",
+    "saleprice": 9870,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38187,
+    "name": "טאבלט Microsoft Surface Pro 9 13 Core i7 16GB 1TB Wi-Fi QKV-00001 מיקרוסופט",
+    "saleprice": 11470,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38188,
+    "name": "טאבלט Microsoft Surface Pro 9 Core i7 32GB 2TB Wi-Fi Black מיקרוסופט",
+    "saleprice": 13090,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38189,
+    "name": "טאבלט Microsoft Surface Pro 9 Core i5 8GB 256GB Wi-Fi Platinum מיקרוסופט",
+    "saleprice": 6250,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38190,
+    "name": "טאבלט Microsoft Surface Pro 9 Core i5 8GB 512GB Wi-Fi Platinum מיקרוסופט",
+    "saleprice": 7649,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38191,
+    "name": "טאבלט Microsoft Surface Pro 9 Core i5 16GB 256GB Wi-Fi Platinum מיקרוסופט",
+    "saleprice": 7590,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38192,
+    "name": "טאבלט Microsoft Surface Pro 9 Core i5 16GB 512GB Wi-Fi Platinum מיקרוסופט",
+    "saleprice": 9349,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38193,
+    "name": "טאבלט Microsoft Surface Pro 9 Core i7 16GB 512GB Wi-Fi Platinum מיקרוסופט",
+    "saleprice": 9870,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38194,
+    "name": "טאבלט Microsoft Surface Pro 9 Core i7 16GB 1TB Wi-Fi Platinum מיקרוסופט",
+    "saleprice": 11159,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38196,
+    "name": "טאבלט Microsoft Surface Pro 9 Core i7 32GB 2TB Wi-Fi Platinum מיקרוסופט",
+    "saleprice": 13090,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38229,
+    "name": "מחשב נייד Microsoft Surface Laptop 5 Black 15 i7-1265U 32GB 1TB מיקרוסופט",
+    "saleprice": 10397,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38232,
+    "name": "מחשב נייד Microsoft Surface Laptop 5 Platinum 15 i7-1265U 32GB 1TB מיקרוסופט",
+    "saleprice": 13192,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38233,
+    "name": "מחשב נייד Microsoft Surface Laptop 5 Platinum 15 i7-1265U 16GB 512SSD מיקרוסופט",
+    "saleprice": 8097,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38237,
+    "name": "מחשב נייד Microsoft Surface Laptop 5 Black 15 i7-1265U 16GB 512SSD מיקרוסופט",
+    "saleprice": 8097,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38238,
+    "name": "מחשב נייד Microsoft Surface Laptop 5 Platinum 15 i7-1265U 16GB 256SSD מיקרוסופט",
+    "saleprice": 7552,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38241,
+    "name": "מחשב נייד Microsoft Surface Laptop 5 Black 15 i7-1265U 16GB 256SSD מיקרוסופט",
+    "saleprice": 7552,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38242,
+    "name": "מחשב נייד Microsoft Surface Laptop 5 Black 13.5 i7-1265U 32GB 1TB מיקרוסופט",
+    "saleprice": 11140,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38243,
+    "name": "מחשב נייד Microsoft Surface Laptop 5 Platinum 13.5 i7-1265U 32GB 1TB מיקרוסופט",
+    "saleprice": 11140,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38244,
+    "name": "מחשב נייד Microsoft Surface Laptop 5 Sandstone 13.5 i7-1265U 32GB 1TB מיקרוסופט",
+    "saleprice": 11140,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38245,
+    "name": "מחשב נייד Microsoft Surface Laptop 5 Black 13.5 i7-1265U 32GB 512SSD מיקרוסופט",
+    "saleprice": 9167,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38246,
+    "name": "מחשב נייד Microsoft Surface Laptop 5 Platinum 13.5 i7-1265U 32GB 512SSD מיקרוסופט",
+    "saleprice": 9167,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38247,
+    "name": "מחשב נייד Microsoft Surface Laptop 5 Sandstone 13.5 i7-1265U 32GB 512SSD מיקרוסופט",
+    "saleprice": 9167,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38248,
+    "name": "מחשב נייד Microsoft Surface Laptop 5 Black 13.5 i7-1265U 16GB 512SSD מיקרוסופט",
+    "saleprice": 7424,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38249,
+    "name": "מחשב נייד Microsoft Surface Laptop 5 Platinum 13.5 i7-1265U 16GB 512SSD מיקרוסופט",
+    "saleprice": 7424,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38250,
+    "name": "מחשב נייד Microsoft Surface Laptop 5 Sandstone 13.5 i7-1265U 16GB 512SSD מיקרוסופט",
+    "saleprice": 7424,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38251,
+    "name": "מחשב נייד Microsoft Surface Laptop 5 Black 13.5 i5-1245U 16GB 512SSD מיקרוסופט",
+    "saleprice": 6889,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38252,
+    "name": "מחשב נייד Microsoft Surface Laptop 5 Platinum 13.5 i5-1245U 16GB 512SSD מיקרוסופט",
+    "saleprice": 7471,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38253,
+    "name": "מחשב נייד Microsoft Surface Laptop 5 Sandstone 13.5 i5-1245U 16GB 512SSD מיקרוסופט",
+    "saleprice": 6889,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38254,
+    "name": "מחשב נייד Microsoft Surface Laptop 5 Sandstone 13.5 i5-1245U 16GB 1TB SSD מיקרוסופט",
+    "saleprice": 7565,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38255,
+    "name": "מחשב נייד Microsoft Surface Laptop 5 Platinum 13.5 i5-1245U 16GB 1TB SSD מיקרוסופט",
+    "saleprice": 7565,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38256,
+    "name": "מחשב נייד Microsoft Surface Laptop 5 Black 13.5 i5-1245U 16GB 1TB SSD מיקרוסופט",
+    "saleprice": 7565,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38257,
+    "name": "מחשב נייד Microsoft Surface Laptop 5 Sandstone 13.5 i7-1265U 16GB 1TB SSD מיקרוסופט",
+    "saleprice": 8964,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38258,
+    "name": "מחשב נייד Microsoft Surface Laptop 5 Platinum 13.5 i7-1265U 16GB 1TB SSD מיקרוסופט",
+    "saleprice": 8964,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38259,
+    "name": "מחשב נייד Microsoft Surface Laptop 5 Black 13.5 i7-1265U 16GB 1TB SSD מיקרוסופט",
+    "saleprice": 8964,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38260,
+    "name": "טאבלט Microsoft Surface Pro 7 Core i5-10th Gen.  8GB 512GB מיקרוסופט",
+    "saleprice": 6290,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38280,
+    "name": "טאבלט Microsoft Surface Pro 7 Core i7-10th Gen.16GB 512GB מיקרוסופט",
+    "saleprice": 5541,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38722,
+    "name": "Microsoft Surface Studio 2+ / 1TB / Intel Core i7 - 32GB RAM ‏28 ‏אינטש מיקרוסופט ",
+    "saleprice": 34311,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38723,
+    "name": "מחשב נייד Microsoft Surface Laptop 5 Black 13.5 i5-1245U 8GB 256SSD מיקרוסופט",
+    "saleprice": 7881,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38743,
+    "name": "טאבלט Microsoft Surface GO 3 4GB 64GB מיקרוסופט",
+    "saleprice": 3422,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38749,
+    "name": "טאבלט Microsoft Surface Pro 8 Core i5 16GB 256GB Wi-Fi Black מיקרוסופט",
+    "saleprice": 6551,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38814,
+    "name": "מחשב נייד Microsoft Surface Laptop Studio 14.4\" i7 32GB 1TB Geforce 3050Ti + PEN",
+    "saleprice": 14050,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38868,
+    "name": "מחשב נייד Microsoft Surface Laptop 5 Sandstone 13.5 i7-1265U 16GB 512SSD מיקרוסופט",
+    "saleprice": 10973,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39052,
+    "name": "טאבלט Microsoft Surface Pro 9 13 Core i5 16GB 256GB Wi-Fi QIA-00001 מיקרוסופט",
+    "saleprice": 7645,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39053,
+    "name": "טאבלט Microsoft Surface Pro 9 13 Core i7 32GB 1TB Wi-Fi QLQ-00001 מיקרוסופט",
+    "saleprice": 13290,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39054,
+    "name": "טאבלט Microsoft Surface Pro 9 13 Core i5 8GB 128GB Wi-Fi QCH-00001 מיקרוסופט",
+    "saleprice": 5629,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39055,
+    "name": "טאבלט Microsoft Surface Pro 9 13 Core i7 16GB 256GB Wi-Fi QIM-00001 QIM-00017 מיקרוסופט",
+    "saleprice": 8350,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39264,
+    "name": "טאבלט Microsoft Surface Pro 9 13 SQ3 128GB 8GB RAM LTE RS8-00001 מיקרוסופט",
+    "saleprice": 7429,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39265,
+    "name": "טאבלט Microsoft Surface Pro 9 13 SQ3 256GB 16GB RAM LTE RW8-00001 מיקרוסופט",
+    "saleprice": 8569,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39266,
+    "name": "טאבלט Microsoft Surface Pro 9 13 SQ3 256GB 8GB RAM LTE RUB-00001 מיקרוסופט",
+    "saleprice": 7785,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39267,
+    "name": "טאבלט Microsoft Surface Pro 9 13 SQ3 512GB 16GB RAM LTE RZ1-00001 מיקרוסופט",
+    "saleprice": 9820,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39268,
+    "name": "טאבלט Microsoft Surface Pro 9 13 Core i7 16GB 512GB Wi-Fi QIY-00001 QIY-00017 מיקרוסופט",
+    "saleprice": 10049,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39426,
+    "name": "טאבלט Microsoft Surface Pro 9 13 Core i7 32GB 1TB Wi-Fi BUNDELמיקרוסופט",
+    "saleprice": 16932,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39601,
+    "name": "מחשב נייד Microsoft Surface Laptop 5 Platinum 13.5 i7-1255U 16GB 512SSD מיקרוסופט",
+    "saleprice": 10323,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39690,
+    "name": "טאבלט Microsoft Surface Pro 9 13 Core i5 8GB 128GB Wi-Fi מיקרוסופט",
+    "saleprice": 6921,
+    "catCode": 215,
+    "parentId": 0,
+    "additionalProps": ""
+  }
+]

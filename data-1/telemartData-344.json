@@ -1,0 +1,1802 @@
+[
+  {
+    "proid": 26031,
+    "name": "מחשב נייד MSI Gaming GF63 8RC-458IL",
+    "saleprice": 2500,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26032,
+    "name": "מחשב נייד MSI Gaming GF63 8RC-459IL",
+    "saleprice": 2500,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26033,
+    "name": "מחשב נייד MSI Gaming GF75 8RC-020IL",
+    "saleprice": 2601,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26034,
+    "name": "מחשב נייד MSI Gaming GF63 8RD-461IL",
+    "saleprice": 2680,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26035,
+    "name": "מחשב נייד MSI Gaming GF63 8RC-460IL",
+    "saleprice": 2680,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26036,
+    "name": "מחשב נייד MSI Gaming GF75 8RC-021IL",
+    "saleprice": 2881,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26037,
+    "name": "מחשב נייד MSI Gaming GF75 8RD-023IL",
+    "saleprice": 3072,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26038,
+    "name": "מחשב נייד MSI Gaming GF75 8RC-022IL",
+    "saleprice": 3072,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26039,
+    "name": "מחשב נייד MSI Gaming P65 Creator 8RD-039IL",
+    "saleprice": 3349,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26041,
+    "name": "מחשב נייד MSI Gaming GF75 8RD-024IL",
+    "saleprice": 3349,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26043,
+    "name": "מחשב נייד MSI Gaming GF75 8RD-065IL",
+    "saleprice": 4525,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26045,
+    "name": "מחשב נייד MSI Pro WE63 8SI-636IL",
+    "saleprice": 3906,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26046,
+    "name": "מחשב נייד MSI Gaming GF75 8RD-066IL",
+    "saleprice": 3906,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26047,
+    "name": "מחשב נייד MSI Gaming GP73 Leopard 8RE-621IL",
+    "saleprice": 4199,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26048,
+    "name": "מחשב נייד MSI Pro WE63 8SI-801IL",
+    "saleprice": 4102,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26049,
+    "name": "מחשב נייד MSI Pro WE63 8SJ-637IL",
+    "saleprice": 4655,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26050,
+    "name": "מחשב נייד MSI Gaming GP73 Leopard 8RE-622IL",
+    "saleprice": 4854,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26051,
+    "name": "מחשב נייד MSI Pro WE73 8SJ-288IL",
+    "saleprice": 4854,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26052,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS65 8RE-426IL",
+    "saleprice": 4954,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26053,
+    "name": "מחשב נייד MSI Gaming GP73 Leopard 8RE-687IL",
+    "saleprice": 5138,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26055,
+    "name": "מחשב נייד MSI Gaming GE63 Raider 8SE-210IL",
+    "saleprice": 5315,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26056,
+    "name": "מחשב נייד MSI Gaming GE75 Raider 8SE-085IL",
+    "saleprice": 5407,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26057,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS65 8SE-069IL",
+    "saleprice": 5973,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26058,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS75 8SE-004IL",
+    "saleprice": 6080,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26059,
+    "name": "מחשב נייד MSI Gaming GE63 Raider 8SF-211IL",
+    "saleprice": 6504,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26060,
+    "name": "מחשב נייד MSI Gaming GE75 Raider 8SF-086IL",
+    "saleprice": 6834,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26061,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS75 8SF-007IL",
+    "saleprice": 7715,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26062,
+    "name": "מחשב נייד MSI Gaming GE63 Raider 8SG-212IL",
+    "saleprice": 8660,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26063,
+    "name": "מחשב נייד MSI Gaming GT75 Titan 8SG-087IL",
+    "saleprice": 7589,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26064,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS65 8SF-072IL",
+    "saleprice": 8746,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26065,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS75 8SG-010IL",
+    "saleprice": 8746,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26066,
+    "name": "מחשב נייד MSI Gaming GT75 Titan 8SF-072IL",
+    "saleprice": 7675,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26067,
+    "name": "מחשב נייד MSI Gaming GT75 Titan 8SF-073IL",
+    "saleprice": 11165,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26068,
+    "name": "מחשב נייד MSI Gaming GT83 Titan Extreme GTX1070SLI",
+    "saleprice": 16550,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26069,
+    "name": "מחשב נייד MSI Gaming GT83 Titan Extreme GTX1070SLI",
+    "saleprice": 24200,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26070,
+    "name": "מחשב נייד MSI Gaming GT83 Titan Extreme GTX1080SLI",
+    "saleprice": 22985,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26073,
+    "name": "מחשב נייד MSI Gaming GT75 Titan I9-UHD2080",
+    "saleprice": 27320,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26074,
+    "name": "מחשב נייד MSI Gaming GT75 Titan I9-UHD2080",
+    "saleprice": 28975,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27337,
+    "name": "מחשב נייד MSI Gaming GF63 I7-1000-16GB",
+    "saleprice": 6552,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27963,
+    "name": "מחשב נייד MSI Gaming GE63 Raider 9SF-HML6380",
+    "saleprice": 6618,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27964,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS65 9SE-HML65SF",
+    "saleprice": 7244,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27965,
+    "name": "מחשב נייד MSI Gaming GP75 Leopard 9SD-9750",
+    "saleprice": 7385,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27966,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS65 9SE-HML6560",
+    "saleprice": 6128,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27972,
+    "name": "מחשב נייד MSI Gaming GF75 9SC-216IL",
+    "saleprice": 3999,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27973,
+    "name": "מחשב נייד MSI Gaming GF75 9RCX-267IL",
+    "saleprice": 3835,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27974,
+    "name": "מחשב נייד MSI Gaming GF63 9SC-286IL",
+    "saleprice": 4148,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27975,
+    "name": "מחשב נייד MSI Gaming GF75 9RCX-268IL",
+    "saleprice": 3688,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27976,
+    "name": "מחשב נייד MSI Gaming GF75 9RCX-273IL",
+    "saleprice": 4873,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27977,
+    "name": "מחשב נייד MSI Gaming GP65 Leopard 9SD-201IL",
+    "saleprice": 4689,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27978,
+    "name": "מחשב נייד MSI Gaming GP75 Leopard 9SD-857IL",
+    "saleprice": 4633,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27979,
+    "name": "מחשב נייד MSI Gaming GF63 9SC-289IL",
+    "saleprice": 4788,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27980,
+    "name": "מחשב נייד MSI Gaming GP65 Leopard 9SD-202IL",
+    "saleprice": 4348,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27981,
+    "name": "מחשב נייד MSI Gaming GP75 Leopard 9SD-858IL",
+    "saleprice": 5384,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27982,
+    "name": "מחשב נייד MSI Gaming GL63 9SE-860IL",
+    "saleprice": 4632,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27983,
+    "name": "מחשב נייד MSI Gaming GF75 9SC-218IL",
+    "saleprice": 4609,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27984,
+    "name": "מחשב נייד MSI Gaming GL73 9SE-289IL",
+    "saleprice": 5215,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27985,
+    "name": "מחשב נייד MSI Gaming P65 Creator 9SD-614IL",
+    "saleprice": 4996,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27986,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS75 9SD-619IL",
+    "saleprice": 5097,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27987,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS65 9SD-845IL",
+    "saleprice": 5319,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27988,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS75 9SE-621IL",
+    "saleprice": 5408,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27989,
+    "name": "מחשב נייד MSI Gaming P65 Creator 9SD-841IL",
+    "saleprice": 5603,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27990,
+    "name": "מחשב נייד MSI Gaming GL63 9SE-861IL",
+    "saleprice": 5617,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27991,
+    "name": "מחשב נייד MSI Gaming GE65 Raider 9SE-097IL",
+    "saleprice": 5601,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27992,
+    "name": "מחשב נייד MSI Gaming GE63 Raider 9SE-857IL",
+    "saleprice": 5700,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27993,
+    "name": "מחשב נייד MSI Gaming GL73 9SE-290IL",
+    "saleprice": 5768,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27994,
+    "name": "מחשב נייד MSI Gaming GE75 Raider 9SE-678IL",
+    "saleprice": 5600,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27995,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS65 9SE-847IL",
+    "saleprice": 5667,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27996,
+    "name": "מחשב נייד MSI P75 Creator 9SD-615IL",
+    "saleprice": 5821,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27997,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS65 9SD-846IL",
+    "saleprice": 6049,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27998,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS75 9SD-620IL",
+    "saleprice": 6160,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27999,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS65 9SE-1085IL",
+    "saleprice": 6222,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28000,
+    "name": "מחשב נייד MSI Gaming GE65 Raider 9SE-098IL",
+    "saleprice": 6333,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28001,
+    "name": "מחשב נייד MSI Gaming GE63 Raider 9SE-862IL",
+    "saleprice": 6387,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28002,
+    "name": "מחשב נייד MSI Gaming GE65 Raider 9SF-099IL",
+    "saleprice": 6478,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28003,
+    "name": "מחשב נייד MSI Gaming GE63 Raider 9SF-856IL",
+    "saleprice": 6400,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28004,
+    "name": "מחשב נייד MSI Gaming GE75 Raider 9SE-679IL",
+    "saleprice": 6456,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28005,
+    "name": "מחשב נייד MSI Gaming GE75 Raider 8SF-086IL",
+    "saleprice": 6649,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28006,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS65 9SF-1086IL",
+    "saleprice": 7175,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28007,
+    "name": "מחשב נייד MSI Gaming GE65 Raider 9SF-200IL",
+    "saleprice": 7422,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28008,
+    "name": "מחשב נייד MSI Gaming GE63 Raider 9SF-863IL",
+    "saleprice": 7383,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28009,
+    "name": "מחשב נייד MSI Gaming P65 Creator 9SE-842IL",
+    "saleprice": 7650,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28010,
+    "name": "מחשב נייד MSI P75 Creator 9SE-616IL",
+    "saleprice": 7727,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28011,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS75 9SF-623IL",
+    "saleprice": 7825,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28012,
+    "name": "מחשב נייד MSI Gaming GE63 Raider 9SG-864IL",
+    "saleprice": 8326,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28013,
+    "name": "מחשב נייד MSI Gaming P65 Creator 9SE-843IL",
+    "saleprice": 9251,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28014,
+    "name": "מחשב נייד MSI P75 Creator 9SE-617IL",
+    "saleprice": 9224,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28015,
+    "name": "מחשב נייד MSI Gaming GE63 Raider 9SG-865IL",
+    "saleprice": 9244,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28016,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS65 9SG-850IL",
+    "saleprice": 9394,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28017,
+    "name": "מחשב נייד MSI Gaming Stealth Thin G65 9SG-1087IL ",
+    "saleprice": 9704,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28018,
+    "name": "מחשב נייד MSI P75 Creator 9SF-618IL",
+    "saleprice": 10050,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28019,
+    "name": "מחשב נייד MSI Gaming GT75 Titan 8SG-074IL ",
+    "saleprice": 9782,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28020,
+    "name": "מחשב נייד MSI Gaming GT76 Titan DT 9SG-075IL",
+    "saleprice": 13272,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29183,
+    "name": "מחשב נייד MSI Gaming GT75 Titan I7-512-32",
+    "saleprice": 15312,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29726,
+    "name": "מחשב נייד MSI Gaming GL65 I7-1000-32GB",
+    "saleprice": 9872,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 30848,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GF65 I7-512-16",
+    "saleprice": 8535,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 30849,
+    "name": "מחשב נייד MSI Gaming GL75 Leopard I7-512-16GB מציאון עודפים",
+    "saleprice": 7150,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 30850,
+    "name": "מחשב נייד MSI Gaming GL75 Leopard I7-512-32GB מציאון עודפים",
+    "saleprice": 7870,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 30975,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS66 I7-1000-16GB",
+    "saleprice": 9885,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 30976,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS66 I7-1000-32GB",
+    "saleprice": 10700,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 30999,
+    "name": "מחשב נייד MSI Gaming GF65 I7-512-16GB",
+    "saleprice": 7895,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31000,
+    "name": "מחשב נייד MSI Gaming GL65 I7-512-16GB",
+    "saleprice": 6729,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31001,
+    "name": "מחשב נייד MSI Gaming GP65 Leopard I7-512-16GB",
+    "saleprice": 6990,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31002,
+    "name": "מחשב נייד MSI Gaming GL65 I7-512-16GB",
+    "saleprice": 7880,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31003,
+    "name": "מחשב נייד MSI Gaming GL65 I7-512-16GB",
+    "saleprice": 9450,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31004,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS66 I7-512-16GB",
+    "saleprice": 8260,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31005,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS66 I7-512-32GB",
+    "saleprice": 8870,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31006,
+    "name": "מחשב נייד MSI Gaming GE75 Raider I7-512-16GB",
+    "saleprice": 10360,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31007,
+    "name": "מחשב נייד MSI Gaming GE75 Raider I7-1000-16GB",
+    "saleprice": 12983,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31008,
+    "name": "מחשב נייד MSI Gaming GP65 Leopard I7-512-16GB",
+    "saleprice": 8670,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31009,
+    "name": "מחשב נייד MSI Gaming GP65 Leopard I7-512-32GB",
+    "saleprice": 9500,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31010,
+    "name": "מחשב נייד MSI Gaming GP65 Leopard I7-1000-64GB",
+    "saleprice": 12349,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31011,
+    "name": "מחשב נייד MSI Gaming GE75 Raider I7-512-16GB",
+    "saleprice": 12200,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31012,
+    "name": "מחשב נייד MSI Gaming GE75 Raider I7-512-32GB",
+    "saleprice": 12859,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31013,
+    "name": "מחשב נייד MSI Gaming GE75 Raider I7-512-16GB",
+    "saleprice": 15349,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31014,
+    "name": "מחשב נייד MSI Gaming GE75 Raider I7-512-32GB",
+    "saleprice": 15900,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31017,
+    "name": "מחשב נייד MSI Gaming GE66 Raider I7-1000-32GB",
+    "saleprice": 21600,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31018,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS66 I7-1000-32GB",
+    "saleprice": 15935,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31019,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS75 I7FHD2080",
+    "saleprice": 13500,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31226,
+    "name": "מחשב נייד MSI Gaming GF65 I7-512-32GB",
+    "saleprice": 8490,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31227,
+    "name": "מחשב נייד MSI Gaming GF65 I7-512-8GB",
+    "saleprice": 7680,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31912,
+    "name": "MSI Gaming GT76 Titan DT 10SGS-055",
+    "saleprice": 24350,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31913,
+    "name": "מחשב נייד MSI Workstation Touch WS66 I9-1000-64GB",
+    "saleprice": 18990,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31914,
+    "name": "מחשב נייד MSI Workstation WS75 I9-1000-64GB",
+    "saleprice": 14955,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31915,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS75 I7FHD2070",
+    "saleprice": 12790,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31916,
+    "name": "מחשב נייד MSI Workstation Touch WS66 I7-1000-32GB",
+    "saleprice": 16900,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31917,
+    "name": "מחשב נייד MSI Creator P65 15040 I7-2TB-32GB",
+    "saleprice": 15579,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31918,
+    "name": "מחשב נייד MSI Workstation WS75 I7-1000-32GB",
+    "saleprice": 17590,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31919,
+    "name": "מחשב נייד MSI Gaming GE66 Raider I9-1000-32GB",
+    "saleprice": 23790,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32440,
+    "name": "מחשב נייד MSI Gaming GP66 Leopard i7-11800H RTX 3070 512GB 16GB",
+    "saleprice": 7881,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32441,
+    "name": "מחשב נייד MSI Gaming GP66 Leopard i7-11800H RTX 3070 1TB 32GB",
+    "saleprice": 8290,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32442,
+    "name": "מחשב נייד MSI Gaming GP66 Leopard i7-11800H RTX 3080 1TB 32GB",
+    "saleprice": 9849,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33141,
+    "name": "מחשב נייד MSI Creator P65 15 I7-512-16GB",
+    "saleprice": 6900,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33628,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS75 I7FHD2080 64GB",
+    "saleprice": 14790,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33629,
+    "name": "מחשב נייד MSI Gaming GE63 Raider 9SE-862IL",
+    "saleprice": 6133,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34097,
+    "name": "מחשב נייד MSI Gaming GF66 Katana I7-512-16GB",
+    "saleprice": 5150,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34098,
+    "name": "מחשב נייד MSI Gaming GF66 Katana I5-512-16GB",
+    "saleprice": 6870,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34099,
+    "name": "מחשב נייד MSI Gaming GF66 Katana I7-512-32GB",
+    "saleprice": 5283,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34100,
+    "name": "מחשב נייד MSI Gaming Crosshair 15 I7-512-16GB",
+    "saleprice": 5847,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34101,
+    "name": "מחשב נייד MSI Gaming GF76 Katana I7-512-16GB",
+    "saleprice": 5750,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34102,
+    "name": "מחשב נייד MSI Gaming GF66 Katana I7-512-16GB",
+    "saleprice": 5650,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34103,
+    "name": "מחשב נייד MSI Gaming GF66 Katana I7-1TB-32GB",
+    "saleprice": 6019,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34104,
+    "name": "מחשב נייד MSI Gaming Crosshair 17 I7-512-16GB",
+    "saleprice": 5929,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34105,
+    "name": "מחשב נייד MSI Gaming Crosshair 15 I7-512-32GB",
+    "saleprice": 6238,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34106,
+    "name": "מחשב נייד MSI Gaming Crosshair 17 I7-512-32GB",
+    "saleprice": 6572,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34107,
+    "name": "מחשב נייד MSI Gaming GF76 Katana I7-512-32GB",
+    "saleprice": 7289,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34108,
+    "name": "מחשב נייד MSI Gaming Sword 17 I7-512-32GB",
+    "saleprice": 6479,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34109,
+    "name": "מחשב נייד MSI Gaming GF76 Katana I7-1TB-32GB",
+    "saleprice": 7750,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34110,
+    "name": "מחשב נייד MSI Gaming Crosshair 17 3060 I7-512-16GB",
+    "saleprice": 7229,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34111,
+    "name": "מחשב נייד MSI Gaming Pulse GL66 I7-512-16GB",
+    "saleprice": 8250,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34112,
+    "name": "מחשב נייד MSI Gaming Pulse GL66 I7-512-32GB",
+    "saleprice": 7671,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34113,
+    "name": "מחשב נייד MSI Gaming Crosshair 15 3060 I7-512-16GB",
+    "saleprice": 6590,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34114,
+    "name": "מחשב נייד MSI Gaming Crosshair 15 3060 I7-512-32GB",
+    "saleprice": 6140,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34115,
+    "name": "מחשב נייד MSI Creator 15 I7-512-16GB",
+    "saleprice": 6556,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34116,
+    "name": "מחשב נייד MSI Creator 15 4K I7-512-32GB",
+    "saleprice": 7172,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34117,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS66 3080 I7-1000-32GB",
+    "saleprice": 18879,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34118,
+    "name": "מחשב נייד MSI Gaming Pulse GL66 I5-512-8GB",
+    "saleprice": 4890,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34119,
+    "name": "מחשב נייד MSI Gaming Pulse GL66 I5-512-16GB",
+    "saleprice": 5290,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34120,
+    "name": "מחשב נייד MSI Gaming Pulse GL66 I7-1TB-16GB",
+    "saleprice": 6463,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34121,
+    "name": "מחשב נייד MSI Gaming Sword 15 I7-512-16GB",
+    "saleprice": 6679,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34122,
+    "name": "מחשב נייד MSI Gaming Sword 15 I7-512-32GB",
+    "saleprice": 6090,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34123,
+    "name": "מחשב נייד MSI Gaming GE76 Raider I7-512-16GB",
+    "saleprice": 10849,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34124,
+    "name": "מחשב נייד MSI Gaming GE76 Raider I7-512-32GB",
+    "saleprice": 7590,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34174,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS76 I9FHD3070 32GB",
+    "saleprice": 12250,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34202,
+    "name": "מחשב נייד MSI Gaming GF75 I7-1000-32GB",
+    "saleprice": 7291,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34219,
+    "name": "מחשב נייד MSI Gaming GP75 I7-512-32GB",
+    "saleprice": 7490,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34220,
+    "name": "מחשב נייד MSI Gaming GP75 I7-1000-32GB",
+    "saleprice": 8293,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34221,
+    "name": "מחשב נייד MSI Gaming GP75 I7-1000-32GB",
+    "saleprice": 7845,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34224,
+    "name": "מחשב נייד MSI Gaming GL65 I5-256-8GB",
+    "saleprice": 5729,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34230,
+    "name": "מחשב נייד MSI Gaming GL65 I5-256-16GB",
+    "saleprice": 5989,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34843,
+    "name": "מחשב נייד MSI Gaming Sword 17 I7-512-16GB",
+    "saleprice": 7857,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34844,
+    "name": "מחשב נייד MSI Gaming Sword 15 I7-512-16G",
+    "saleprice": 7875,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35001,
+    "name": "מחשב נייד MSI Gaming Pulse GL66 I5-512-16G",
+    "saleprice": 5327,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35002,
+    "name": "מחשב נייד MSI Gaming GF66 Katana I5-512-16G",
+    "saleprice": 6941,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35003,
+    "name": "מחשב נייד MSI Gaming Sword 15 I7-512-16",
+    "saleprice": 5326,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35004,
+    "name": "מחשב נייד MSI Gaming Sword 17 I7-512-16G",
+    "saleprice": 5989,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35005,
+    "name": "מחשב נייד MSI Gaming GE76 Raider I7-512-16G",
+    "saleprice": 7283,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35006,
+    "name": "מחשב נייד MSI Gaming Sword 15 I7-512-16G",
+    "saleprice": 5779,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35007,
+    "name": "מחשב נייד MSI Gaming Pulse GL66 I7-1TB-16G",
+    "saleprice": 5590,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35008,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS66 3080 I7-1000-32G",
+    "saleprice": 18917,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35009,
+    "name": "מחשב נייד MSI Gaming Crosshair 15 3060 I7-512-16G",
+    "saleprice": 6030,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35010,
+    "name": "מחשב נייד MSI Gaming Pulse GL66 I7-512-16G",
+    "saleprice": 7850,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35011,
+    "name": "מחשב נייד MSI Gaming Crosshair 15 I7-512-32G",
+    "saleprice": 5875,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35012,
+    "name": "מחשב נייד MSI Gaming Crosshair 15 I7-512-16G",
+    "saleprice": 5490,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35229,
+    "name": "מחשב נייד MSI Gaming GF75 I7-1000-32GB",
+    "saleprice": 10211,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36142,
+    "name": "מחשב נייד MSI Gaming GE66 Raider i7-11800H RTX 3070 1TB 16GB",
+    "saleprice": 7690,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36143,
+    "name": "מחשב נייד MSI Gaming GE66 Raider i7-11800H RTX 3070 1TB 32GB",
+    "saleprice": 7950,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36144,
+    "name": "מחשב נייד MSI Gaming GE66 Raider i7-11800H RTX 3070 2TB 32GB",
+    "saleprice": 8589,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36155,
+    "name": "מחשב נייד MSI Summit E16 Flip 16 Touch-Screen 2-in-1",
+    "saleprice": 9180,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36169,
+    "name": "מחשב נייד MSI Gaming GP76 Leopard i7-11800H RTX 3070 1TB 16GB",
+    "saleprice": 8990,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36170,
+    "name": "מחשב נייד MSI Gaming GP76 Leopard i7-11800H RTX 3070 1TB 32GB",
+    "saleprice": 9517,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36171,
+    "name": "מחשב נייד MSI Gaming GP76 Leopard i7-11800H RTX 3070 1TB 64GB",
+    "saleprice": 10390,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36176,
+    "name": "מחשב נייד MSI Creator 17 4K i7-11800H RTX 3060 512GB 16GB",
+    "saleprice": 7990,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36177,
+    "name": "מחשב נייד MSI Creator 17 4K i7-11800H RTX 3060 1TB 32GB",
+    "saleprice": 8753,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36180,
+    "name": "מחשב נייד MSI Gaming Crosshair 15 i7-12700H RTX 3070 1TB 16GB",
+    "saleprice": 8972,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36181,
+    "name": "מחשב נייד MSI Gaming Crosshair 15 i7-12700H RTX 3070 1TB 32GB",
+    "saleprice": 9410,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36196,
+    "name": "מחשב נייד MSI Summit E13 Flip 13.4 Touch-Screen 2-in-1",
+    "saleprice": 6432,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36197,
+    "name": "מחשב נייד MSI Summit E13 Flip 13.4 Touch-Screen 2-in-1 16GB",
+    "saleprice": 5690,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36198,
+    "name": "מחשב נייד MSI Summit E16 Flip 16 Touch-Screen 2-in-1 32GB",
+    "saleprice": 9850,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36823,
+    "name": "מחשב נייד MSI Gaming Stealth Thin GS75 I7-512-16GB ",
+    "saleprice": 12231,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36831,
+    "name": "מחשב נייד MSI Gaming GP76 Leopard I9-12900HK RTX 3070TI 1TB 32GB",
+    "saleprice": 13320,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37496,
+    "name": "מחשב נייד MSI Gaming Crosshair 15 i7-12700H RTX 3070 4TB 32GB",
+    "saleprice": 11951,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37497,
+    "name": "מחשב נייד MSI Gaming Crosshair 15 i7-12700H RTX 3070 4TB 64GB",
+    "saleprice": 12390,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37498,
+    "name": "מחשב נייד MSI Gaming GP76 Leopard i7-11800H RTX 3070 4TB 64GB",
+    "saleprice": 12859,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37499,
+    "name": "מחשב נייד MSI Gaming GP76 Leopard I9-12900HK RTX 3070TI 4TB 64GB",
+    "saleprice": 15450,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37500,
+    "name": "מחשב נייד MSI Gaming GP66 Leopard i7-11800H RTX 3080 1TB 64GB",
+    "saleprice": 11872,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37501,
+    "name": "מחשב נייד MSI Gaming GP66 Leopard i7-11800H RTX 3080 4TB 64GB",
+    "saleprice": 13390,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37502,
+    "name": "מחשב נייד MSI Workstation WS75 I9-4TB-64GB",
+    "saleprice": 19290,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37503,
+    "name": "מחשב נייד MSI Gaming GF63 Thin 15.6 I5-256-8GB",
+    "saleprice": 4390,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37504,
+    "name": "מחשב נייד MSI Gaming GF63 Thin 15.6 I5-512-16GB",
+    "saleprice": 5280,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37505,
+    "name": "מחשב נייד MSI Gaming GF76 Katana 17 i7-12700H 1TB 16GB RTX 3070Ti",
+    "saleprice": 10250,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37506,
+    "name": "מחשב נייד MSI Gaming GF76 Katana 17 i7-12700H 1TB 32GB RTX 3070Ti",
+    "saleprice": 10975,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37507,
+    "name": "מחשב נייד MSI Gaming GF76 Katana 17 i7-12700H 4TB 64GB RTX 3070Ti",
+    "saleprice": 14390,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37508,
+    "name": "מחשב נייד MSI Gaming GE76 Raider 17 i7-12700H 1TB 16GB RTX 3060",
+    "saleprice": 8540,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37509,
+    "name": "מחשב נייד MSI Gaming GE76 Raider 17 i7-12700H 1TB 32GB RTX 3060",
+    "saleprice": 9241,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37510,
+    "name": "מחשב נייד MSI Gaming Crosshair 17 i7-12700H RTX 3070 1TB 32GB",
+    "saleprice": 11252,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37511,
+    "name": "מחשב נייד MSI Gaming Crosshair 17 i7-12700H RTX 3070 4TB 32GB",
+    "saleprice": 12990,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38590,
+    "name": "מחשב נייד MSI Gaming Crosshair 15 i7-12700H RTX 3060 1TB 32GB",
+    "saleprice": 7130,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38591,
+    "name": "מחשב נייד MSI Gaming Crosshair 15 i7-12700H RTX 3060 512GB 16GB",
+    "saleprice": 6429,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38592,
+    "name": "מחשב נייד MSI Gaming Crosshair 15 i7-12700H RTX 3050 512GB 16GB",
+    "saleprice": 5739,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38593,
+    "name": "מחשב נייד MSI Gaming Crosshair 15 i7-12700H RTX 3050 512GB 32GB",
+    "saleprice": 6350,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38808,
+    "name": "מחשב נייד MSI TITAN GT77HX i9-13980HX rtx 4080 Monster Gaming performance",
+    "saleprice": 26729,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38809,
+    "name": "מחשב נייד MSI TITAN GT77HX i9-13980HX rtx 4090 Monster Gaming performance",
+    "saleprice": 28900,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38810,
+    "name": "מחשב נייד MSI Katana 15 Gaming i7-12650H RTX 4070 1TB 16GB",
+    "saleprice": 9650,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38811,
+    "name": "מחשב נייד MSI Katana 15 Gaming i7-12650H RTX 4070 1TB 32GB",
+    "saleprice": 10590,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38918,
+    "name": "מחשב נייד MSI Workstation Touch WS66 I9-1000-64GB",
+    "saleprice": 21322,
+    "catCode": 344,
+    "parentId": 0,
+    "additionalProps": ""
+  }
+]

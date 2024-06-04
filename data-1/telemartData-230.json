@@ -1,0 +1,3458 @@
+[
+  {
+    "proid": 18992,
+    "name": "מחשב Dell OptiPlex 3040 SFF OP3040-3425 דל",
+    "saleprice": 2057,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 18993,
+    "name": "מחשב Dell OptiPlex 3040 MT OP-RD33-9478 Mini Tower דל",
+    "saleprice": 2130,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 18994,
+    "name": "מחשב Dell Vostro 3650 MT VM-RD09-9612 Mini Tower דל",
+    "saleprice": 1909,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 18995,
+    "name": "מחשב Dell OptiPlex 3046 MT OP-RD33-9777 Mini Tower דל",
+    "saleprice": 2070,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 18996,
+    "name": "מחשב Dell Vostro 3650 V3650-3213 Midi Tower דל",
+    "saleprice": 2357,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 18997,
+    "name": "מחשב Dell OptiPlex 3046 OP3046-3277 SFF דל",
+    "saleprice": 2441,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 18998,
+    "name": "מחשב Dell OptiPlex 3046 OP3046-3221 SFF דל",
+    "saleprice": 2483,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19028,
+    "name": "מחשב Dell OptiPlex 7040 MT OP-RD33-9482 MT דל",
+    "saleprice": 2850,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19158,
+    "name": "מחשב Dell Inspiron 3650 IN-RD09-9423 Mini Tower דל",
+    "saleprice": 2458,
+    "catCode": 231,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19159,
+    "name": "מחשב Dell OptiPlex 7040 Micro OP7040-5249 Mini Tower דל",
+    "saleprice": 3432,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19160,
+    "name": "מחשב Dell OptiPlex 5040 SFF OP-RD33-9376 Mini PC דל",
+    "saleprice": 3118,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19161,
+    "name": "מחשב Dell OptiPlex 3046 OP3046-5237 Mini Tower דל",
+    "saleprice": 3168,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19162,
+    "name": "מחשב Dell OptiPlex 3046 OP3046-5237 Mini Tower דל",
+    "saleprice": 3168,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19163,
+    "name": "מחשב Dell Optiplex 5040 OP5040-5217 Midi Tower דל",
+    "saleprice": 3267,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 19164,
+    "name": "מחשב Dell OptiPlex 3046 MT OP-RD33-9825 Mini Tower דל",
+    "saleprice": 3268,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20881,
+    "name": "מחשב Intel Core i7 Dell XPS 8910 XP-RD33-9874 Mini Tower",
+    "saleprice": 6381,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20882,
+    "name": "מחשב Intel Core i7 Dell XPS 8920 XPS8920-7188 Mini PC",
+    "saleprice": 8371,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20912,
+    "name": "מחשב Intel Xeon E5 Dell Precision T5810 PM-RD33-9528 Tower",
+    "saleprice": 6215,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20913,
+    "name": "מחשב Intel Core i7 Dell XPS 8920 XP-RD33-10101 Mini Tower",
+    "saleprice": 8427,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20959,
+    "name": "מחשב Intel Core i7 Dell Precision 3620 PM-RD33-9885 Mini Tower דל",
+    "saleprice": 7192,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20960,
+    "name": "מחשב Intel Core i7 Dell Precision 3620 PM-RD33-9883 Mini Tower דל",
+    "saleprice": 5493,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20961,
+    "name": "מחשב Intel Core i7 Dell Precision T3620 Workstation T3620-7280 Mini Tower דל",
+    "saleprice": 5203,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20962,
+    "name": "מחשב Intel Core i5 Dell Precision 3620 PM-RD33-10047 Mini Tower דל",
+    "saleprice": 5118,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20963,
+    "name": "מחשב Intel Core i7 Dell Precision 3620 T3620-7925 Mini PC דל",
+    "saleprice": 7387,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20964,
+    "name": "מחשב Intel Core i7 Dell Precision 3620 Workstation T3620-7970 Mini Tower דל",
+    "saleprice": 6825,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20965,
+    "name": "מחשב Intel Core i7 Dell Precision 3620 Workstation PM-RD33-9904 Mini Tower דל",
+    "saleprice": 6582,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20966,
+    "name": "מחשב Intel Core i7 Dell Precision 3620 PM-RD33-9527 Mini Tower דל",
+    "saleprice": 6294,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20967,
+    "name": "מחשב Intel Xeon E3 Dell Precision T3620 Workstation T3620-3299 Mini Tower דל",
+    "saleprice": 4732,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20968,
+    "name": "מחשב Intel Core i7 Dell XPS 8910 XP-RD33-9875 Mini Tower דל",
+    "saleprice": 5917,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20969,
+    "name": "מחשב Intel Core i7 Dell XPS 8910 XPS8910-7198 Tower דל",
+    "saleprice": 6963,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20970,
+    "name": "מחשב Intel Core i7 Dell XPS 8910 XP-RD33-9882 Mini Tower דל",
+    "saleprice": 6816,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20974,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7050 MT OP7050-7213 Mini Tower דל",
+    "saleprice": 4558,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20975,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7050 MT OP7050-7241 Mini Tower דל",
+    "saleprice": 4124,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20977,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7040 Micro OP7040-7761 Mini PC דל",
+    "saleprice": 4055,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20978,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7040 OP7040-7956 Mini Tower דל",
+    "saleprice": 4474,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20979,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 7020 SFF OP-RD33-8003 Mini PC דל",
+    "saleprice": 3557,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20980,
+    "name": "מחשב Dell OptiPlex 7040 MT OP7040-5280 Mini Tower דל",
+    "saleprice": 4348,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20982,
+    "name": "מחשב Intel Core i7 Dell Precision 3620 Workstation T3620-72782 Mini Tower דל",
+    "saleprice": 4718,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20983,
+    "name": "מחשב Dell Inspiron 3650 IN-RD09-9423 Mini Tower דל",
+    "saleprice": 4698,
+    "catCode": 231,
+    "parentId": 230,
+    "additionalProps": null
+  },
+  {
+    "proid": 20988,
+    "name": "מחשב Intel Core i7 Dell Vostro 3650 VM-RD09-9616 Mini Tower דל",
+    "saleprice": 3234,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20990,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7050 Micro OP7050-7286 Mini PC דל",
+    "saleprice": 3543,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20991,
+    "name": "מחשב Intel Core i7 Dell Inspiron 3668 IN-RD33-10102 Mini Tower דל",
+    "saleprice": 3450,
+    "catCode": 231,
+    "parentId": 230,
+    "additionalProps": null
+  },
+  {
+    "proid": 20992,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7050 SFF OP-RD33-10096 Mini PC דל",
+    "saleprice": 3582,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20993,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7050 MT OP7050-7203 Mini Tower דל",
+    "saleprice": 3518,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20994,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7050 MT OP-RD33-10095 Mini Tower דל",
+    "saleprice": 3344,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20996,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7050 SFF OP7050-7295 Mini PC דל",
+    "saleprice": 4090,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20997,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7050 MT OP7050-7262 Mini Tower דל",
+    "saleprice": 3303,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20998,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7050 MFF OP-RD33-10133 Mini PC דל",
+    "saleprice": 2972,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20999,
+    "name": "מחשב Intel Core i7 Dell Vostro 3668 V3668-7013 Mini Tower דל",
+    "saleprice": 3390,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21001,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7050 MT OP7050-7022 Mini Tower דל",
+    "saleprice": 3517,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21003,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 7050 MT OP7050-5269 Mini Tower דל",
+    "saleprice": 2711,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21004,
+    "name": "מחשב Intel Core i7 Dell Vostro 3668 MT V3668-7296 Mini Tower דל",
+    "saleprice": 3059,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21006,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 7050 MT OP7050-5238 Mini Tower דל",
+    "saleprice": 2668,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21008,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 7040 SFF OP-RD33-9939 Mini PC דל",
+    "saleprice": 3340,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21039,
+    "name": "מחשב Intel Core i5 Dell Vostro 3650 VM-RD09-9615 Mini Tower דל",
+    "saleprice": 2697,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21042,
+    "name": "מחשב Intel Core i7 Dell Vostro 3650 VM-RD09-9617 Mini Tower דל",
+    "saleprice": 2766,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21045,
+    "name": "מחשב Intel Core i5 Dell Vostro 3668 V3668-5007 Mini Tower דל",
+    "saleprice": 2068,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21046,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7050 Micro OP7050-7286 Mini PC דל",
+    "saleprice": 2926,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21047,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3050 MT OP3050-5244 Mini Tower דל",
+    "saleprice": 2892,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21048,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3050 MT OP3050-5033 Mini Tower דל",
+    "saleprice": 2079,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21049,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3050 MT OP3050-5208 Mini Tower דל",
+    "saleprice": 2430,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21050,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3050 MFF OP-RD33-10094 Mini PC דל",
+    "saleprice": 0,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": null
+  },
+  {
+    "proid": 21051,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3050 MT OP-RD33-10090 Mini Tower דל",
+    "saleprice": 2060,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21052,
+    "name": "מחשב Intel Core i5 Dell Inspiron 3668 IN-RD33-10100 Mini Tower דל",
+    "saleprice": 2677,
+    "catCode": 231,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21053,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3050 MT OP-RD33-10092 Mini Tower דל",
+    "saleprice": 2740,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21055,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7050 MT OP7050-7017 Mini Tower דל",
+    "saleprice": 2527,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21056,
+    "name": "מחשב Intel Core i3 Dell Vostro 3668 MT VM-RD09-10071 Mini Tower דל",
+    "saleprice": 1815,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21058,
+    "name": "מחשב Intel Core i7 Dell Precision 3620 PM-RD33-10049 Mini Tower דל",
+    "saleprice": 5979,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21061,
+    "name": "מחשב Intel Xeon E5 Dell Precision T5810 PM-RD33-9886 Tower דל",
+    "saleprice": 8293,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 23013,
+    "name": "מחשב Intel Core i7 Dell Precision 3620 I7-256-16GBדל",
+    "saleprice": 7623,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 23965,
+    "name": "מחשב Intel Core i5 Dell Vostro 3000 Mini Tower דל",
+    "saleprice": 3122,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25100,
+    "name": "מחשב Dell OptiPlex 3010 I5-500-8GB Mini Tower מציאון עודפים",
+    "saleprice": 2311,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25101,
+    "name": "מחשב Dell OptiPlex 3010 I5-256-8GB Mini Tower מציאון עודפים",
+    "saleprice": 2425,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25102,
+    "name": "מחשב Dell OptiPlex 3010 I5-500-8GB Mini Tower מציאון עודפים",
+    "saleprice": 2592,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25103,
+    "name": "מחשב Dell OptiPlex 3010 I5-256-8GB Mini Tower מציאון עודפים",
+    "saleprice": 2750,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25257,
+    "name": "מחשב Intel Core i5 Dell Vostro 3668 V3668-5208 Mini Tower דל",
+    "saleprice": 2640,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25258,
+    "name": "מחשב Intel Core i3 Dell OptiPlex 3050 MT OP3050-30827 Mini Tower דל ",
+    "saleprice": 1675,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25259,
+    "name": "מחשב Intel Core i3 Dell Vostro 3668 V3668-3075 Mini Tower דל ",
+    "saleprice": 1375,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25260,
+    "name": "מחשב Intel Core i3 Dell Vostro 3268 MT VM-RD09-10447 Mini Tower דל",
+    "saleprice": 1815,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25261,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3060 Micro OP-RD33-10810 Mini PC דל ",
+    "saleprice": 2084,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25262,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7060 MT OP7060-8024 Mini Tower דל ",
+    "saleprice": 2649,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25263,
+    "name": "מחשב Intel Core i5 Dell OptiPlax 3060 MFF OP3060-6216 Mini PC דל ",
+    "saleprice": 2517,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25264,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7060 MT OP7060-7056 Mini Tower דל",
+    "saleprice": 2860,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25265,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3060 MT OP3060-4016 Mini Tower דל ",
+    "saleprice": 2125,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25266,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7060 MT OP7060-8280 Mini Tower דל ",
+    "saleprice": 3765,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25267,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7060 MT OP7060-9242 Mini Tower דל ",
+    "saleprice": 3130,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25268,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3060 Micro OP3060-5028 Mini PC דל",
+    "saleprice": 2109,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25269,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7060 Micro OP7060-9207 Mini PC דל",
+    "saleprice": 3279,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25270,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3060 MT OP-RD33-10830 Mini Tower דל ",
+    "saleprice": 2575,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25271,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7060 SFF OP7060-8255 Mini PC דל",
+    "saleprice": 3220,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25272,
+    "name": "מחשב Intel Core i3 Dell OptiPlex 3060 MT OP3060-2237 Mini Tower דל ",
+    "saleprice": 2150,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25273,
+    "name": "מחשב Intel Core i5 Dell Optiplex 3060 MT OP3060-5279 Mini Tower דל ",
+    "saleprice": 2500,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25274,
+    "name": "מחשב Intel Core i3 Dell OptiPlex 3060 MT OP3060-1090 Mini Tower דל ",
+    "saleprice": 1690,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25275,
+    "name": "מחשב Intel Core i3 Dell Vostro 3670 MT VM-RD09-10843 Mini Tower דל ",
+    "saleprice": 1330,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25276,
+    "name": "מחשב Intel Core i3 Dell Vostro 3668 VM-RD09-10201 Mini Tower דל",
+    "saleprice": 1910,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25277,
+    "name": "מחשב Intel Core i3 Dell Vostro 3670 MT VM-RD09-10842 Mini Tower דל ",
+    "saleprice": 1710,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25278,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3060 MT OP-RD33-10831 Mini Tower דל ",
+    "saleprice": 2160,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25279,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 7060 MT OP7060-5233 Mini Tower דל ",
+    "saleprice": 2675,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25280,
+    "name": "מחשב Intel Core i7 Dell Vostro 3670 VM-RD09-10848 Mini Tower דל ",
+    "saleprice": 2605,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25281,
+    "name": "מחשב Intel Core i5 Dell Vostro 3670 MT VM-RD09-10845 Mini Tower דל ",
+    "saleprice": 1990,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25282,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7060 MT OP7060-9251 Mini Tower דל ",
+    "saleprice": 3495,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25283,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3060 SFF OP3060-4209 Mini PC דל",
+    "saleprice": 2575,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25284,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7060 MT OP7060-7200 Mini Tower דל ",
+    "saleprice": 3895,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25285,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7060 MT OP7060-7268 Mini Tower דל ",
+    "saleprice": 4025,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25286,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7060 Micro OP-RD33-10812 Mini PC דל ",
+    "saleprice": 3150,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25287,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3060 Micro OP-RD33-10811 Mini PC דל ",
+    "saleprice": 2507,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25288,
+    "name": "מחשב Intel Core i7 Dell Optiplex 7060 MT OP-RD33-10806 Mini Tower דל ",
+    "saleprice": 2849,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25289,
+    "name": "מחשב Intel Core i3 Dell Inspiron 3670 IN-RD33-10898 Mini Tower דל ",
+    "saleprice": 2260,
+    "catCode": 231,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25290,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7060 Micro OP-RD33-10812 Mini PC דל ",
+    "saleprice": 3190,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25291,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 7060 SFF OP7060-5275 Mini PC דל ",
+    "saleprice": 2839,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25292,
+    "name": "מחשב Intel Core i5 Dell Vostro 3670 V3670-5020 Mini Tower דל",
+    "saleprice": 1990,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25293,
+    "name": "מחשב Intel Core i5 Dell Inspiron 3670 IN-RD33-10899 Mini Tower דל ",
+    "saleprice": 3245,
+    "catCode": 231,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25294,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7060 SFF OP-RD33-10802 Mini PC דל ",
+    "saleprice": 3223,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25295,
+    "name": "מחשב Intel Core i5 Dell Vostro 3670 MT VM-RD09-10846 Mini Tower דל",
+    "saleprice": 2565,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25296,
+    "name": "מחשב Intel Core i5 DELL Vostro Desktop Tower דל ",
+    "saleprice": 3422,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25297,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3060 SFF OP-RD33-10921 Mini PC דל",
+    "saleprice": 2139,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25298,
+    "name": "מחשב Intel Core i7 Dell Inspiron 3670 IN-RD33-10900 Mini Tower דל ",
+    "saleprice": 4725,
+    "catCode": 231,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25299,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7060 MT OP-RD33-10805 Mini Tower דל ",
+    "saleprice": 2955,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25300,
+    "name": "מחשב Intel Core i5 Dell Inspiron 5680 IN-RD33-10952 Mini Tower דל ",
+    "saleprice": 5645,
+    "catCode": 231,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25301,
+    "name": "מחשב Intel Core i7 Dell Inspiron 5680 IN-RD33-10953 Mini Tower דל ",
+    "saleprice": 6790,
+    "catCode": 231,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25302,
+    "name": "מחשב Intel Core i7 Dell Inspiron 5680 IN-RD33-10954 Mini Tower דל ",
+    "saleprice": 6935,
+    "catCode": 231,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25303,
+    "name": "מחשב Intel Core i5 Dell Vostro 3670 MT V3670-5028 Mini Tower דל ",
+    "saleprice": 2070,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25304,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7060 MT OP-RD33-10928 Mini Tower דל ",
+    "saleprice": 3925,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25305,
+    "name": "מחשב Intel Core i5 Dell Vostro 3670 MT V3670-5267 Mini Tower דל ",
+    "saleprice": 2530,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25306,
+    "name": "מחשב Dell Precision 5820 Workstation T5820-2209 Tower דל ",
+    "saleprice": 10319,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25307,
+    "name": "מחשב Dell Precision 5820 Workstation PM-RD33-10683 Tower דל ",
+    "saleprice": 8472,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25308,
+    "name": "מחשב Dell Precision 5820 Workstation PM-RD33-10682 Tower דל ",
+    "saleprice": 9545,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25309,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 PM-RD33-10930 Mini Tower דל ",
+    "saleprice": 4595,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25310,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 PM-RD33-10933 Mini Tower דל ",
+    "saleprice": 5695,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25311,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 PM-RD33-10935 Mini Tower דל ",
+    "saleprice": 6605,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25312,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 PM-RD33-10931 Mini Tower דל ",
+    "saleprice": 6720,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25313,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 PM-RD33-10932 Mini Tower דל ",
+    "saleprice": 6509,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25314,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 PM-RD33-10934 Mini Tower דל ",
+    "saleprice": 7505,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25315,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 PM-RD33-10987 Mini Tower דל ",
+    "saleprice": 7470,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25316,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 PM-RD33-10936 Mini Tower דל ",
+    "saleprice": 7833,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25317,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 PM-RD33-10938 Mini Tower דל ",
+    "saleprice": 8070,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25318,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 PM-RD33-10937 Mini Tower דל ",
+    "saleprice": 7995,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25319,
+    "name": "מחשב Intel Core i9 Dell Precision 5820 Workstation T5820-9266 Tower דל ",
+    "saleprice": 13985,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25320,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 Workstation T3630-7276 Mini Tower דל ",
+    "saleprice": 5710,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25321,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 Workstation T3630-7203 Mini Tower דל ",
+    "saleprice": 6635,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25322,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 Workstation T3630-7258 Mini Tower דל ",
+    "saleprice": 6499,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25323,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 Workstation T3630-7266 Mini Tower דל ",
+    "saleprice": 6639,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25324,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 Workstation T3630-7222 Mini Tower דל ",
+    "saleprice": 7749,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25325,
+    "name": "מחשב נייח  Dell Precision 7920 Xeon Bronze 3104-16GB-1TB-NVS ",
+    "saleprice": 197,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25326,
+    "name": "מחשב Intel Core i7 Dell XPS 8930 XPS8930-8127 Tower דל ",
+    "saleprice": 7075,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25327,
+    "name": "מחשב Intel Core i7 Dell XPS 8930 XP-RD33-10380 Tower דל ",
+    "saleprice": 6275,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25328,
+    "name": "מחשב Intel Core i7 Dell XPS 8930 I7-2TB32GB Tower דל ",
+    "saleprice": 8632,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25329,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7060 MT I7-512GB-32GB Mini Tower דל ",
+    "saleprice": 5692,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25331,
+    "name": "מחשב Dell Precision 5820 Workstation XEON512GB-64GB Tower דל ",
+    "saleprice": 137,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25332,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7060 MT I7-512-16GB Mini Tower דל ",
+    "saleprice": 5165,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 26810,
+    "name": "מחשב Intel Core i7 Dell Vostro I7-512-16GBדל ",
+    "saleprice": 4891,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27011,
+    "name": "מחשב Intel Core i7 Dell Precision T3620-4639 Mini Tower דל ",
+    "saleprice": 5195,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27012,
+    "name": "מחשב Intel Core i7 Dell Precision 3620 Workstation T3620-7251 דל ",
+    "saleprice": 6990,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27013,
+    "name": "מחשב Intel Core i7 Dell Precision 3620 PM-RD33-10237 Mini Tower דל  ",
+    "saleprice": 6329,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27014,
+    "name": "מחשב Intel Core i7 Dell Precision 3620 PM-RD33-10238 Mini Tower דל ",
+    "saleprice": 7005,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27015,
+    "name": "מחשב Intel Xeon E5 Dell Precision T5810 PM-RD33-10239 Tower דל ",
+    "saleprice": 10160,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27016,
+    "name": "מחשב Intel Core i7 Dell Precision 3620 Workstation T3620-7224 דל ",
+    "saleprice": 8780,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27017,
+    "name": "מחשב Intel Xeon E5 Dell Precision T5810 PM-RD33-10656 Tower דל ",
+    "saleprice": 10460,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27018,
+    "name": "מחשב Intel Core i7 Dell Precision 3620 PM-RD33-10457 Mini Tower דל ",
+    "saleprice": 6030,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27019,
+    "name": "מחשב Intel Core i7 Dell Precision 3620 PM-RD33-10462 Mini Tower דל  ",
+    "saleprice": 6730,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27020,
+    "name": "מחשב Intel Core i7 Dell Precision 3620 PM-RD33-10460 Mini Tower דל  ",
+    "saleprice": 7655,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27021,
+    "name": "מחשב Intel Core i7 Dell Precision 3620 PM-RD33-10456 Mini Tower דל  ",
+    "saleprice": 7730,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27022,
+    "name": "מחשב Dell Precision 3630 Workstation T3630-2201 Mini Tower דל",
+    "saleprice": 18360,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27025,
+    "name": "מחשב Intel Xeon E5 Dell Precision T5810 PM-RD33-10459 Tower דל  ",
+    "saleprice": 8560,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27026,
+    "name": "מחשב Intel Xeon E5 Dell Precision T5810 PM-RD33-10458 Tower דל  ",
+    "saleprice": 9340,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27027,
+    "name": "מחשב Intel Core i7 Dell Precision T3620 T3620-7200 Mini Tower דל  ",
+    "saleprice": 4995,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27028,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 PM-RD33-10932 Mini Tower דל  ",
+    "saleprice": 6730,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27030,
+    "name": "מחשב Intel Core i7 Dell Precision 3620 Workstation PM-RD33-10532 Mini Tower דל  ",
+    "saleprice": 7270,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27031,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 Workstation PM-RD33-11032 Mini Tower דל  ",
+    "saleprice": 5795,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27032,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 Workstation T3630-7272 Mini Tower דל  ",
+    "saleprice": 4645,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27033,
+    "name": "מחשב Intel Core i7 Dell Precision T3630 Workstation T3630-7211 Mini Tower דל  ",
+    "saleprice": 5390,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27034,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 Workstation T3630-7294 Mini Tower דל  ",
+    "saleprice": 4580,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27036,
+    "name": "מחשב נייח  Dell Precision 7920 Xeon Bronze 3104-32GB-3TB-NVS ",
+    "saleprice": 218,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27037,
+    "name": "מחשב נייח  Dell Precision 7920 Xeon Bronze 3104-64GB-5TB-NVS ",
+    "saleprice": 237,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27038,
+    "name": "מחשב נייח  Dell Precision 7910 Dual Xeon E5-2630 32GB-512SSD-P5000 ",
+    "saleprice": 269,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27039,
+    "name": "מחשב נייח  Dell Precision 7910 Dual Xeon E5-2630 32GB-512SSD-M5000 ",
+    "saleprice": 246,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27040,
+    "name": "מחשב נייח  Dell Precision 7910 Dual Xeon E5-2630 64GB-5TB-P5000 ",
+    "saleprice": 296,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27053,
+    "name": "מחשב Dell Precision 5820 Workstation T5820-2259 Tower דל ",
+    "saleprice": 7620,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27056,
+    "name": "מחשב Intel Core i7 Dell XPS 8930 XP-RD33-10472 Tower דל ",
+    "saleprice": 7255,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27058,
+    "name": "מחשב Intel Core i7 Dell XPS 8930 XPS8930-8116 Tower דל  ",
+    "saleprice": 6225,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28059,
+    "name": "מחשב Intel Core i5 Dell Vostro 3670 I5-1000-8GBדל ",
+    "saleprice": 2821,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28084,
+    "name": "מחשב Intel Core i5 Dell Vostro 3670 MT VM-RD09-10844 Mini Tower דל  ",
+    "saleprice": 2325,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28085,
+    "name": "מחשב Intel Core i5 Dell Vostro 3670 MT V3670-5219 Mini Tower דל  ",
+    "saleprice": 2410,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28086,
+    "name": "מחשב Intel Core i5 Dell OptiPlex MT 7060 OP7060-5027 Mini Tower דל ",
+    "saleprice": 2205,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28087,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3060 OP3060-5078 Mini PC דל ",
+    "saleprice": 2119,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28088,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7060 MT OP7060-7004 Mini Tower דל ",
+    "saleprice": 3630,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28089,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3060 SFF OP-RD33-10920 Mini PC דל ",
+    "saleprice": 2610,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28090,
+    "name": "מחשב Intel Core i5 Dell Optiplex 7060 MT OP-RD33-10804 Mini Tower דל  ",
+    "saleprice": 2680,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28091,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3070 MFF OP-RD33-11500 Mini PC דל ",
+    "saleprice": 2077,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28092,
+    "name": "מחשב Intel Core i5 Dell Vostro 3670 MT VM-RD09-11154 Mini Tower דל ",
+    "saleprice": 2030,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28093,
+    "name": "מחשב Intel Core i3 Dell Optiplex 3060 MFF OP3060-3285 Mini PC דל  ",
+    "saleprice": 2369,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28094,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 7060 SFF OP-RD33-10873 Mini PC דל  ",
+    "saleprice": 2789,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28095,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7060 MT OP-RD33-10803 Mini Tower דל ",
+    "saleprice": 3146,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28096,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7060 MT OP-RD33-10807 Mini Tower דל  ",
+    "saleprice": 3390,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28097,
+    "name": "מחשב Intel Core i7 Dell XPS 8930 XPS8930-7206 Tower דל  ",
+    "saleprice": 6125,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28098,
+    "name": "מחשב Intel Core i7 Dell XPS 8930 XP-RD33-11453 Mini Tower דל ",
+    "saleprice": 5845,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28099,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 7060 OP-RD33-11158 Mini Tower דל ",
+    "saleprice": 2198,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28100,
+    "name": "מחשב Intel Core i7 Dell Vostro 3670 VM-RD09-11057 Mini Tower דל",
+    "saleprice": 3220,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28101,
+    "name": "מחשב Intel Core i7 Dell XPS 8930 XP-RD33-11454 Mini Tower דל",
+    "saleprice": 6935,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28102,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3070 MFF OP-RD33-11501 Mini PC דל",
+    "saleprice": 2590,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28103,
+    "name": "מחשב Intel Core i7 Dell XPS 8930 XP-RD33-11455 Mini Tower דל ",
+    "saleprice": 7205,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28104,
+    "name": "מחשב Intel Core i7 Dell XPS 8930 XPS8930-7280 Mini Tower דל ",
+    "saleprice": 7250,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28105,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7060 MT OP-RD33-10808 Mini Tower דל ",
+    "saleprice": 4250,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28106,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 PM-RD33-11507 Mini Tower דל ",
+    "saleprice": 5970,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28107,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 PM-RD33-11510 Mini Tower דל ",
+    "saleprice": 7875,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28108,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 PM-RD33-11509 Mini Tower דל ",
+    "saleprice": 7585,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28109,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 PM-RD33-11506 Mini Tower דל ",
+    "saleprice": 6785,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28110,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 PM-RD33-11512 Mini Tower דל",
+    "saleprice": 7180,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28190,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 I7-512-16GBדל ",
+    "saleprice": 8896,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 28406,
+    "name": "מחשב Intel Core i5 Dell Vostro 3000 I7-256-8GBדל ",
+    "saleprice": 4432,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29374,
+    "name": "מחשב Intel Core i5 Dell Vostro 3671 MT VM-RD09-11720 Mini Tower דל  ",
+    "saleprice": 2110,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29375,
+    "name": "מחשב Intel Core i5 Dell Inspiron 3671 N3671-6233 דל  ",
+    "saleprice": 3160,
+    "catCode": 231,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29376,
+    "name": "מחשב Intel Core i3 Dell Vostro 3671 MT VM-RD09-11722 Mini Tower דל  ",
+    "saleprice": 1635,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29377,
+    "name": "מחשב Intel Core i5 Dell Vostro 3671 MT VM-RD09-11721 Mini Tower דל  ",
+    "saleprice": 2429,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29378,
+    "name": "מחשב Intel Core i7 Dell Inspiron N3671 N3671-7416 דל  ",
+    "saleprice": 4090,
+    "catCode": 231,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29379,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 PM-RD33-11832 Mini Tower דל  ",
+    "saleprice": 8680,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29380,
+    "name": "מחשב Intel Core i5 Dell Vostro 3671 MT V3671-5230 Mini Tower דל  ",
+    "saleprice": 2840,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29381,
+    "name": "מחשב Intel Core i5 Dell Vostro 3671 V3671-5027 Mini Tower דל  ",
+    "saleprice": 2035,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29382,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7070 MT OP7070-7078 Micro PC דל  ",
+    "saleprice": 3017,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29383,
+    "name": "מחשב Intel Core i3 Dell Vostro 3671 MT VM-RD09-11723 Mini Tower דל  ",
+    "saleprice": 2045,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29384,
+    "name": "מחשב Intel Core i5 Dell Vostro 3671 MT VM-RD09-11719 Mini Tower דל  ",
+    "saleprice": 2890,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29385,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 7070 OP-RD33-11575 Micro PC דל  ",
+    "saleprice": 2890,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29386,
+    "name": "מחשב Dell Precision 5820 PM-RD33-11789 Tower דל  ",
+    "saleprice": 7740,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29388,
+    "name": "מחשב Dell Precision 5820 PM-RD33-11788 Tower דל  ",
+    "saleprice": 9530,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29391,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3070 MT OP-RD33-11555 Mini Tower דל  ",
+    "saleprice": 2546,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29392,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3070 MT OP-RD33-11553 Mini Tower דל  ",
+    "saleprice": 2129,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29393,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 7070 MT OP-RD33-11557 Mini Tower דל ",
+    "saleprice": 2269,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29394,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3070 MT OP-RD33-11554 Mini Tower דל  ",
+    "saleprice": 2335,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29395,
+    "name": "מחשב Intel Core i5 Dell Optiplex 3070 SFF OP3070-5277 Mini PC דל ",
+    "saleprice": 2540,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29396,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7070 MT OP-RD33-11562 Mini Tower דל  ",
+    "saleprice": 3139,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29397,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7070 MT OP-RD33-11560 Mini Tower דל  ",
+    "saleprice": 3165,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29398,
+    "name": "מחשב Intel Core i3 Dell OptiPlex 3070 MT OP-RD33-11552 Mini Tower דל  ",
+    "saleprice": 2240,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29399,
+    "name": "מחשב Intel Core i9 Dell OptiPlex 7070 MT OP-RD33-11565 Mini Tower דל  ",
+    "saleprice": 4885,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29400,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3070 MT OP-RD33-11556 Mini Tower דל  ",
+    "saleprice": 2627,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29401,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7070 MT OP-RD33-11564 Mini Tower דל  ",
+    "saleprice": 3845,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29403,
+    "name": "מחשב Intel Core i9 Dell OptiPlex 7071 Tower OP7071-9282 Mini Tower דל ",
+    "saleprice": 4920,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29404,
+    "name": "מחשב Intel Core i9 Dell OptiPlex 7070 MT OP-RD33-11566 Mini Tower דל",
+    "saleprice": 5209,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29405,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 7070 MT OP-RD33-11558 Mini Tower דל",
+    "saleprice": 2710,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29410,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7071 Tower OP7071-7250 Mini Tower דל ",
+    "saleprice": 4320,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29411,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7070 MT OP-RD33-11559 Mini Tower דל  ",
+    "saleprice": 3141,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29412,
+    "name": "מחשב Intel Core i5 Dell Optiplex 3070 SFF OP3070-5069 Mini PC דל  ",
+    "saleprice": 2240,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29413,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7070 MT OP-RD33-11563 Mini Tower דל ",
+    "saleprice": 3463,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29414,
+    "name": "מחשב Intel Core i3 Dell Optiplex 3070 SFF OP3070-3043 Mini PC דל",
+    "saleprice": 1979,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29415,
+    "name": "מחשב Intel Core i3 Dell Optiplex 3070 SFF OP3070-3272 Mini PC דל",
+    "saleprice": 2300,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29417,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3070 MFF OP-RD33-11571 Mini PC דל ",
+    "saleprice": 2137,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29418,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7070 MT OP7070-7094 Mini Tower דל  ",
+    "saleprice": 3459,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29419,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3070 MT OP3070-5201 Mini Tower דל  ",
+    "saleprice": 2785,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29420,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7070 MT OP7070-7210 Mini Tower דל ",
+    "saleprice": 3165,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29421,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 7070 MT OP7070-5270 Mini Tower דל  ",
+    "saleprice": 3070,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29422,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7070 MT OP7070-7082 Mini Tower דל  ",
+    "saleprice": 2843,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29423,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7070 MT OP7070-7245 Mini Tower דל  ",
+    "saleprice": 3266,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29424,
+    "name": "מחשב Intel Core i5 Dell OPTIPLEX 3070 MT OP3070-5263 Mini Tower דל ",
+    "saleprice": 2560,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29425,
+    "name": "מחשב Intel Core i5 Dell OPTIPLEX 7070 MT OP7070-5225 Mini Tower דל  ",
+    "saleprice": 2660,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29426,
+    "name": "מחשב Intel Core i5 Dell OPTIPLEX 3070 MT OP3070-5022 Mini Tower דל  ",
+    "saleprice": 2585,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29427,
+    "name": "מחשב Intel Core i7 Dell Optiplex 7070 MFF OP-RD33-11576 Mini PC דל  ",
+    "saleprice": 2920,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29428,
+    "name": "מחשב Intel Core i5 Dell Optiplex 3070 OP-RD33-11572 Mini PC דל  ",
+    "saleprice": 2839,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29429,
+    "name": "מחשב Intel Core i5 Dell Optiplex 7070 MT OP7070-5027 Mini Tower דל ",
+    "saleprice": 2685,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29430,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3070 MT OP3070-5047 Mini Tower דל  ",
+    "saleprice": 2530,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29431,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3070 MT OP3070-5083 Mini Tower דל  ",
+    "saleprice": 2460,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29432,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7070 Micro OP7070-7279 Mini PC דל",
+    "saleprice": 3200,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29434,
+    "name": "מחשב Intel Core i9 Dell OptiPlex 7070 MT OP7070-9214 Mini Tower דל",
+    "saleprice": 5835,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29435,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7070 MT OP7070-7202 Mini Tower דל  ",
+    "saleprice": 4010,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29436,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3070 MFF OP3070-5205 Mini PC דל",
+    "saleprice": 2530,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29437,
+    "name": "מחשב Intel Core i3 Dell OptiPlex 3070 MT OP3070-3250 Mini Tower דל  ",
+    "saleprice": 2220,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29438,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7070 Micro OP7070-7274 Mini PC דל  ",
+    "saleprice": 4315,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29439,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 7070 Micro OP7070-5201 Mini PC דל  ",
+    "saleprice": 3110,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29440,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 7070 Micro OP7070-5011 Mini PC דל",
+    "saleprice": 2848,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29441,
+    "name": "מחשב Intel Core i5 Dell Optiplex 3070 OP-RD33-11573 Mini PC דל  ",
+    "saleprice": 2640,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29442,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 Workstation T3630-7283 Mini Tower דל ",
+    "saleprice": 6255,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29443,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 PM-RD33-11511 Mini Tower דל",
+    "saleprice": 5460,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 29444,
+    "name": "מחשב Intel Core i7 Dell Precision 3630 Workstation T3630-7201 Mini Tower דל ",
+    "saleprice": 7585,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31033,
+    "name": "מחשב Intel Core i5 Dell Vostro 3471 V3471-5212 Mini PC דל  ",
+    "saleprice": 3370,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31036,
+    "name": "מחשב Intel Core i7 Dell Inspiron 3881 IN-RD33-12082 Mini Tower דל",
+    "saleprice": 4830,
+    "catCode": 231,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31038,
+    "name": "מחשב Intel Core i3 Dell Vostro 3471 V3471-3212 Mini PC דל  ",
+    "saleprice": 2590,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31039,
+    "name": "מחשב Intel Core i7 Dell Precision 3640 T3640-9112 דל  ",
+    "saleprice": 6355,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31040,
+    "name": "מחשב Intel Core i7 Dell Precision 3640 PM-RD33-12029 Mini Tower דל  ",
+    "saleprice": 4590,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31041,
+    "name": "מחשב Intel Core i5 Dell Inspiron 3881 IN-RD33-12081 Mini Tower דל  ",
+    "saleprice": 3789,
+    "catCode": 231,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31043,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 7080 Micro OP7080-6110 Mini PC דל  ",
+    "saleprice": 3570,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31046,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7080 MFF OP7080-8310 Mini PC דל  ",
+    "saleprice": 3790,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31047,
+    "name": "מחשב Intel Core i9 Dell OptiPlex 7080 MT OP7080-9941 Mini Tower דל  ",
+    "saleprice": 7230,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31050,
+    "name": "מחשב Intel Core i9 Dell Precision T3640 T3640-9142 דל  ",
+    "saleprice": 6805,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31051,
+    "name": "מחשב Intel Core i7 Dell Precision T3640 PM-RD33-12034 Mini Tower דל  ",
+    "saleprice": 7165,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31052,
+    "name": "מחשב Intel Core i7 Dell Precision T3640 PM-RD33-12031 Mini Tower דל  ",
+    "saleprice": 7910,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31054,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7080 MT OP7080-8420 Mini Tower דל",
+    "saleprice": 3690,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31055,
+    "name": "מחשב Intel Core i7 Dell Precision T3640 PM-RD33-12035 Mini Tower דל  ",
+    "saleprice": 8740,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31056,
+    "name": "מחשב Intel Core i9 Dell Precision 3640 PM-RD33-12036 Mini Tower דל  ",
+    "saleprice": 8770,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31057,
+    "name": "מחשב Intel Core i7 Dell Precision 3640 PM-RD33-12030 Mini Tower דל ",
+    "saleprice": 5180,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31060,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7080 MT OP7080-8220 Mini Tower דל ",
+    "saleprice": 3790,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32052,
+    "name": "מחשב Intel Core i5 Dell Vostro I3-256-8GB דל  ",
+    "saleprice": 2642,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32388,
+    "name": "מחשב Intel Core i5 DELL Vostro Desktop Tower דל ",
+    "saleprice": 3752,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32486,
+    "name": "מחשב Intel Core i7 Inspiron Compact Desktop Mini Tower דל",
+    "saleprice": 7742,
+    "catCode": 231,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32518,
+    "name": "מחשב Intel Core i7 Dell Optiplex 7080 MFF OP-RD33-12342 Mini PC דל",
+    "saleprice": 3940,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32520,
+    "name": "מחשב Intel Core i7 Dell Inspiron 3881 N3881-8216 דל",
+    "saleprice": 5190,
+    "catCode": 231,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32521,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7080 MT OP7080-7933 Mini Tower דל",
+    "saleprice": 4759,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32523,
+    "name": "מחשב Intel Core i7 Dell Optiplex 7080 MFF OP-RD33-12341 Mini PC דל",
+    "saleprice": 4450,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32525,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7080 SFF OP7080-7705 Mini PC דל",
+    "saleprice": 4370,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32526,
+    "name": "מחשב Intel Core i7 Dell Precision 3640 PM-RD33-12438 Mini Tower דל",
+    "saleprice": 7010,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32527,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7080 MT OP-RD33-12495 Mini Tower דל",
+    "saleprice": 4690,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32532,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7080 OP-RD33-12308 Mini Tower דל",
+    "saleprice": 4870,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32534,
+    "name": "מחשב Intel Core i7 Dell Precision 3640 PM-RD33-12434 Mini Tower דל",
+    "saleprice": 4430,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32539,
+    "name": "מחשב Intel Core i7 Dell Precision 3640 PM-RD33-12436 Mini Tower דל",
+    "saleprice": 7309,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32540,
+    "name": "מחשב Intel Core i7 Dell Precision 3640 PM-RD33-12437 Mini Tower דל",
+    "saleprice": 7050,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32546,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7080 SFF OP-RD33-12313 Mini PC דל",
+    "saleprice": 5185,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32549,
+    "name": "מחשב Intel Core i7 Dell Precision 3640 PM-RD33-12435 Mini Tower דל",
+    "saleprice": 8710,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32553,
+    "name": "מחשב Intel Core i7 Dell Precision T3640-9100 דל",
+    "saleprice": 84,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32557,
+    "name": "מחשב Intel Core i7 Dell Inspiron G5 5000 G5090-8720 דל",
+    "saleprice": 8250,
+    "catCode": 231,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32560,
+    "name": "מחשב Intel Core i7 Dell Precision T3640 T3640-9330 Tower דל",
+    "saleprice": 5790,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32981,
+    "name": "מחשב Intel Core i7 Dell Precision 3640 I7-1000-16GB דל",
+    "saleprice": 12532,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33419,
+    "name": "מחשב Intel Core i7 DELL Vostro Desktop Tower דל ",
+    "saleprice": 4872,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33520,
+    "name": "מחשב Intel Core i5 Dell Optiplex 3080 MT OP3080-4140 Mini Tower דל",
+    "saleprice": 2456,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33527,
+    "name": "מחשב Intel Core i5 Dell Vostro PC 3888 V3888-5330 Mini Tower דל",
+    "saleprice": 2510,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33530,
+    "name": "מחשב Intel Core i5 Dell Vostro PC 3888 V3888-5250 Mini Tower דל",
+    "saleprice": 2483,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33533,
+    "name": "מחשב Intel Core i5 Dell Optiplex 3080 MFF OP3080-4440 Mini PC דל",
+    "saleprice": 3360,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33536,
+    "name": "מחשב נייח Intel Core i5 Dell Optiplex 7000 SFF OP-RD33-13896 דל",
+    "saleprice": 35,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33547,
+    "name": "מחשב Intel Core i9 Dell XPS 8940 XP-RD33-12715 דל",
+    "saleprice": 85,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33553,
+    "name": "מחשב Intel Core i7 Dell Precision T3650 T3650-8221 דל",
+    "saleprice": 6920,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33554,
+    "name": "מחשב Intel Core i7 Dell Precision T3650 T3650-8552 דל",
+    "saleprice": 8740,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34137,
+    "name": "מחשב Intel Core i9 Dell Optiplex 7090 MT OP7090-9415 Mini Tower דל",
+    "saleprice": 6890,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34139,
+    "name": "מחשב Intel Core i7 Dell Precision T3650 PM-RD33-12824 דל",
+    "saleprice": 5740,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34140,
+    "name": "מחשב Intel Core i7 Dell Optiplex 7090 OP7090-7617 Mini Tower דל",
+    "saleprice": 4685,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34141,
+    "name": "מחשב Intel Core i7 Dell Precision 3650 PM-RD33-12838 Tower דל",
+    "saleprice": 4470,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34142,
+    "name": "מחשב Intel Core i5 Dell Optiplex 7090 OP7090-4110 Mini PC דל",
+    "saleprice": 3040,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34144,
+    "name": "מחשב Intel Core i5 Dell Inspiron 3891 N3891-5380 Mini Tower דל",
+    "saleprice": 4015,
+    "catCode": 231,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34148,
+    "name": "מחשב Intel Core i7 Dell Precision 3650 PM-RD33-13019 Mini Tower דל",
+    "saleprice": 7880,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34150,
+    "name": "מחשב Intel Core i7 Dell Precision 3650 PM-RD33-13020 Mini Tower דל",
+    "saleprice": 11750,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34154,
+    "name": "מחשב Intel Core i7 Dell Precision T3650 T3650-8740 דל",
+    "saleprice": 9510,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34197,
+    "name": "מחשב Intel Core i5 DELL Vostro Desktop Tower דל ",
+    "saleprice": 5433,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35109,
+    "name": "מחשב Intel Core i7 Dell XPS 8940 I7-1500-16GB דל",
+    "saleprice": 10689,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35445,
+    "name": "מחשב נייח  Dell Precision 7910 Dual Xeon E5-2697A 128GB-6TB-NVS ",
+    "saleprice": 338,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": "<table style=\"mso-cellspacing: 0cm; mso-yfti-tbllook: 1184; mso-padding-alt: 7.5pt 7.5pt 7.5pt 7.5pt\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" class=\"MsoNormalTable\">\r\n    <tbody>\r\n        <tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes\">\r\n            <td style=\"BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BACKGROUND: white; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 7.5pt; PADDING-TOP: 7.5pt; PADDING-LEFT: 7.5pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 7.5pt\">\r\n            <p class=\"MsoNormal\" style=\"unicode-bidi: embed; DIRECTION: ltr; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt\"><span style=\"FONT-SIZE: 12pt; FONT-FAMILY: &quot;Times New Roman&quot;,&quot;serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;\"><font face=\"Arial\">Base System<o:p></o:p></font></span></p>\r\n            </td>\r\n            <td style=\"BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BACKGROUND: white; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 7.5pt; PADDING-TOP: 7.5pt; PADDING-LEFT: 7.5pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 7.5pt\">\r\n            <p class=\"MsoNormal\" style=\"unicode-bidi: embed; DIRECTION: ltr; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt\"><span style=\"FONT-SIZE: 12pt; FONT-FAMILY: &quot;Times New Roman&quot;,&quot;serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;\"><font face=\"Arial\">Dell Precision Tower 7910 XCTO Base<o:p></o:p></font></span></p>\r\n            </td>\r\n        </tr>\r\n        <tr style=\"mso-yfti-irow: 1\">\r\n            <td style=\"BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BACKGROUND: #e7e7e7; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 7.5pt; PADDING-TOP: 7.5pt; PADDING-LEFT: 7.5pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 7.5pt\">\r\n            <p class=\"MsoNormal\" style=\"unicode-bidi: embed; DIRECTION: ltr; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt\"><span style=\"FONT-SIZE: 12pt; FONT-FAMILY: &quot;Times New Roman&quot;,&quot;serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;\"><font face=\"Arial\">Processor<o:p></o:p></font></span></p>\r\n            </td>\r\n            <td style=\"BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BACKGROUND: #e7e7e7; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 7.5pt; PADDING-TOP: 7.5pt; PADDING-LEFT: 7.5pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 7.5pt\">\r\n            <p class=\"MsoNormal\" style=\"unicode-bidi: embed; DIRECTION: ltr; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt\"><span style=\"FONT-SIZE: 12pt; FONT-FAMILY: &quot;Times New Roman&quot;,&quot;serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;\"><font face=\"Arial\">2x Intel&reg; Xeon&reg; Processor E5-2697A v4 (each: 16C, 2.6GHz, 3.6GHz Turbo, HT, 40M, 145W)<o:p></o:p></font></span></p>\r\n            </td>\r\n        </tr>\r\n        <tr style=\"mso-yfti-irow: 2\">\r\n            <td style=\"BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BACKGROUND: white; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 7.5pt; PADDING-TOP: 7.5pt; PADDING-LEFT: 7.5pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 7.5pt\">\r\n            <p class=\"MsoNormal\" style=\"unicode-bidi: embed; DIRECTION: ltr; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt\"><span style=\"FONT-SIZE: 12pt; FONT-FAMILY: &quot;Times New Roman&quot;,&quot;serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;\"><font face=\"Arial\">Memory<o:p></o:p></font></span></p>\r\n            </td>\r\n            <td style=\"BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BACKGROUND: white; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 7.5pt; PADDING-TOP: 7.5pt; PADDING-LEFT: 7.5pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 7.5pt\">\r\n            <p class=\"MsoNormal\" style=\"unicode-bidi: embed; DIRECTION: ltr; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt\"><span style=\"FONT-SIZE: 12pt; FONT-FAMILY: &quot;Times New Roman&quot;,&quot;serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;\"><font face=\"Arial\">128GB (16x8GB) DDR4 2400MHz ECC RDIMM<o:p></o:p></font></span></p>\r\n            </td>\r\n        </tr>\r\n        <tr style=\"mso-yfti-irow: 3\">\r\n            <td style=\"BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BACKGROUND: #e7e7e7; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 7.5pt; PADDING-TOP: 7.5pt; PADDING-LEFT: 7.5pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 7.5pt\">\r\n            <p class=\"MsoNormal\" style=\"unicode-bidi: embed; DIRECTION: ltr; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt\"><span style=\"FONT-SIZE: 12pt; FONT-FAMILY: &quot;Times New Roman&quot;,&quot;serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;\"><font face=\"Arial\">Video Card<o:p></o:p></font></span></p>\r\n            </td>\r\n            <td style=\"BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BACKGROUND: #e7e7e7; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 7.5pt; PADDING-TOP: 7.5pt; PADDING-LEFT: 7.5pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 7.5pt\">\r\n            <p class=\"MsoNormal\" style=\"unicode-bidi: embed; DIRECTION: ltr; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt\"><span style=\"FONT-SIZE: 12pt; FONT-FAMILY: &quot;Times New Roman&quot;,&quot;serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;\"><font face=\"Arial\">NVIDIA NVS 310, 512MB, 2 DP<o:p></o:p></font></span></p>\r\n            </td>\r\n        </tr>\r\n        <tr style=\"mso-yfti-irow: 4\">\r\n            <td style=\"BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BACKGROUND: white; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 7.5pt; PADDING-TOP: 7.5pt; PADDING-LEFT: 7.5pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 7.5pt\">\r\n            <p class=\"MsoNormal\" style=\"unicode-bidi: embed; DIRECTION: ltr; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt\"><span style=\"FONT-SIZE: 12pt; FONT-FAMILY: &quot;Times New Roman&quot;,&quot;serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;\"><font face=\"Arial\">Hard Drive<o:p></o:p></font></span></p>\r\n            </td>\r\n            <td style=\"BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BACKGROUND: white; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 7.5pt; PADDING-TOP: 7.5pt; PADDING-LEFT: 7.5pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 7.5pt\">\r\n            <p class=\"MsoNormal\" style=\"unicode-bidi: embed; DIRECTION: ltr; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt\"><span style=\"FONT-SIZE: 12pt; FONT-FAMILY: &quot;Times New Roman&quot;,&quot;serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;\"><font face=\"Arial\">1x256GB 2.5&quot; SATA 6Gb/s Solid State Drive<br />\r\n            1x6TB 3.5&quot; SAS 6Gb/s Hard Disk Drive<o:p></o:p></font></span></p>\r\n            </td>\r\n        </tr>\r\n        <tr style=\"mso-yfti-irow: 5\">\r\n            <td style=\"BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BACKGROUND: #e7e7e7; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 7.5pt; PADDING-TOP: 7.5pt; PADDING-LEFT: 7.5pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 7.5pt\">\r\n            <p class=\"MsoNormal\" style=\"unicode-bidi: embed; DIRECTION: ltr; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt\"><span style=\"FONT-SIZE: 12pt; FONT-FAMILY: &quot;Times New Roman&quot;,&quot;serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;\"><font face=\"Arial\">Optical Drive<o:p></o:p></font></span></p>\r\n            </td>\r\n            <td style=\"BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BACKGROUND: #e7e7e7; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 7.5pt; PADDING-TOP: 7.5pt; PADDING-LEFT: 7.5pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 7.5pt\">\r\n            <p class=\"MsoNormal\" style=\"unicode-bidi: embed; DIRECTION: ltr; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt\"><span style=\"FONT-SIZE: 12pt; FONT-FAMILY: &quot;Times New Roman&quot;,&quot;serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;\"><font face=\"Arial\">8x Slimline DVD-ROM<o:p></o:p></font></span></p>\r\n            </td>\r\n        </tr>\r\n        <tr style=\"mso-yfti-irow: 6\">\r\n            <td style=\"BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BACKGROUND: white; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 7.5pt; PADDING-TOP: 7.5pt; PADDING-LEFT: 7.5pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 7.5pt\">\r\n            <p class=\"MsoNormal\" style=\"unicode-bidi: embed; DIRECTION: ltr; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt\"><span style=\"FONT-SIZE: 12pt; FONT-FAMILY: &quot;Times New Roman&quot;,&quot;serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;\"><font face=\"Arial\">HDD Controller<o:p></o:p></font></span></p>\r\n            </td>\r\n            <td style=\"BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BACKGROUND: white; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 7.5pt; PADDING-TOP: 7.5pt; PADDING-LEFT: 7.5pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 7.5pt\">\r\n            <p class=\"MsoNormal\" style=\"unicode-bidi: embed; DIRECTION: ltr; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt\"><span style=\"FONT-SIZE: 12pt; FONT-FAMILY: &quot;Times New Roman&quot;,&quot;serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;\"><font face=\"Arial\">Integrated LSI SAS 3008 12Gb/s SATA/SAS controller<o:p></o:p></font></span></p>\r\n            </td>\r\n        </tr>\r\n        <tr style=\"mso-yfti-irow: 7; mso-yfti-lastrow: yes\">\r\n            <td style=\"BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BACKGROUND: #e7e7e7; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 7.5pt; PADDING-TOP: 7.5pt; PADDING-LEFT: 7.5pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 7.5pt\">\r\n            <p class=\"MsoNormal\" style=\"unicode-bidi: embed; DIRECTION: ltr; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt\"><span style=\"FONT-SIZE: 12pt; FONT-FAMILY: &quot;Times New Roman&quot;,&quot;serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;\"><font face=\"Arial\">Packaging<o:p></o:p></font></span></p>\r\n            </td>\r\n            <td style=\"BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BACKGROUND: #e7e7e7; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 7.5pt; PADDING-TOP: 7.5pt; PADDING-LEFT: 7.5pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 7.5pt\">\r\n            <p class=\"MsoNormal\" style=\"unicode-bidi: embed; DIRECTION: ltr; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt\"><span style=\"FONT-SIZE: 12pt; FONT-FAMILY: &quot;Times New Roman&quot;,&quot;serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;\"><font face=\"Arial\">Dell Precision Packaging<o:p></o:p></font></span></p>\r\n            </td>\r\n        </tr>\r\n    </tbody>\r\n</table>"
+  },
+  {
+    "proid": 35706,
+    "name": "מחשב Intel Core i9 Dell XPS 8950 XPS8950-9112 דל",
+    "saleprice": 94,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35707,
+    "name": "מחשב Intel Core i9 Dell XPS 8950 XPS8950-9231 דל",
+    "saleprice": 103,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35709,
+    "name": "מחשב Intel Core i3 Dell OptiPlex 3090 MFF OP3090-1130 Mini PC דל",
+    "saleprice": 2045,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35713,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3090 MFF OP3090-4007 Mini PC דל",
+    "saleprice": 2093,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35714,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7090 MFF OP-RD33-13072 Mini PC דל",
+    "saleprice": 3795,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35717,
+    "name": "מחשב Intel Core i5 Dell Optiplex 3090 MFF OP3090-4410 Mini PC דל",
+    "saleprice": 2405,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35722,
+    "name": "מחשב Intel Core i7 Dell Precision 3650 T3650-8249 Mini Tower דל",
+    "saleprice": 6510,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35723,
+    "name": "מחשב Intel Core i7 Dell Precision 3650 PM-RD33-13208 Mini Tower דל",
+    "saleprice": 8035,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35724,
+    "name": "מחשב Intel Core i7 Dell Precision 3650 T3650-8521 Mini Tower דל",
+    "saleprice": 7830,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35725,
+    "name": "מחשב Intel Core i7 Dell Precision 3650  PM-RD33-13209 Mini Tower דל",
+    "saleprice": 8140,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35726,
+    "name": "מחשב Intel Core i7 Dell Precision T3650 T3650-8738 דל",
+    "saleprice": 98,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35727,
+    "name": "מחשב Intel Core i7 Dell XPS 8950 XP-RD33-13367 דל",
+    "saleprice": 82,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 35785,
+    "name": "מחשב Intel Core i5 Dell Optiplex 3090 MFF I5-256-16GB Mini PC דל",
+    "saleprice": 3515,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36263,
+    "name": "מחשב Intel Core i7 Dell XPS 8940 XPS8940-8117 Mini Tower דל",
+    "saleprice": 8560,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36264,
+    "name": "מחשב Intel Core i7 Dell XPS 8940 I7-11700 GTX 1660Ti 1.5TB 32GB דל",
+    "saleprice": 108,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36434,
+    "name": "מחשב Intel Core i3 Dell Vostro 3888 V3888-3003 דל",
+    "saleprice": 16,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36436,
+    "name": "מחשב נייח Intel Core i5 Dell Optiplex 7000 MFF OP-RD33-13889 דל",
+    "saleprice": 32,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36437,
+    "name": "מחשב Intel Core i5 Dell Optiplex 3090 OP3090-5023 Mini Tower דל",
+    "saleprice": 2072,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36439,
+    "name": "מחשב Intel Core i5 Dell OPTIPLEX 3090 MT OP3090-5426 Mini Tower דל",
+    "saleprice": 2564,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36442,
+    "name": "מחשב Intel Core i5 Dell OPTIPLEX 3090 MT OP3090-5021 Mini Tower דל",
+    "saleprice": 2132,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36444,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3090 MFF OP-RD33-13184 Mini PC דל",
+    "saleprice": 2430,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36445,
+    "name": "מחשב Intel Core i5 Dell OPTIPLEX 3090 MT OP3090-5403 Mini Tower דל",
+    "saleprice": 2433,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36447,
+    "name": "מחשב Intel Core i5 Dell Optiplex 7090 MFF OP-RD33-13069 Mini PC דל",
+    "saleprice": 3340,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36448,
+    "name": "מחשב Intel Core i3 Dell OptiPlex 3090 MFF OP3090-1014 Mini PC דל",
+    "saleprice": 1910,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36449,
+    "name": "מחשב Intel Core i5 Dell Vostro 3888 MT V3888-5014 Mini Tower דל",
+    "saleprice": 2150,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36450,
+    "name": "מחשב Intel Core i5 Dell Optiplex 3090 MT OP-RD33-13195 Mini Tower דל",
+    "saleprice": 2567,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36451,
+    "name": "מחשב Intel Core i5 Dell Optiplex 3090 MFF OP-RD33-13185 Mini PC דל",
+    "saleprice": 2349,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36455,
+    "name": "מחשב Intel Core i5 Dell Optiplex 7090 MFF OP-RD33-13070 Mini PC דל",
+    "saleprice": 3235,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36457,
+    "name": "מחשב Intel Core i5 Dell Vostro 3888 V3888-5006 Mini Tower דל",
+    "saleprice": 1973,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36458,
+    "name": "מחשב Intel Core i5 Dell Optiplex 7090 MT OP-RD33-13340 Mini Tower דל",
+    "saleprice": 2760,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36459,
+    "name": "מחשב Intel Core i5 Dell Optiplex 3090 SFF OP-RD33-13318 Mini Tower דל",
+    "saleprice": 2060,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36460,
+    "name": "מחשב Intel Core i5 Dell Optiplex 3090 MT OP-RD33-13196 Mini Tower דל",
+    "saleprice": 2225,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36461,
+    "name": "מחשב Intel Core i5 Dell Optiplex 3090 MT OP-RD33-13193 Mini Tower דל",
+    "saleprice": 2590,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36462,
+    "name": "מחשב Intel Core i5 Dell Optiplex 7090 MT OP-RD33-13339 Mini Tower דל",
+    "saleprice": 3020,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36463,
+    "name": "מחשב Intel Core i5 Dell Optiplex 3090 MT OP-RD33-13194 Mini Tower דל",
+    "saleprice": 2160,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36464,
+    "name": "מחשב נייח Intel Core i5 Dell Optiplex 3000 SFF OP-RD33-13895 דל",
+    "saleprice": 27,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36466,
+    "name": "מחשב Intel Core i7 Dell Optiplex 7090 MT OP-RD33-13342 Mini Tower דל",
+    "saleprice": 3743,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36467,
+    "name": "מחשב Intel Core i7 Dell Optiplex 7090 MT OP-RD33-13341 Mini Tower דל",
+    "saleprice": 4055,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36469,
+    "name": "מחשב Intel Core i3 Dell OptiPlex 3090 MFF OP-RD33-13183 Mini PC דל",
+    "saleprice": 2040,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36471,
+    "name": "מחשב Intel Core i3 Dell Optiplex 3090 MFF OP-RD33-13182 Mini PC דל",
+    "saleprice": 2040,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36475,
+    "name": "מחשב Intel Core i5 Dell Vostro 3888 MT VM-RD09-13175 Mini Tower דל",
+    "saleprice": 2417,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36477,
+    "name": "מחשב Intel Core i5 Dell Vostro 3888 MT VM-RD09-13178 Mini Tower דל",
+    "saleprice": 2275,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36479,
+    "name": "מחשב Intel Core i5 Dell Vostro PC 3888 V3888-5438 Mini Tower דל",
+    "saleprice": 2709,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36480,
+    "name": "מחשב Intel Core i5 Dell Vostro 3888 MT VM-RD09-13177 Mini Tower דל",
+    "saleprice": 2530,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36481,
+    "name": "מחשב Optiplex 7090 SFF I5-256-8GB  דל",
+    "saleprice": 32,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36483,
+    "name": "מחשב Intel Core i5 Dell Vostro 3888 MT VM-RD09-13176 Mini Tower דל",
+    "saleprice": 2070,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36484,
+    "name": "מחשב Intel Core i7 Dell Precision 3650 PM-RD33-13325 Mini Tower דל",
+    "saleprice": 5650,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37018,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7090 MFF I7-256-16GB Mini PC דל",
+    "saleprice": 4751,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37048,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 3090 MFF I5-512-16GB Mini PC דל",
+    "saleprice": 47,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37126,
+    "name": "מחשב Intel Core i3 Dell Vostro 3888 MT VM-RD09-13302 Mini Tower דל",
+    "saleprice": 2170,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37127,
+    "name": "מחשב Intel Core i5 Dell OptiPlex 7090 MFF OP7090-4244 Mini PC דל",
+    "saleprice": 2890,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37128,
+    "name": "מחשב Intel Core i5 Dell Vostro PC 3888 V3888-5429 Mini Tower דל",
+    "saleprice": 2190,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37129,
+    "name": "מחשב Intel Core i7 Dell OptiPlex 7090 MT OP7090-7026 Mini Tower דל",
+    "saleprice": 3580,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37137,
+    "name": "מחשב Intel Core i9 Dell XPS 8950 XP-RD33-13369 Mini Tower דל",
+    "saleprice": 10130,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37138,
+    "name": "מחשב Intel Core i9 Dell XPS 8950 XPS8950-9231 דל",
+    "saleprice": 103,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37139,
+    "name": "מחשב Intel Core i7 Dell XPS 8950 XP-RD33-13368 Mini Tower דל",
+    "saleprice": 10800,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 37147,
+    "name": "מחשב Intel Core i3 Dell Vostro 3888 MT VM-RD09-13304 Mini Tower דל",
+    "saleprice": 2210,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38046,
+    "name": "מחשב נייח Intel Core i5 Dell Optiplex 3000 MT OP-RD33-13656 דל",
+    "saleprice": 23,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38050,
+    "name": "מחשב נייח Intel Core i5 Dell Optiplex 3000 MT OP-RD33-13655 דל",
+    "saleprice": 28,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38140,
+    "name": "מחשב נייח Intel Core i5 Dell Vostro 3910 MT VM-RD09-13867 דל",
+    "saleprice": 18,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38141,
+    "name": "מחשב נייח Intel Core i3 Dell Vostro 3910 MT VM-RD09-13866 דל",
+    "saleprice": 15,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38142,
+    "name": "מחשב נייח Intel Core i5 Dell Vostro 3910 MT VM-RD09-13869 דל",
+    "saleprice": 18,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38143,
+    "name": "מחשב נייח Intel Core i3 Dell Optiplex 3000 MFF OP-RD33-13884 דל",
+    "saleprice": 21,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38145,
+    "name": "מחשב נייח Intel Core i3 Dell Optiplex 3000 MFF OP-RD33-13884 דל",
+    "saleprice": 21,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38146,
+    "name": "מחשב נייח Intel Core i5 Dell Optiplex 3000 MFF OP-RD33-13886 דל",
+    "saleprice": 27,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38147,
+    "name": "מחשב נייח Intel Core i5 Dell Optiplex 3000 MFF O-PRD33-13887 דל",
+    "saleprice": 23,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38148,
+    "name": "מחשב נייח Intel Core i5 Dell Optiplex 7000 MFF OP-RD33-13888 דל",
+    "saleprice": 32,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38149,
+    "name": "מחשב נייח Intel Core i7 Dell Precision 3660 PM-RD33-13821 דל",
+    "saleprice": 85,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38150,
+    "name": "מחשב נייח Intel Core i7 Dell Precision 3660 PM-RD33-13820 דל",
+    "saleprice": 66,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38152,
+    "name": "מחשב נייח Intel Core i7 Dell Precision 3660 PM-RD33-13846 דל",
+    "saleprice": 74,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38154,
+    "name": "מחשב נייח Intel Core i7 Dell Precision 3660 PM-RD33-13845 דל",
+    "saleprice": 70,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38155,
+    "name": "מחשב נייח Intel Core i9 Dell Precision 3660 PM-RD33-13823 דל",
+    "saleprice": 109,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38156,
+    "name": "מחשב נייח Intel Core i7 Dell Precision 3660 PM-RD33-13822 דל",
+    "saleprice": 94,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38163,
+    "name": "מחשב נייח Intel Core i9 Dell Precision 3660 PM-RD33-13849 דל",
+    "saleprice": 165,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38181,
+    "name": "מחשב Intel Core i7-512-32GB GEFORCE Dell Vostro 3000דל",
+    "saleprice": 6472,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38467,
+    "name": "מחשב נייח Intel Core i3 Dell Vostro I3-256-8GB דל",
+    "saleprice": 2672,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38475,
+    "name": "מחשב נייח Intel Core i5 Dell Vostro 3000 Quadro I5-512-16GB דל",
+    "saleprice": 5651,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38874,
+    "name": "מחשב נייח Intel Core i7 Dell Precision 3660 i7-1000-32GB דל",
+    "saleprice": 15671,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39018,
+    "name": "מחשב נייח Intel Core i5 Dell Vostro PC MT 3910 V3910-5004 דל",
+    "saleprice": 17,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39019,
+    "name": "מחשב נייח Intel Core i5 Dell Vostro PC MT 3910 V3910-5033 דל",
+    "saleprice": 18,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39020,
+    "name": "מחשב נייח Intel Core i7 Dell OptiPlex 7000 Micro OP7000-7840 דל",
+    "saleprice": 39,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39021,
+    "name": "מחשב נייח Intel Core i5 Dell Optiplex 3000 OP3000-4621 דל",
+    "saleprice": 26,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39022,
+    "name": "מחשב נייח Intel Core i5 Dell Vostro PC MT 3910 V3910-5242 דל",
+    "saleprice": 2305,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39023,
+    "name": "מחשב נייח Intel Core i7 Dell Vostro PC MT 3910 V3910-7017 דל",
+    "saleprice": 30,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39088,
+    "name": "מחשב נייח Intel Core i5 Dell Optiplex 3000 OP3000-4549 דל",
+    "saleprice": 26,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39090,
+    "name": "מחשב נייח Intel Core i5 Dell Optiplex 3000 OP3000-4513 דל",
+    "saleprice": 26,
+    "catCode": 233,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39092,
+    "name": "מחשב נייח Intel Core i5 Dell Vostro 3910 MT VM-RD09-13598 דל",
+    "saleprice": 21,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39096,
+    "name": "מחשב נייח Intel Core i3 Dell Vostro 3910 MT VM-RD09-13596 דל",
+    "saleprice": 17,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39217,
+    "name": "מחשב נייח Intel Core i9 Dell Precision 3660 PM-RD33-13544 דל",
+    "saleprice": 123,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39226,
+    "name": "מחשב נייח Intel Core i7 Dell XPS 8950 XP-RD33-14027 דל",
+    "saleprice": 86,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39227,
+    "name": "מחשב נייח Intel Core i7 Dell Precision T3660 T3660-7881 דל",
+    "saleprice": 9225,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39228,
+    "name": "מחשב נייח Intel Core i7 Dell XPS 8950 XP-RD33-14026 דל",
+    "saleprice": 107,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39229,
+    "name": "מחשב נייח Intel Core i9 Dell XPS 8950 XP-RD33-14025 דל",
+    "saleprice": 118,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39239,
+    "name": "מחשב נייח Intel Core i7 Dell Precision 3660 PM-RD33-13835 דל",
+    "saleprice": 86,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39241,
+    "name": "מחשב נייח Intel Core i9 Dell Precision T3660 T3660-9774 דל",
+    "saleprice": 134,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39316,
+    "name": "מחשב נייח Intel Core i5 Dell Vostro PC MT 3910 i5-12400 8GB 256GB WIN11Pro דל",
+    "saleprice": 3179,
+    "catCode": 232,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39470,
+    "name": "מחשב נייח Intel Core i7 Dell XPS PC I7-1000-32GB דל",
+    "saleprice": 15432,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39471,
+    "name": "מחשב נייח Intel Core i7 Dell XPS PC I7-1000-64GB דל",
+    "saleprice": 16632,
+    "catCode": 250,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39718,
+    "name": "מחשב נייח Intel Core i9 Dell Precision T3660 T3660-9324 דל",
+    "saleprice": 87,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39719,
+    "name": "מחשב נייח Intel Core i7 Dell Precision 3660PM-RD33-13848 דל",
+    "saleprice": 115,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39720,
+    "name": "מחשב נייח Intel Core i9 Dell Precision T3660 T3660-9644 דל",
+    "saleprice": 114,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39722,
+    "name": "מחשב נייח Intel Core i9 Dell Precision T3660 T3660-9750 דל",
+    "saleprice": 133,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39723,
+    "name": "מחשב נייח Intel Core i9 Dell Precision T3660 T3660-9980 דל",
+    "saleprice": 16990,
+    "catCode": 251,
+    "parentId": 230,
+    "additionalProps": ""
+  }
+]

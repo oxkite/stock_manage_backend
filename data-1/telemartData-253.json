@@ -1,0 +1,842 @@
+[
+  {
+    "proid": 20976,
+    "name": "מחשב Intel Core i7 HP EliteDesk 800 G2 MT V1F39ES Mini Tower",
+    "saleprice": 4290,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20981,
+    "name": "מחשב Intel Core i3 HP EliteDesk 800 G1 J4U70EA",
+    "saleprice": 4525,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": null
+  },
+  {
+    "proid": 20985,
+    "name": "מחשב Intel Core i7 HP Z240 Workstation L8T12AV#ABT Tower",
+    "saleprice": 4422,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 20986,
+    "name": "מחשב Intel Core i7 HP Z240 Workstation L8T12AV#A82 Tower",
+    "saleprice": 5627,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21057,
+    "name": "מחשב Intel Core i3 HP 280 G2 V7Q91EA Mini Tower",
+    "saleprice": 1905,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21059,
+    "name": "מחשב Intel Core i7 HP Z240 Workstation L8T12AV#ABV Tower",
+    "saleprice": 7076,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21063,
+    "name": "מחשב Intel Core i7 HP Z240 Workstation L8T12AV#A84 Tower",
+    "saleprice": 6449,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 21064,
+    "name": "מחשב Intel Core i7 HP Z240 Workstation L8T12AV#A83",
+    "saleprice": 6596,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 23869,
+    "name": "מחשב Intel Core i5 HP 290 G1 MT 3EC26ES Mini Tower ",
+    "saleprice": 2385,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": "<img class=\"img-responsive\" alt=\"\" src=\"http://www.ktzat.co.il/userfiles/images/1%28183%29.jpg\" />"
+  },
+  {
+    "proid": 25194,
+    "name": "מחשב נייח  HP EliteDesk 8000 SFF I5-128-4GB מציאון עודפים",
+    "saleprice": 1690,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25330,
+    "name": "מחשב נייח  HP EliteDesk 8000 SFF I5-256-8GB מציאון עודפים",
+    "saleprice": 2473,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25378,
+    "name": "מחשב Intel Core i3 HP 290 G2 5FY78EA Mini Tower",
+    "saleprice": 2270,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25379,
+    "name": "מחשב Intel Pentium HP 290 G1 MT 1QN39EA Mini Tower ",
+    "saleprice": 1920,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25380,
+    "name": "מחשב Intel Core i5 HP 290 G2 3ZD18EA Tower ",
+    "saleprice": 2630,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25381,
+    "name": "מחשב Intel Core i7 HP 290 G2 5FY23EA Mini Tower",
+    "saleprice": 2430,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25382,
+    "name": "מחשב Intel Core i5 HP 290 G2 3ZD02EA Mini Tower ",
+    "saleprice": 2379,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25383,
+    "name": "מחשב Intel Core i5 HP 290 G2 5FY81EA Mini Tower ",
+    "saleprice": 2760,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25384,
+    "name": "מחשב Intel Pentium HP 290 G2 Microtower 3ZD10EA Mini Tower ",
+    "saleprice": 1540,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25385,
+    "name": "מחשב Intel Core i3 HP 290 G2 Microtower 3ZD05EA Tower ",
+    "saleprice": 2300,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25386,
+    "name": "מחשב Intel Core i5 HP 290 G2 3ZD04EA Mini PC ",
+    "saleprice": 1875,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25387,
+    "name": "מחשב Intel Core i7 HP 290 G2 Microtower 4NU26EA Mini PC ",
+    "saleprice": 2650,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25388,
+    "name": "מחשב נייח  HP EliteDesk 8000 SFF I5-512-8GB מציאון עודפים",
+    "saleprice": 2935,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25389,
+    "name": "מחשב Intel Core i7 HP 290 G2 I7-512-8GB Mini Tower ",
+    "saleprice": 3325,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25390,
+    "name": "מחשב Intel Core i7 HP 290 G2 I7-512-16GB Mini Tower ",
+    "saleprice": 3875,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25391,
+    "name": "מחשב Intel Core i5 HP 290 G2 I5-512-8GB Mini Tower ",
+    "saleprice": 3531,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 25525,
+    "name": "מחשב נייח  HP ProDesk 600 I3-500-4GB מציאון עודפים",
+    "saleprice": 1375,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27045,
+    "name": "מחשב Intel Core i7 HP OMEN 880-197nj 3RB01EA ",
+    "saleprice": 9685,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27046,
+    "name": "מחשב Intel Core i7 HP Z2 G4 2YW27AV Tower",
+    "saleprice": 9830,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27048,
+    "name": "מחשב Intel Core i7 HP OMEN 875-0000nj 5RA08EA",
+    "saleprice": 8390,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27049,
+    "name": "מחשב HP Z4 G4 Workstation 1JP11AV#ABB Tower ",
+    "saleprice": 8785,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27051,
+    "name": "מחשב Intel Core i7 HP Z2 G4 2YW27AV#ABB Tower",
+    "saleprice": 7160,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27057,
+    "name": "מחשב Intel Core i7 HP Z2 G4 2YW27AV#ABT Tower",
+    "saleprice": 6750,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27286,
+    "name": "מחשב נייח  HP ProDesk 600 I3-1000-8GB מציאון עודפים",
+    "saleprice": 1775,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27873,
+    "name": "HP OMEN 875 Obelisk Gaming Desktop i7-9700K",
+    "saleprice": 11780,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27874,
+    "name": "HP OMEN 875 Obelisk Gaming Desktop i7-9700K",
+    "saleprice": 13785,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27875,
+    "name": "מחשב Intel Core i7 HP OMEN 875-1060-16gb",
+    "saleprice": 5742,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27876,
+    "name": "מחשב Intel Core i7 HP OMEN 875-1060-32gb",
+    "saleprice": 6549,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 27877,
+    "name": "HP OMEN 875 Obelisk Gaming Desktop i7-9700K",
+    "saleprice": 13972,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31031,
+    "name": "מחשב Intel Core i5 HP 290 G3 9LB91EA Mini Tower ",
+    "saleprice": 2535,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31032,
+    "name": "מחשב Intel Core i5 HP 290 G3 9LB99EA Mini Tower ",
+    "saleprice": 2639,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31034,
+    "name": "מחשב Intel Core i5 HP 290 G3 9LC00EA Mini Tower ",
+    "saleprice": 2320,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 31035,
+    "name": "מחשב Intel Core i5 HP 290 G3 9LC12EA Mini Tower ",
+    "saleprice": 3065,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32019,
+    "name": "HP OMEN Gaming Desktop i7-10700K-2080",
+    "saleprice": 10972,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32020,
+    "name": "HP OMEN Gaming Desktop i7-10700K-2080",
+    "saleprice": 8780,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32021,
+    "name": "HP OMEN Gaming Desktop i7-10700K-2070",
+    "saleprice": 7950,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32022,
+    "name": "HP OMEN Gaming Desktop i7-10700K-2070",
+    "saleprice": 7390,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32023,
+    "name": "HP OMEN Gaming Desktop i7-10700K-2060",
+    "saleprice": 6950,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32024,
+    "name": "HP OMEN Gaming Desktop i7-10700K-2060",
+    "saleprice": 6350,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32025,
+    "name": "HP OMEN Gaming Desktop i7-11700K-3060",
+    "saleprice": 74,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32026,
+    "name": "HP OMEN Gaming Desktop i7-11700K-3060",
+    "saleprice": 74,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32027,
+    "name": "HP OMEN Gaming Desktop i7-11700K-3070",
+    "saleprice": 89,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32028,
+    "name": "HP OMEN Gaming Desktop i7-11700K-3070",
+    "saleprice": 89,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32029,
+    "name": "HP OMEN Gaming Desktop i7-11700K-3080",
+    "saleprice": 12450,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32030,
+    "name": "HP OMEN Gaming Desktop i7-11700K-3080",
+    "saleprice": 11839,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32031,
+    "name": "HP OMEN Gaming Desktop i7-11700K-3090",
+    "saleprice": 15359,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32032,
+    "name": "HP OMEN Gaming Desktop i7-11700K-3090",
+    "saleprice": 15120,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32033,
+    "name": "HP OMEN Gaming Desktop i9-11900K-3070",
+    "saleprice": 104,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32034,
+    "name": "HP OMEN Gaming Desktop i9-11900K-3080",
+    "saleprice": 128,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32035,
+    "name": "HP OMEN Gaming Desktop i9-11900K-3090",
+    "saleprice": 15850,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32088,
+    "name": "HP OMEN Gaming Desktop i7-11700K-1660",
+    "saleprice": 67,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32426,
+    "name": "HP Pavilion Gaming Desktop i5-10400-1650 Super",
+    "saleprice": 44,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32427,
+    "name": "HP Pavilion Gaming Desktop i5-10400-1650 Super",
+    "saleprice": 44,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32428,
+    "name": "HP OMEN X Gaming Desktop i7-7820HK-1080",
+    "saleprice": 7946,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32429,
+    "name": "HP OMEN X Gaming Desktop i7-7820HK-1080",
+    "saleprice": 7650,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32430,
+    "name": "HP OMEN X Gaming Desktop i7-7820HK-1080",
+    "saleprice": 8627,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32431,
+    "name": "HP Pavilion Gaming Desktop i5-10400-1650 Super",
+    "saleprice": 44,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32535,
+    "name": "מחשב Intel Core i7 HP EliteDesk 800 G6 1D2T4EA Mini PC",
+    "saleprice": 5160,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 32548,
+    "name": "מחשב Intel Core i5 HP EliteDesk 800 G6 1D2Y1EA Mini PC",
+    "saleprice": 4105,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 33556,
+    "name": "מחשב Intel Core HP 290 I3-256-8GB Mini Tower ",
+    "saleprice": 27,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 34136,
+    "name": "מחשב Intel Core i7 HP 290 G4 MT 294X7EA Mini Tower",
+    "saleprice": 3310,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36125,
+    "name": "מחשב Intel Core i7 HP 290 G4 MT i7-512-16GB Mini Tower",
+    "saleprice": 58,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36438,
+    "name": "מחשב Intel Core i5 HP 290 G4 123P3EA Mini Tower",
+    "saleprice": 1990,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36440,
+    "name": "מחשב מיני Intel Core i7 HP ProDesk 400 G6 205T8ES Mini PC",
+    "saleprice": 2950,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36443,
+    "name": "מחשב Intel Core i7 HP 290 G4 23H44EA Mini Tower",
+    "saleprice": 2420,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36454,
+    "name": "מחשב Intel Core i3 HP 290 G4 123P4EA Mini Tower",
+    "saleprice": 1670,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36470,
+    "name": "מחשב Intel Core i5 HP 290 G4 123Q1EA Mini PC",
+    "saleprice": 2410,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36862,
+    "name": "מחשב Intel Core i5 HP 290 G4 I5-256-8GB ",
+    "saleprice": 29,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 36863,
+    "name": "מחשב Intel Core i5 HP 290 G4 I5-512-16GB ",
+    "saleprice": 35,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38290,
+    "name": "HP OMEN Gaming Desktop i9-12900K-3090 64GB",
+    "saleprice": 163,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38291,
+    "name": "HP OMEN Gaming Desktop i7-12700K-3090 32GB",
+    "saleprice": 156,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38292,
+    "name": "HP OMEN Gaming Desktop i7-12700K-3070 32GB",
+    "saleprice": 98,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38293,
+    "name": "HP OMEN Gaming Desktop i9-12900K-3080 32GB",
+    "saleprice": 128,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38294,
+    "name": "HP OMEN Gaming Desktop i7-12700K-3080 32GB",
+    "saleprice": 118,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38295,
+    "name": "HP OMEN Gaming Desktop i7-12700K-3060 32GB",
+    "saleprice": 73,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38296,
+    "name": "HP OMEN Gaming Desktop i7-12700K-3060 16GB",
+    "saleprice": 68,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38871,
+    "name": "מחשב נייח גיימינג HP OMEN Gaming Desktop i7-11700K rtx 3090 2TB 32GB",
+    "saleprice": 123,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 38872,
+    "name": "מחשב נייח גיימינג HP OMEN Gaming Desktop i9-11900K rtx 3090 2TB 64GB",
+    "saleprice": 157,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39212,
+    "name": "מחשב נייח Intel Core i5 HP Pavilion Gaming Desktop TG01 457M6EA",
+    "saleprice": 50,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39218,
+    "name": "מחשב נייח Intel Core i7 HP Z2 G9 5F0H0EA",
+    "saleprice": 82,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39221,
+    "name": "מחשב נייח Intel Core i7 HP Pavilion Gaming TG01-2004nj 457N1EA",
+    "saleprice": 58,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39222,
+    "name": "מחשב נייח Intel Core i7 HP Pavilion Gaming TG01-2004nj 457N1EA",
+    "saleprice": 58,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39224,
+    "name": "מחשב נייח AMD Ryzen 7 HP Pavilion Gaming TG01 457N2EA",
+    "saleprice": 5170,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39225,
+    "name": "מחשב נייח Intel Core i5 HP OMEN Desktop GT13-1214nj 50C05EA#ABT",
+    "saleprice": 62,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39625,
+    "name": "מחשב נייח Intel Core i7 HP Victus Gaming Desktop RTX 3060Ti",
+    "saleprice": 6850,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39707,
+    "name": "מחשב נייח Intel Core i5 HP Elite Tower 800 G9 5V929EA",
+    "saleprice": 38,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39708,
+    "name": "מחשב נייח Intel Core i7 HP 800 G9 5V930EA",
+    "saleprice": 42,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39717,
+    "name": "מחשב נייח Intel Core i7 HP Victus 15L TG02-1000nj 8C058EA",
+    "saleprice": 54,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39725,
+    "name": "מחשב נייח Intel Core i7 HP Omen 25L 7Z4H6EA",
+    "saleprice": 97,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39726,
+    "name": "מחשב נייח Intel Core i7 HP Z2 Tower G9 5F0V0EA",
+    "saleprice": 76,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39727,
+    "name": "מחשב נייח Intel Core i7 HP Z2 Tower G9 5F0V2EA",
+    "saleprice": 85,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39728,
+    "name": "מחשב נייח Intel Core i7 HP Z2 Tower G9 86B76EA",
+    "saleprice": 55,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39729,
+    "name": "מחשב נייח Intel Core i7 HP Z2 Tower G9 86B75EA",
+    "saleprice": 87,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39730,
+    "name": "מחשב נייח Intel Core i9 HP Z2 Tower G9 86B73EA",
+    "saleprice": 96,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39731,
+    "name": "מחשב נייח Intel Core i9 HP Z2 Tower G9 86B74EA",
+    "saleprice": 119,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  },
+  {
+    "proid": 39732,
+    "name": "מחשב נייח Intel Core i9 HP Z2 Tower G9 86B72EA",
+    "saleprice": 14460,
+    "catCode": 253,
+    "parentId": 0,
+    "additionalProps": ""
+  }
+]
